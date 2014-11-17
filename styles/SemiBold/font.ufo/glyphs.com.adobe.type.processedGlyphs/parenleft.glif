@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="parenleft">
+  <advance width="328" />
+  <unicode hex="0028" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="344" y="-196" />
+      <point x="232" y="-57" />
+      <point x="179" y="118" />
+      <point type="curve" x="179" y="256" />
+      <point x="179" y="399" />
+      <point x="231" y="575" />
+      <point type="curve" x="335" y="707" />
+      <point type="line" x="208" y="707" />
+      <point x="110" y="587" />
+      <point x="52" y="435" />
+      <point type="curve" x="52" y="260" />
+      <point x="52" y="89" />
+      <point x="107" y="-62" />
+      <point type="curve" x="214" y="-196" />
+    </contour>
+  </outline>
+</glyph>

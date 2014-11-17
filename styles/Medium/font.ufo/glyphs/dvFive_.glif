@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvFive" format="1">
+  <advance width="525"/>
+  <outline>
+    <contour>
+      <point x="93" y="284" type="line"/>
+      <point x="129" y="301"/>
+      <point x="186" y="319"/>
+      <point x="243" y="319" type="curve" smooth="yes"/>
+      <point x="321" y="319"/>
+      <point x="374" y="281"/>
+      <point x="374" y="211" type="curve" smooth="yes"/>
+      <point x="374" y="127"/>
+      <point x="321" y="83"/>
+      <point x="216" y="83" type="curve" smooth="yes"/>
+      <point x="162" y="83"/>
+      <point x="100" y="99"/>
+      <point x="62" y="122" type="curve"/>
+      <point x="62" y="27" type="line"/>
+      <point x="111" y="2"/>
+      <point x="175" y="-7"/>
+      <point x="232" y="-7" type="curve" smooth="yes"/>
+      <point x="387" y="-7"/>
+      <point x="476" y="79"/>
+      <point x="476" y="208" type="curve" smooth="yes"/>
+      <point x="476" y="329"/>
+      <point x="394" y="406"/>
+      <point x="258" y="406" type="curve" smooth="yes"/>
+      <point x="205" y="406"/>
+      <point x="144" y="389"/>
+      <point x="93" y="365" type="curve"/>
+    </contour>
+    <contour>
+      <point x="432" y="570" type="line"/>
+      <point x="432" y="655" type="line"/>
+      <point x="93" y="655" type="line"/>
+      <point x="93" y="570" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="613" type="line"/>
+      <point x="93" y="345" type="line"/>
+      <point x="190" y="345" type="line"/>
+      <point x="190" y="613" type="line"/>
+    </contour>
+  </outline>
+</glyph>

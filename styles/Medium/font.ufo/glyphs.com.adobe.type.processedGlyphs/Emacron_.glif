@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Emacron">
+  <advance width="514" />
+  <unicode hex="0112" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="418" y="842" />
+      <point type="line" x="114" y="842" />
+      <point type="line" x="114" y="774" />
+      <point type="line" x="418" y="774" />
+    </contour>
+    <contour>
+      <point type="line" x="176" y="86" />
+      <point type="line" x="176" y="294" />
+      <point type="line" x="425" y="294" />
+      <point type="line" x="425" y="380" />
+      <point type="line" x="176" y="380" />
+      <point type="line" x="176" y="588" />
+      <point type="line" x="457" y="588" />
+      <point type="line" x="457" y="674" />
+      <point type="line" x="73" y="674" />
+      <point type="line" x="73" y="0" />
+      <point type="line" x="462" y="0" />
+      <point type="line" x="462" y="86" />
+    </contour>
+  </outline>
+</glyph>

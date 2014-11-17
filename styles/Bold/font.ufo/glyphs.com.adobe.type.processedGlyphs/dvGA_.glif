@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvGA">
+  <advance width="585" />
+  <unicode hex="0917" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-30" y="671" />
+      <point type="line" x="-30" y="559" />
+      <point type="line" x="123" y="559" />
+      <point type="line" x="123" y="361" />
+      <point x="123" y="338" />
+      <point x="114" y="315" />
+      <point type="curve" x="79" y="315" />
+      <point x="52" y="315" />
+      <point x="30" y="327" />
+      <point type="curve" x="30" y="327" />
+      <point type="line" x="30" y="217" />
+      <point x="65" y="205" />
+      <point x="87" y="203" />
+      <point type="curve" x="119" y="203" />
+      <point x="198" y="203" />
+      <point x="264" y="244" />
+      <point type="curve" x="264" y="345" />
+      <point type="line" x="264" y="559" />
+      <point type="line" x="375" y="559" />
+      <point type="line" x="375" y="0" />
+      <point type="line" x="515" y="0" />
+      <point type="line" x="515" y="559" />
+      <point type="line" x="615" y="559" />
+      <point type="line" x="615" y="671" />
+    </contour>
+  </outline>
+</glyph>

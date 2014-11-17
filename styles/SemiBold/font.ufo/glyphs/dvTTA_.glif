@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTTA" format="1">
+  <advance width="510"/>
+  <unicode hex="091F"/>
+  <outline>
+    <contour>
+      <point x="435" y="660" type="move" name="abvm.candra"/>
+    </contour>
+    <contour>
+      <point x="435" y="660" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="435" y="660" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="262" y="8" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="435" y="660" type="move" name="abvm.reph"/>
+    </contour>
+    <contour>
+      <point x="262" y="-21" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="332" y="114" type="curve" smooth="yes"/>
+      <point x="236" y="114"/>
+      <point x="168" y="158"/>
+      <point x="168" y="242" type="curve" smooth="yes"/>
+      <point x="168" y="326"/>
+      <point x="236" y="375"/>
+      <point x="350" y="375" type="curve" smooth="yes"/>
+      <point x="368" y="375"/>
+      <point x="417" y="373"/>
+      <point x="435" y="369" type="curve"/>
+      <point x="435" y="565" type="line"/>
+      <point x="537" y="565" type="line"/>
+      <point x="537" y="660" type="line"/>
+      <point x="-27" y="660" type="line"/>
+      <point x="-27" y="565" type="line"/>
+      <point x="319" y="565" type="line"/>
+      <point x="319" y="469" type="line"/>
+      <point x="314" y="469"/>
+      <point x="308" y="469"/>
+      <point x="303" y="469" type="curve" smooth="yes"/>
+      <point x="143" y="466"/>
+      <point x="49" y="368"/>
+      <point x="49" y="246" type="curve" smooth="yes"/>
+      <point x="49" y="100"/>
+      <point x="156" y="14"/>
+      <point x="324" y="14" type="curve" smooth="yes"/>
+      <point x="376" y="14"/>
+      <point x="441" y="29"/>
+      <point x="477" y="48" type="curve"/>
+      <point x="477" y="154" type="line"/>
+      <point x="447" y="135"/>
+      <point x="386" y="114"/>
+    </contour>
+  </outline>
+</glyph>

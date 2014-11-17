@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="tcedilla">
+  <advance width="369" />
+  <unicode hex="0163" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="57" y="-243" />
+      <point type="line" x="121" y="-243" />
+      <point type="line" x="233" y="-51" />
+      <point type="line" x="141" y="-51" />
+    </contour>
+    <contour>
+      <point type="line" x="182" y="443" />
+      <point type="line" x="322" y="443" />
+      <point type="line" x="322" y="507" />
+      <point type="line" x="182" y="507" />
+      <point type="line" x="182" y="633" />
+      <point type="line" x="103" y="633" />
+      <point type="line" x="103" y="507" />
+      <point type="line" x="22" y="507" />
+      <point type="line" x="22" y="443" />
+      <point type="line" x="103" y="443" />
+      <point type="line" x="103" y="148" />
+      <point x="103" y="51" />
+      <point x="147" y="-5" />
+      <point type="curve" x="253" y="-5" />
+      <point x="274" y="-5" />
+      <point x="307" y="2" />
+      <point type="curve" x="327" y="13" />
+      <point type="line" x="327" y="88" />
+      <point x="310" y="75" />
+      <point x="283" y="65" />
+      <point type="curve" x="258" y="65" />
+      <point x="207" y="65" />
+      <point x="182" y="93" />
+      <point type="curve" x="182" y="146" />
+    </contour>
+  </outline>
+</glyph>

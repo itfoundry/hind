@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvGx" format="1">
+  <advance width="322"/>
+  <outline>
+    <contour>
+      <point x="30" y="217" type="line"/>
+      <point x="65" y="205"/>
+      <point x="87" y="203"/>
+      <point x="119" y="203" type="curve" smooth="yes"/>
+      <point x="198" y="203"/>
+      <point x="264" y="244"/>
+      <point x="264" y="345" type="curve" smooth="yes"/>
+      <point x="264" y="619" type="line"/>
+      <point x="123" y="619" type="line"/>
+      <point x="123" y="361" type="line" smooth="yes"/>
+      <point x="123" y="338"/>
+      <point x="114" y="315"/>
+      <point x="79" y="315" type="curve" smooth="yes"/>
+      <point x="52" y="315"/>
+      <point x="30" y="327"/>
+      <point x="30" y="327" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-30" y="559" type="line"/>
+      <point x="352" y="559" type="line"/>
+      <point x="352" y="671" type="line"/>
+      <point x="-30" y="671" type="line"/>
+    </contour>
+    <component base="dvNukta" xOffset="450" yOffset="150"/>
+  </outline>
+</glyph>

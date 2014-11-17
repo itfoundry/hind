@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mu.math" format="1">
+  <advance width="546"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="473" y="507" type="line"/>
+      <point x="394" y="507" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="473" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="151" y="459" type="line"/>
+      <point x="99" y="459" type="line"/>
+      <point x="99" y="158" type="line" smooth="yes"/>
+      <point x="99" y="59"/>
+      <point x="164" y="-6"/>
+      <point x="261" y="-6" type="curve" smooth="yes"/>
+      <point x="360" y="-6"/>
+      <point x="417" y="62"/>
+      <point x="413" y="200" type="curve"/>
+      <point x="394" y="228" type="line"/>
+      <point x="394" y="127"/>
+      <point x="348" y="65"/>
+      <point x="273" y="65" type="curve" smooth="yes"/>
+      <point x="212" y="65"/>
+      <point x="151" y="103"/>
+      <point x="151" y="178" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="151" y="507" type="line"/>
+      <point x="73" y="507" type="line"/>
+      <point x="73" y="-179" type="line"/>
+      <point x="151" y="-179" type="line"/>
+    </contour>
+  </outline>
+</glyph>

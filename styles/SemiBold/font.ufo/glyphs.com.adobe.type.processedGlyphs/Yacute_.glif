@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Yacute">
+  <advance width="624" />
+  <unicode hex="00DD" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="494" y="892" />
+      <point type="line" x="368" y="892" />
+      <point type="line" x="277" y="723" />
+      <point type="line" x="378" y="723" />
+    </contour>
+    <contour>
+      <point type="line" x="606" y="674" />
+      <point type="line" x="459" y="674" />
+      <point type="line" x="413" y="576" />
+      <point x="319" y="384" />
+      <point x="310" y="347" />
+      <point type="curve" x="310" y="347" />
+      <point x="310" y="347" />
+      <point x="298" y="384" />
+      <point type="curve" x="210" y="576" />
+      <point type="line" x="165" y="674" />
+      <point type="line" x="18" y="674" />
+      <point type="line" x="248" y="246" />
+      <point type="line" x="248" y="0" />
+      <point type="line" x="374" y="0" />
+      <point type="line" x="374" y="250" />
+    </contour>
+  </outline>
+</glyph>

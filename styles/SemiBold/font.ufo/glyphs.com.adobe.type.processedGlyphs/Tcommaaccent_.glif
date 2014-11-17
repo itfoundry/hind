@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Tcommaaccent">
+  <advance width="520" />
+  <unicode hex="021A" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="118" y="-255" />
+      <point type="line" x="209" y="-255" />
+      <point type="line" x="323" y="-51" />
+      <point type="line" x="195" y="-51" />
+    </contour>
+    <contour>
+      <point type="line" x="495" y="674" />
+      <point type="line" x="26" y="674" />
+      <point type="line" x="26" y="570" />
+      <point type="line" x="197" y="570" />
+      <point type="line" x="197" y="0" />
+      <point type="line" x="324" y="0" />
+      <point type="line" x="324" y="570" />
+      <point type="line" x="495" y="570" />
+    </contour>
+  </outline>
+</glyph>

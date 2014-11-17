@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Ncaron">
+  <advance width="697" />
+  <unicode hex="0147" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="65" y="0" />
+      <point type="line" x="219" y="0" />
+      <point type="line" x="219" y="279" />
+      <point x="219" y="398" />
+      <point x="204" y="488" />
+      <point type="curve" x="204" y="488" />
+      <point x="204" y="488" />
+      <point x="231" y="401" />
+      <point type="curve" x="302" y="279" />
+      <point type="line" x="463" y="0" />
+      <point type="line" x="632" y="0" />
+      <point type="line" x="632" y="674" />
+      <point type="line" x="478" y="674" />
+      <point type="line" x="478" y="395" />
+      <point x="478" y="264" />
+      <point x="488" y="190" />
+      <point type="curve" x="488" y="190" />
+      <point x="488" y="190" />
+      <point x="466" y="262" />
+      <point type="curve" x="391" y="395" />
+      <point type="line" x="234" y="674" />
+      <point type="line" x="65" y="674" />
+    </contour>
+    <contour>
+      <point type="line" x="415" y="721" />
+      <point type="line" x="571" y="898" />
+      <point type="line" x="432" y="898" />
+      <point type="line" x="353" y="802" />
+      <point type="line" x="274" y="898" />
+      <point type="line" x="135" y="898" />
+      <point type="line" x="291" y="721" />
+    </contour>
+  </outline>
+</glyph>

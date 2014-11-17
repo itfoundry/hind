@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Cacute">
+  <advance width="602" />
+  <unicode hex="0106" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="558" y="647" />
+      <point x="510" y="673" />
+      <point x="454" y="683" />
+      <point type="curve" x="387" y="683" />
+      <point x="196" y="683" />
+      <point x="48" y="546" />
+      <point type="curve" x="48" y="340" />
+      <point x="48" y="122" />
+      <point x="191" y="-8" />
+      <point type="curve" x="390" y="-8" />
+      <point x="451" y="-8" />
+      <point x="517" y="5" />
+      <point type="curve" x="560" y="34" />
+      <point type="line" x="560" y="119" />
+      <point x="520" y="89" />
+      <point x="459" y="68" />
+      <point type="curve" x="396" y="68" />
+      <point x="239" y="68" />
+      <point x="133" y="173" />
+      <point type="curve" x="133" y="340" />
+      <point x="133" y="502" />
+      <point x="245" y="607" />
+      <point type="curve" x="387" y="607" />
+      <point x="469" y="607" />
+      <point x="506" y="592" />
+      <point type="curve" x="558" y="564" />
+    </contour>
+    <contour>
+      <point type="line" x="330" y="727" />
+      <point type="line" x="399" y="727" />
+      <point type="line" x="523" y="883" />
+      <point type="line" x="429" y="883" />
+    </contour>
+  </outline>
+</glyph>

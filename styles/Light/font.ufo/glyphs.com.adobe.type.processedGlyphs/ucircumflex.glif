@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="ucircumflex">
+  <advance width="529" />
+  <unicode hex="00FB" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="263" y="669" />
+      <point type="line" x="350" y="562" />
+      <point type="line" x="414" y="562" />
+      <point type="line" x="295" y="712" />
+      <point type="line" x="232" y="712" />
+      <point type="line" x="113" y="562" />
+      <point type="line" x="177" y="562" />
+    </contour>
+    <contour>
+      <point type="line" x="392" y="507" />
+      <point type="line" x="392" y="225" />
+      <point x="392" y="123" />
+      <point x="332" y="52" />
+      <point type="curve" x="242" y="52" />
+      <point x="177" y="52" />
+      <point x="131" y="92" />
+      <point type="curve" x="131" y="172" />
+      <point type="line" x="131" y="507" />
+      <point type="line" x="70" y="507" />
+      <point type="line" x="70" y="155" />
+      <point x="70" y="59" />
+      <point x="132" y="-7" />
+      <point type="curve" x="231" y="-7" />
+      <point x="306" y="-7" />
+      <point x="364" y="22" />
+      <point type="curve" x="392" y="91" />
+      <point type="line" x="392" y="0" />
+      <point type="line" x="453" y="0" />
+      <point type="line" x="453" y="507" />
+    </contour>
+  </outline>
+</glyph>

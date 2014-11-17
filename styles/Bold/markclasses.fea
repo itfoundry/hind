@@ -1,0 +1,20 @@
+# Created: Mon Nov 17 14:48:05 2014
+# PS Name: Hind-Bold
+# MM Inst: None
+# exported from noApp
+
+@mGC_abvm.candra_n70_671 = [dvmEcandra dvCandrabindu dvmEcandra_Anusvara];
+@mGC_abvm.e_n70_671 = [dvmE dvmAI dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.reph_n70_671 = [dvReph dvReph_Anusvara];
+@mGC_blwm.u_n211_0 = [dvmU dvmUU];
+@mGC_blwm.virama_n211_0 = [dvmvR dvVirama dvRashtrasign];
+
+markClass @mGC_abvm.candra_n70_671 <anchor -70 671> @MC_abvm.candra;
+markClass @mGC_abvm.e_n70_671 <anchor -70 671> @MC_abvm.e;
+markClass @mGC_abvm.reph_n70_671 <anchor -70 671> @MC_abvm.reph;
+markClass @mGC_blwm.u_n211_0 <anchor -211 0> @MC_blwm.u;
+markClass @mGC_blwm.virama_n211_0 <anchor -211 0> @MC_blwm.virama;
+markClass dvAnusvara <anchor -70 671> @MC_abvm.bindu;
+markClass dvReph.amI <anchor 281 735> @MC_abvm.i;
+markClass dvReph_Anusvara.amI <anchor 282 735> @MC_abvm.i;
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvP_RA" format="1">
+  <advance width="582"/>
+  <outline>
+    <contour>
+      <point x="439" y="306" type="line"/>
+      <point x="370" y="386" type="line"/>
+      <point x="370" y="325"/>
+      <point x="331" y="293"/>
+      <point x="281" y="293" type="curve" smooth="yes"/>
+      <point x="233" y="293"/>
+      <point x="207" y="318"/>
+      <point x="207" y="379" type="curve" smooth="yes"/>
+      <point x="207" y="620" type="line"/>
+      <point x="65" y="620" type="line"/>
+      <point x="65" y="385" type="line" smooth="yes"/>
+      <point x="65" y="279"/>
+      <point x="105" y="218"/>
+      <point x="172" y="194" type="curve"/>
+      <point x="9" y="0" type="line"/>
+      <point x="188" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="612" y="559" type="line"/>
+      <point x="612" y="671" type="line"/>
+      <point x="-30" y="671" type="line"/>
+      <point x="-30" y="559" type="line"/>
+    </contour>
+    <contour>
+      <point x="370" y="0" type="line"/>
+      <point x="512" y="0" type="line"/>
+      <point x="512" y="620" type="line"/>
+      <point x="370" y="620" type="line"/>
+    </contour>
+  </outline>
+</glyph>

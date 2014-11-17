@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvP_R">
+  <advance width="335" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="416" y="378" />
+      <point x="376" y="310" />
+      <point x="324" y="258" />
+      <point type="curve" x="258" y="258" />
+      <point x="187" y="258" />
+      <point x="152" y="295" />
+      <point type="curve" x="152" y="392" />
+      <point type="line" x="152" y="575" />
+      <point type="line" x="357" y="575" />
+      <point type="line" x="357" y="642" />
+      <point type="line" x="-22" y="642" />
+      <point type="line" x="-22" y="575" />
+      <point type="line" x="73" y="575" />
+      <point type="line" x="73" y="393" />
+      <point x="73" y="263" />
+      <point x="129" y="204" />
+      <point type="curve" x="226" y="196" />
+      <point type="line" x="41" y="0" />
+      <point type="line" x="143" y="0" />
+      <point type="line" x="455" y="326" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvS_T_RA">
+  <advance width="899" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="702" y="424" />
+      <point x="666" y="458" />
+      <point x="617" y="481" />
+      <point type="curve" x="556" y="481" />
+      <point x="458" y="481" />
+      <point x="391" y="428" />
+      <point type="curve" x="366" y="346" />
+      <point type="line" x="289" y="346" />
+      <point x="304" y="371" />
+      <point x="312" y="403" />
+      <point type="curve" x="312" y="440" />
+      <point type="line" x="312" y="565" />
+      <point type="line" x="702" y="565" />
+    </contour>
+    <contour>
+      <point type="line" x="926" y="660" />
+      <point type="line" x="-27" y="660" />
+      <point type="line" x="-27" y="565" />
+      <point type="line" x="195" y="565" />
+      <point type="line" x="195" y="442" />
+      <point x="195" y="391" />
+      <point x="172" y="358" />
+      <point type="curve" x="101" y="358" />
+      <point type="line" x="32" y="358" />
+      <point type="line" x="32" y="274" />
+      <point type="line" x="223" y="0" />
+      <point type="line" x="364" y="0" />
+      <point type="line" x="179" y="260" />
+      <point x="214" y="255" />
+      <point x="260" y="251" />
+      <point type="curve" x="320" y="251" />
+      <point type="line" x="456" y="251" />
+      <point type="line" x="456" y="265" />
+      <point type="line" x="464" y="265" />
+      <point x="467" y="336" />
+      <point x="505" y="380" />
+      <point type="curve" x="568" y="380" />
+      <point x="614" y="380" />
+      <point x="650" y="352" />
+      <point type="curve" x="673" y="313" />
+      <point type="line" x="413" y="94" />
+      <point type="line" x="493" y="27" />
+      <point type="line" x="702" y="204" />
+      <point type="line" x="702" y="0" />
+      <point type="line" x="820" y="0" />
+      <point type="line" x="820" y="565" />
+      <point type="line" x="926" y="565" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvRashtrasign" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-162" y="0" type="move" name="_blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="-184" y="0" type="line"/>
+      <point x="-303" y="-156" type="line"/>
+      <point x="-228" y="-156" type="line"/>
+      <point x="-131" y="-28" type="line"/>
+      <point x="-35" y="-156" type="line"/>
+      <point x="40" y="-156" type="line"/>
+      <point x="-79" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

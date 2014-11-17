@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvT_RA" format="1">
+  <advance width="565"/>
+  <outline>
+    <contour>
+      <point x="116" y="51" type="line"/>
+      <point x="448" y="258" type="line"/>
+      <point x="421" y="325" type="line"/>
+      <point x="74" y="109" type="line"/>
+    </contour>
+    <contour>
+      <point x="587" y="575" type="line"/>
+      <point x="587" y="642" type="line"/>
+      <point x="-22" y="642" type="line"/>
+      <point x="-22" y="575" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="397" type="curve"/>
+      <point x="307" y="394"/>
+      <point x="373" y="318"/>
+      <point x="392" y="229" type="curve"/>
+      <point x="444" y="266" type="line"/>
+      <point x="412" y="395"/>
+      <point x="319" y="465"/>
+      <point x="205" y="465" type="curve" smooth="yes"/>
+      <point x="143" y="465"/>
+      <point x="87" y="449"/>
+      <point x="55" y="430" type="curve"/>
+      <point x="55" y="357" type="line"/>
+      <point x="90" y="376"/>
+      <point x="145" y="397"/>
+    </contour>
+    <contour>
+      <point x="471" y="586" type="line"/>
+      <point x="392" y="586" type="line"/>
+      <point x="392" y="0" type="line"/>
+      <point x="471" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

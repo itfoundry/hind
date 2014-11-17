@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvRxA" format="1">
+  <advance width="365"/>
+  <unicode hex="0931"/>
+  <outline>
+    <contour>
+      <point x="286" y="634" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="286" y="634" type="move" name="abvm.candra"/>
+    </contour>
+    <contour>
+      <point x="286" y="634" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="286" y="634" type="move" name="abvm.reph"/>
+    </contour>
+    <contour>
+      <point x="234" y="0" type="move" name="blwm.u"/>
+    </contour>
+    <contour>
+      <point x="234" y="0" type="move" name="blwm.virama"/>
+    </contour>
+    <contour>
+      <point x="-22" y="7" type="curve" smooth="yes"/>
+      <point x="-22" y="-20"/>
+      <point x="-3" y="-39"/>
+      <point x="24" y="-39" type="curve" smooth="yes"/>
+      <point x="51" y="-39"/>
+      <point x="72" y="-20"/>
+      <point x="72" y="7" type="curve" smooth="yes"/>
+      <point x="72" y="33"/>
+      <point x="51" y="54"/>
+      <point x="24" y="54" type="curve" smooth="yes"/>
+      <point x="-3" y="54"/>
+      <point x="-22" y="33"/>
+    </contour>
+    <component base="dvRA"/>
+  </outline>
+</glyph>

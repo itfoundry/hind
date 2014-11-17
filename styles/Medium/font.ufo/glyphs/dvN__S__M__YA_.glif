@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_S_M_YA" format="1">
+  <advance width="1559"/>
+  <outline>
+    <contour>
+      <point x="-24" y="570" type="line"/>
+      <point x="526" y="570" type="line"/>
+      <point x="526" y="650" type="line"/>
+      <point x="-24" y="650" type="line"/>
+    </contour>
+    <contour>
+      <point x="119" y="426" type="line"/>
+      <point x="55" y="426"/>
+      <point x="26" y="393"/>
+      <point x="26" y="345" type="curve" smooth="yes"/>
+      <point x="26" y="301"/>
+      <point x="42" y="257"/>
+      <point x="56" y="233" type="curve"/>
+      <point x="135" y="233" type="line"/>
+      <point x="128" y="257"/>
+      <point x="123" y="286"/>
+      <point x="123" y="306" type="curve" smooth="yes"/>
+      <point x="123" y="335"/>
+      <point x="132" y="346"/>
+      <point x="156" y="346" type="curve" smooth="yes"/>
+      <point x="204" y="346" type="line" smooth="yes"/>
+      <point x="288" y="346"/>
+      <point x="311" y="312"/>
+      <point x="311" y="312" type="curve"/>
+      <point x="400" y="352" type="line"/>
+      <point x="400" y="352"/>
+      <point x="344" y="426"/>
+      <point x="204" y="426" type="curve" smooth="yes"/>
+    </contour>
+    <component base="dvM" xOffset="615"/>
+    <component base="dvYA" xOffset="932"/>
+    <component base="dvS" xOffset="260"/>
+  </outline>
+</glyph>

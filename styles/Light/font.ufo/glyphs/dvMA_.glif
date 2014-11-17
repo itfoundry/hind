@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvMA" format="1">
+  <advance width="569"/>
+  <unicode hex="092E"/>
+  <outline>
+    <contour>
+      <point x="-20" y="579" type="line"/>
+      <point x="122" y="579" type="line"/>
+      <point x="122" y="337" type="line"/>
+      <point x="98" y="332"/>
+      <point x="80" y="311"/>
+      <point x="80" y="285" type="curve" smooth="yes"/>
+      <point x="80" y="258"/>
+      <point x="95" y="223"/>
+      <point x="107" y="195" type="curve" smooth="yes"/>
+      <point x="129" y="145" type="line"/>
+      <point x="184" y="145" type="line"/>
+      <point x="184" y="285" type="line"/>
+      <point x="407" y="285" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="469" y="0" type="line"/>
+      <point x="469" y="579" type="line"/>
+      <point x="589" y="579" type="line"/>
+      <point x="589" y="634" type="line"/>
+      <point x="-20" y="634" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="579" type="line"/>
+      <point x="407" y="339" type="line"/>
+      <point x="184" y="339" type="line"/>
+      <point x="184" y="579" type="line"/>
+    </contour>
+  </outline>
+</glyph>

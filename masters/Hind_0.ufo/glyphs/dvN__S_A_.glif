@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvN_SA" format="1">
+  <advance width="888"/>
+  <outline>
+    <contour>
+      <point x="-20" y="579" type="line"/>
+      <point x="610" y="579" type="line"/>
+      <point x="610" y="634" type="line"/>
+      <point x="-20" y="634" type="line"/>
+    </contour>
+    <contour>
+      <point x="111" y="386" type="line" smooth="yes"/>
+      <point x="54" y="386"/>
+      <point x="30" y="358"/>
+      <point x="30" y="317" type="curve" smooth="yes"/>
+      <point x="30" y="279"/>
+      <point x="45" y="243"/>
+      <point x="57" y="220" type="curve"/>
+      <point x="110" y="220" type="line"/>
+      <point x="102" y="243"/>
+      <point x="96" y="272"/>
+      <point x="96" y="295" type="curve" smooth="yes"/>
+      <point x="96" y="319"/>
+      <point x="103" y="332"/>
+      <point x="128" y="332" type="curve" smooth="yes"/>
+      <point x="289" y="332" type="line" smooth="yes"/>
+      <point x="334" y="332"/>
+      <point x="354" y="320"/>
+      <point x="361" y="294" type="curve"/>
+      <point x="422" y="320" type="line"/>
+      <point x="402" y="351"/>
+      <point x="375" y="386"/>
+      <point x="293" y="386" type="curve" smooth="yes"/>
+    </contour>
+    <component base="dvSA" xOffset="265"/>
+  </outline>
+</glyph>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_KHA" format="1">
+  <advance width="1261"/>
+  <outline>
+    <component base="dvS"/>
+    <component base="dvKHA" xOffset="420"/>
+  </outline>
+</glyph>

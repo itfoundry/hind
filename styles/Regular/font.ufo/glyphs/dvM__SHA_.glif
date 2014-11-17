@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvM_SHA" format="1">
+  <advance width="992"/>
+  <outline>
+    <contour>
+      <point x="461" y="323" type="line"/>
+      <point x="191" y="323" type="line"/>
+      <point x="191" y="575" type="line"/>
+      <point x="344" y="575" type="line"/>
+      <point x="344" y="642" type="line"/>
+      <point x="-22" y="642" type="line"/>
+      <point x="-22" y="575" type="line"/>
+      <point x="113" y="575" type="line"/>
+      <point x="113" y="320" type="line"/>
+      <point x="88" y="314"/>
+      <point x="71" y="292"/>
+      <point x="71" y="265" type="curve" smooth="yes"/>
+      <point x="71" y="239"/>
+      <point x="85" y="206"/>
+      <point x="98" y="175" type="curve" smooth="yes"/>
+      <point x="123" y="118" type="line"/>
+      <point x="191" y="118" type="line"/>
+      <point x="191" y="254" type="line"/>
+      <point x="461" y="254" type="line"/>
+    </contour>
+    <component base="dvSHA" xOffset="324"/>
+  </outline>
+</glyph>

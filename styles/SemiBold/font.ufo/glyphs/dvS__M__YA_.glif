@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvS_M_YA" format="1">
+  <advance width="1371"/>
+  <outline>
+    <component base="dvM" xOffset="389"/>
+    <component base="dvYA" xOffset="740"/>
+    <component base="dvS"/>
+  </outline>
+</glyph>

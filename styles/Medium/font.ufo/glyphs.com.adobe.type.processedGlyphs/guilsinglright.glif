@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="guilsinglright">
+  <advance width="318" />
+  <unicode hex="203A" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="141" y="415" />
+      <point type="line" x="35" y="415" />
+      <point type="line" x="181" y="253" />
+      <point type="line" x="35" y="91" />
+      <point type="line" x="141" y="91" />
+      <point type="line" x="292" y="253" />
+    </contour>
+  </outline>
+</glyph>

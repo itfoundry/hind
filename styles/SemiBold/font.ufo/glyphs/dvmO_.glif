@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmO" format="1">
+  <advance width="274"/>
+  <unicode hex="094B"/>
+  <outline>
+    <contour>
+      <point x="-27" y="565" type="line"/>
+      <point x="79" y="565" type="line"/>
+      <point x="79" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+      <point x="195" y="565" type="line"/>
+      <point x="301" y="565" type="line"/>
+      <point x="301" y="660" type="line"/>
+      <point x="-27" y="660" type="line"/>
+    </contour>
+    <component base="dvmE" xOffset="275"/>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmAU" format="1">
+  <advance width="261"/>
+  <unicode hex="094C"/>
+  <outline>
+    <contour>
+      <point x="-20" y="579" type="line"/>
+      <point x="100" y="579" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="161" y="0" type="line"/>
+      <point x="161" y="579" type="line"/>
+      <point x="281" y="579" type="line"/>
+      <point x="281" y="634" type="line"/>
+      <point x="-20" y="634" type="line"/>
+    </contour>
+    <component base="dvmAI" xOffset="259"/>
+  </outline>
+</glyph>

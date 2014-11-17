@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Ccedilla">
+  <advance width="599" />
+  <unicode hex="00C7" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="336" y="-51" />
+      <point x="353" y="-79" />
+      <point x="359" y="-98" />
+      <point type="curve" x="359" y="-126" />
+      <point x="359" y="-168" />
+      <point x="329" y="-193" />
+      <point type="curve" x="272" y="-199" />
+      <point type="line" x="272" y="-248" />
+      <point x="368" y="-244" />
+      <point x="415" y="-186" />
+      <point type="curve" x="415" y="-121" />
+      <point x="415" y="-99" />
+      <point x="408" y="-67" />
+      <point type="curve" x="397" y="-51" />
+    </contour>
+    <contour>
+      <point type="line" x="557" y="647" />
+      <point x="510" y="671" />
+      <point x="459" y="683" />
+      <point type="curve" x="387" y="683" />
+      <point x="200" y="683" />
+      <point x="50" y="547" />
+      <point type="curve" x="50" y="341" />
+      <point x="50" y="120" />
+      <point x="190" y="-8" />
+      <point type="curve" x="391" y="-8" />
+      <point x="455" y="-8" />
+      <point x="519" y="7" />
+      <point type="curve" x="559" y="35" />
+      <point type="line" x="559" y="103" />
+      <point x="521" y="73" />
+      <point x="460" y="51" />
+      <point type="curve" x="394" y="51" />
+      <point x="226" y="51" />
+      <point x="114" y="164" />
+      <point type="curve" x="114" y="341" />
+      <point x="114" y="512" />
+      <point x="233" y="624" />
+      <point type="curve" x="385" y="624" />
+      <point x="473" y="624" />
+      <point x="507" y="608" />
+      <point type="curve" x="557" y="582" />
+    </contour>
+  </outline>
+</glyph>

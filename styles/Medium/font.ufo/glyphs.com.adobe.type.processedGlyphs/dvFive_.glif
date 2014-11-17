@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvFive">
+  <advance width="525" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="190" y="570" />
+      <point type="line" x="432" y="570" />
+      <point type="line" x="432" y="655" />
+      <point type="line" x="93" y="655" />
+      <point type="line" x="93" y="284" />
+      <point x="129" y="301" />
+      <point x="186" y="319" />
+      <point type="curve" x="243" y="319" />
+      <point x="321" y="319" />
+      <point x="374" y="281" />
+      <point type="curve" x="374" y="211" />
+      <point x="374" y="127" />
+      <point x="321" y="83" />
+      <point type="curve" x="216" y="83" />
+      <point x="162" y="83" />
+      <point x="100" y="99" />
+      <point type="curve" x="62" y="122" />
+      <point type="line" x="62" y="27" />
+      <point x="111" y="2" />
+      <point x="175" y="-7" />
+      <point type="curve" x="232" y="-7" />
+      <point x="387" y="-7" />
+      <point x="476" y="79" />
+      <point type="curve" x="476" y="208" />
+      <point x="476" y="329" />
+      <point x="394" y="406" />
+      <point type="curve" x="258" y="406" />
+      <point x="236" y="406" />
+      <point x="213" y="403" />
+      <point type="curve" x="190" y="398" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvTwo" format="1">
+  <advance width="505"/>
+  <outline>
+    <contour>
+      <point x="84" y="18" type="line"/>
+      <point x="289" y="163"/>
+      <point x="436" y="320"/>
+      <point x="436" y="465" type="curve" smooth="yes"/>
+      <point x="436" y="597"/>
+      <point x="338" y="661"/>
+      <point x="228" y="661" type="curve" smooth="yes"/>
+      <point x="172" y="661"/>
+      <point x="109" y="640"/>
+      <point x="65" y="606" type="curve"/>
+      <point x="65" y="527" type="line"/>
+      <point x="113" y="563"/>
+      <point x="172" y="586"/>
+      <point x="221" y="586" type="curve" smooth="yes"/>
+      <point x="301" y="586"/>
+      <point x="354" y="542"/>
+      <point x="354" y="457" type="curve" smooth="yes"/>
+      <point x="354" y="330"/>
+      <point x="194" y="180"/>
+      <point x="44" y="67" type="curve"/>
+    </contour>
+    <contour>
+      <point x="44" y="0" type="line"/>
+      <point x="457" y="0" type="line"/>
+      <point x="457" y="69" type="line"/>
+      <point x="457" y="69"/>
+      <point x="216" y="69"/>
+      <point x="123" y="69" type="curve" smooth="yes"/>
+      <point x="44" y="67" type="line"/>
+    </contour>
+  </outline>
+</glyph>

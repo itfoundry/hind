@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvP" format="1">
+  <advance width="335"/>
+  <outline>
+    <contour>
+      <point x="355" y="579" type="line"/>
+      <point x="355" y="634" type="line"/>
+      <point x="-20" y="634" type="line"/>
+      <point x="-20" y="579" type="line"/>
+    </contour>
+    <contour>
+      <point x="248" y="177" type="curve"/>
+      <point x="347" y="178"/>
+      <point x="414" y="246"/>
+      <point x="444" y="307" type="curve"/>
+      <point x="404" y="343" type="line"/>
+      <point x="377" y="277"/>
+      <point x="316" y="229"/>
+      <point x="247" y="229" type="curve" smooth="yes"/>
+      <point x="170" y="229"/>
+      <point x="132" y="269"/>
+      <point x="132" y="375" type="curve" smooth="yes"/>
+      <point x="132" y="588" type="line"/>
+      <point x="70" y="588" type="line"/>
+      <point x="70" y="375" type="line" smooth="yes"/>
+      <point x="70" y="234"/>
+      <point x="135" y="177"/>
+    </contour>
+  </outline>
+</glyph>

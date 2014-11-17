@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="product">
+  <advance width="580" />
+  <unicode hex="220F" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="504" y="674" />
+      <point type="line" x="100" y="674" />
+      <point type="line" x="100" y="-27" />
+      <point x="100" y="-93" />
+      <point x="70" y="-125" />
+      <point type="curve" x="10" y="-125" />
+      <point x="-8" y="-125" />
+      <point x="-31" y="-120" />
+      <point type="curve" x="-45" y="-113" />
+      <point type="line" x="-45" y="-173" />
+      <point x="-31" y="-179" />
+      <point x="-2" y="-184" />
+      <point type="curve" x="16" y="-184" />
+      <point x="93" y="-184" />
+      <point x="162" y="-148" />
+      <point type="curve" x="162" y="-17" />
+      <point type="line" x="162" y="617" />
+      <point type="line" x="442" y="617" />
+      <point type="line" x="442" y="-180" />
+      <point type="line" x="504" y="-180" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="mu.math">
+  <advance width="535" />
+  <unicode hex="00B5" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="398" y="507" />
+      <point type="line" x="398" y="225" />
+      <point x="398" y="123" />
+      <point x="348" y="52" />
+      <point type="curve" x="268" y="52" />
+      <point x="203" y="52" />
+      <point x="137" y="92" />
+      <point type="curve" x="137" y="172" />
+      <point type="line" x="137" y="507" />
+      <point type="line" x="76" y="507" />
+      <point type="line" x="76" y="-179" />
+      <point type="line" x="137" y="-179" />
+      <point type="line" x="137" y="40" />
+      <point x="165" y="10" />
+      <point x="206" y="-7" />
+      <point type="curve" x="257" y="-7" />
+      <point x="324" y="-7" />
+      <point x="373" y="20" />
+      <point type="curve" x="398" y="81" />
+      <point type="line" x="398" y="0" />
+      <point type="line" x="459" y="0" />
+      <point type="line" x="459" y="507" />
+    </contour>
+  </outline>
+</glyph>

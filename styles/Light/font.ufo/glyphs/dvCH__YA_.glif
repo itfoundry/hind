@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvCH_YA" format="1">
+  <advance width="1163"/>
+  <outline>
+    <contour>
+      <point x="493" y="382" type="line"/>
+      <point x="544" y="411"/>
+      <point x="617" y="430"/>
+      <point x="676" y="430" type="curve" smooth="yes"/>
+      <point x="734" y="430"/>
+      <point x="783" y="414"/>
+      <point x="783" y="371" type="curve" smooth="yes"/>
+      <point x="783" y="318"/>
+      <point x="730" y="288"/>
+      <point x="640" y="273" type="curve"/>
+      <point x="658" y="131"/>
+      <point x="750" y="68"/>
+      <point x="852" y="68" type="curve" smooth="yes"/>
+      <point x="927" y="68"/>
+      <point x="975" y="102"/>
+      <point x="1002" y="140" type="curve"/>
+      <point x="1002" y="0" type="line"/>
+      <point x="1063" y="0" type="line"/>
+      <point x="1063" y="609" type="line"/>
+      <point x="1002" y="609" type="line"/>
+      <point x="1002" y="274" type="line" smooth="yes"/>
+      <point x="1002" y="197"/>
+      <point x="951" y="122"/>
+      <point x="855" y="122" type="curve" smooth="yes"/>
+      <point x="781" y="122"/>
+      <point x="726" y="166"/>
+      <point x="713" y="231" type="curve"/>
+      <point x="785" y="253"/>
+      <point x="845" y="304"/>
+      <point x="845" y="368" type="curve" smooth="yes"/>
+      <point x="845" y="427"/>
+      <point x="802" y="483"/>
+      <point x="673" y="483" type="curve" smooth="yes"/>
+      <point x="626" y="483"/>
+      <point x="544" y="470"/>
+      <point x="493" y="442" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1184" y="634" type="line"/>
+      <point x="550" y="634" type="line"/>
+      <point x="550" y="579" type="line"/>
+      <point x="1184" y="579" type="line"/>
+    </contour>
+    <component base="dvCHA"/>
+  </outline>
+</glyph>

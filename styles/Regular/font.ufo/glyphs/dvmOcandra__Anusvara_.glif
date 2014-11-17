@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmOcandra_Anusvara" format="1">
+  <advance width="266"/>
+  <outline>
+    <contour>
+      <point x="136" y="739" type="curve" smooth="yes"/>
+      <point x="230" y="739"/>
+      <point x="316" y="791"/>
+      <point x="316" y="896" type="curve"/>
+      <point x="238" y="896" type="line"/>
+      <point x="238" y="843"/>
+      <point x="202" y="801"/>
+      <point x="136" y="801" type="curve" smooth="yes"/>
+      <point x="70" y="801"/>
+      <point x="33" y="843"/>
+      <point x="33" y="896" type="curve"/>
+      <point x="-44" y="896" type="line"/>
+      <point x="-44" y="788"/>
+      <point x="40" y="739"/>
+    </contour>
+    <contour>
+      <point x="85" y="951" type="curve" smooth="yes"/>
+      <point x="85" y="921"/>
+      <point x="107" y="900"/>
+      <point x="137" y="900" type="curve" smooth="yes"/>
+      <point x="166" y="900"/>
+      <point x="189" y="921"/>
+      <point x="189" y="951" type="curve" smooth="yes"/>
+      <point x="189" y="980"/>
+      <point x="166" y="1003"/>
+      <point x="137" y="1003" type="curve" smooth="yes"/>
+      <point x="107" y="1003"/>
+      <point x="85" y="980"/>
+    </contour>
+    <component base="dvmAA"/>
+  </outline>
+</glyph>

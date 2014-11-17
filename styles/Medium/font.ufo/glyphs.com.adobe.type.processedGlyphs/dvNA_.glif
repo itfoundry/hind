@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="dvNA">
+  <advance width="502" />
+  <unicode hex="0928" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="line" x="-24" y="650" />
+      <point type="line" x="-24" y="570" />
+      <point type="line" x="318" y="570" />
+      <point type="line" x="318" y="404" />
+      <point type="line" x="119" y="404" />
+      <point x="55" y="404" />
+      <point x="26" y="372" />
+      <point type="curve" x="26" y="324" />
+      <point x="26" y="280" />
+      <point x="42" y="236" />
+      <point type="curve" x="56" y="212" />
+      <point type="line" x="135" y="212" />
+      <point x="128" y="236" />
+      <point x="123" y="265" />
+      <point type="curve" x="123" y="284" />
+      <point x="123" y="314" />
+      <point x="132" y="325" />
+      <point type="curve" x="156" y="325" />
+      <point type="line" x="318" y="325" />
+      <point type="line" x="318" y="0" />
+      <point type="line" x="415" y="0" />
+      <point type="line" x="415" y="570" />
+      <point type="line" x="526" y="570" />
+      <point type="line" x="526" y="650" />
+    </contour>
+  </outline>
+</glyph>

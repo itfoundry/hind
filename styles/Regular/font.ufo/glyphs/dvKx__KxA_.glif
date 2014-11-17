@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKx_KxA" format="1">
+  <advance width="1300"/>
+  <outline>
+    <contour>
+      <point x="954" y="642" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="954" y="642" type="move" name="abvm.candra"/>
+    </contour>
+    <contour>
+      <point x="954" y="642" type="move" name="abvm.e"/>
+    </contour>
+    <contour>
+      <point x="954" y="642" type="move" name="abvm.reph"/>
+    </contour>
+    <contour>
+      <point x="875" y="0" type="move" name="blwm.u"/>
+    </contour>
+    <component base="dvKA" xOffset="528"/>
+    <component base="dvK"/>
+    <component base="dvNukta" xOffset="554" yOffset="88"/>
+    <component base="dvNukta" xOffset="839" yOffset="88"/>
+  </outline>
+</glyph>

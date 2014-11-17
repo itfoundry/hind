@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvOne" format="1">
+  <advance width="372"/>
+  <outline>
+    <contour>
+      <point x="43" y="452" type="line"/>
+      <point x="198" y="547" type="line"/>
+      <point x="198" y="0" type="line"/>
+      <point x="296" y="0" type="line"/>
+      <point x="296" y="654" type="line"/>
+      <point x="206" y="654" type="line"/>
+      <point x="43" y="557" type="line"/>
+    </contour>
+  </outline>
+</glyph>

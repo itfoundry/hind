@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvKH_SHA" format="1">
+  <advance width="1318"/>
+  <outline>
+    <contour>
+      <point x="620" y="570" type="line"/>
+      <point x="620" y="650" type="line"/>
+      <point x="362" y="650" type="line"/>
+      <point x="362" y="570" type="line"/>
+    </contour>
+    <component base="dvSHA" xOffset="635"/>
+    <component base="dvKH"/>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvVisarga" format="1">
+  <advance width="290"/>
+  <unicode hex="0903"/>
+  <outline>
+    <contour>
+      <point x="77" y="484" type="curve" smooth="yes"/>
+      <point x="77" y="444"/>
+      <point x="108" y="413"/>
+      <point x="148" y="413" type="curve" smooth="yes"/>
+      <point x="189" y="413"/>
+      <point x="220" y="444"/>
+      <point x="220" y="484" type="curve" smooth="yes"/>
+      <point x="220" y="524"/>
+      <point x="189" y="556"/>
+      <point x="148" y="556" type="curve" smooth="yes"/>
+      <point x="108" y="556"/>
+      <point x="77" y="524"/>
+    </contour>
+    <contour>
+      <point x="77" y="154" type="curve" smooth="yes"/>
+      <point x="77" y="114"/>
+      <point x="108" y="83"/>
+      <point x="148" y="83" type="curve" smooth="yes"/>
+      <point x="189" y="83"/>
+      <point x="220" y="114"/>
+      <point x="220" y="154" type="curve" smooth="yes"/>
+      <point x="220" y="194"/>
+      <point x="189" y="226"/>
+      <point x="148" y="226" type="curve" smooth="yes"/>
+      <point x="108" y="226"/>
+      <point x="77" y="194"/>
+    </contour>
+  </outline>
+</glyph>

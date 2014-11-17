@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvG_DH_YA" format="1">
+  <advance width="1303"/>
+  <outline>
+    <contour>
+      <point x="976" y="130" type="curve" smooth="yes"/>
+      <point x="1051" y="130"/>
+      <point x="1108" y="156"/>
+      <point x="1142" y="201" type="curve"/>
+      <point x="1142" y="0" type="line"/>
+      <point x="1203" y="0" type="line"/>
+      <point x="1203" y="579" type="line"/>
+      <point x="1323" y="579" type="line"/>
+      <point x="1323" y="634" type="line"/>
+      <point x="740" y="634" type="line"/>
+      <point x="740" y="579" type="line"/>
+      <point x="873" y="579" type="line"/>
+      <point x="888" y="560"/>
+      <point x="904" y="528"/>
+      <point x="904" y="488" type="curve" smooth="yes"/>
+      <point x="904" y="430"/>
+      <point x="848" y="382"/>
+      <point x="740" y="364" type="curve"/>
+      <point x="760" y="210"/>
+      <point x="858" y="130"/>
+    </contour>
+    <contour>
+      <point x="979" y="182" type="curve" smooth="yes"/>
+      <point x="895" y="182"/>
+      <point x="830" y="242"/>
+      <point x="813" y="321" type="curve"/>
+      <point x="894" y="346"/>
+      <point x="966" y="391"/>
+      <point x="966" y="485" type="curve" smooth="yes"/>
+      <point x="966" y="523"/>
+      <point x="956" y="555"/>
+      <point x="940" y="579" type="curve"/>
+      <point x="1142" y="579" type="line"/>
+      <point x="1142" y="327" type="line" smooth="yes"/>
+      <point x="1142" y="240"/>
+      <point x="1075" y="182"/>
+    </contour>
+    <component base="dvG"/>
+    <component base="dvDH" xOffset="310"/>
+  </outline>
+</glyph>

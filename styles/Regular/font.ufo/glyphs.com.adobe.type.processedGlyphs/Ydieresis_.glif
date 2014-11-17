@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Ydieresis">
+  <advance width="593" />
+  <unicode hex="0178" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="398" y="753" />
+      <point x="428" y="753" />
+      <point x="450" y="776" />
+      <point type="curve" x="450" y="805" />
+      <point x="450" y="834" />
+      <point x="428" y="856" />
+      <point type="curve" x="398" y="856" />
+      <point x="369" y="856" />
+      <point x="347" y="834" />
+      <point type="curve" x="347" y="805" />
+      <point x="347" y="776" />
+      <point x="369" y="753" />
+    </contour>
+    <contour>
+      <point type="curve" x="197" y="753" />
+      <point x="226" y="753" />
+      <point x="248" y="776" />
+      <point type="curve" x="248" y="805" />
+      <point x="248" y="834" />
+      <point x="226" y="856" />
+      <point type="curve" x="197" y="856" />
+      <point x="167" y="856" />
+      <point x="145" y="834" />
+      <point type="curve" x="145" y="805" />
+      <point x="145" y="776" />
+      <point x="167" y="753" />
+    </contour>
+    <contour>
+      <point type="line" x="567" y="674" />
+      <point type="line" x="473" y="674" />
+      <point type="line" x="422" y="575" />
+      <point x="304" y="349" />
+      <point x="295" y="324" />
+      <point type="curve" x="295" y="324" />
+      <point x="295" y="324" />
+      <point x="287" y="349" />
+      <point type="curve" x="171" y="575" />
+      <point type="line" x="120" y="674" />
+      <point type="line" x="26" y="674" />
+      <point type="line" x="255" y="250" />
+      <point type="line" x="255" y="0" />
+      <point type="line" x="336" y="0" />
+      <point type="line" x="336" y="251" />
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvT_YA" format="1">
+  <advance width="950"/>
+  <outline>
+    <contour>
+      <point x="447" y="366" type="line"/>
+      <point x="431" y="406"/>
+      <point x="391" y="446"/>
+      <point x="309" y="446" type="curve" smooth="yes"/>
+      <point x="290" y="446" type="line" smooth="yes"/>
+      <point x="148" y="446"/>
+      <point x="70" y="351"/>
+      <point x="70" y="225" type="curve" smooth="yes"/>
+      <point x="70" y="97"/>
+      <point x="150" y="0"/>
+      <point x="284" y="0" type="curve" smooth="yes"/>
+      <point x="295" y="0"/>
+      <point x="305" y="1"/>
+      <point x="311" y="2" type="curve"/>
+      <point x="311" y="56" type="line"/>
+      <point x="306" y="55"/>
+      <point x="294" y="54"/>
+      <point x="287" y="54" type="curve" smooth="yes"/>
+      <point x="182" y="54"/>
+      <point x="133" y="124"/>
+      <point x="133" y="224" type="curve" smooth="yes"/>
+      <point x="133" y="334"/>
+      <point x="196" y="391"/>
+      <point x="290" y="391" type="curve" smooth="yes"/>
+      <point x="311" y="391" type="line" smooth="yes"/>
+      <point x="348" y="391"/>
+      <point x="382" y="371"/>
+      <point x="390" y="342" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-20" y="579" type="line"/>
+      <point x="602" y="579" type="line"/>
+      <point x="602" y="634" type="line"/>
+      <point x="-20" y="634" type="line"/>
+    </contour>
+    <component base="dvYA" xOffset="327"/>
+  </outline>
+</glyph>

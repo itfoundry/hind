@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="Edotaccent">
+  <advance width="490" />
+  <unicode hex="0116" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="273" y="763" />
+      <point x="298" y="763" />
+      <point x="316" y="782" />
+      <point type="curve" x="316" y="806" />
+      <point x="316" y="831" />
+      <point x="298" y="849" />
+      <point type="curve" x="273" y="849" />
+      <point x="249" y="849" />
+      <point x="230" y="831" />
+      <point type="curve" x="230" y="806" />
+      <point x="230" y="782" />
+      <point x="249" y="763" />
+    </contour>
+    <contour>
+      <point type="line" x="142" y="57" />
+      <point type="line" x="142" y="308" />
+      <point type="line" x="404" y="308" />
+      <point type="line" x="404" y="365" />
+      <point type="line" x="142" y="365" />
+      <point type="line" x="142" y="617" />
+      <point type="line" x="439" y="617" />
+      <point type="line" x="439" y="674" />
+      <point type="line" x="80" y="674" />
+      <point type="line" x="80" y="0" />
+      <point type="line" x="445" y="0" />
+      <point type="line" x="445" y="57" />
+    </contour>
+  </outline>
+</glyph>

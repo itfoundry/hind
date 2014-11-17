@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph format="1" name="eight">
+  <advance width="533" />
+  <unicode hex="0038" />
+  <outline>
+    <contour>
+      <point name="hintSet0000" type="curve" x="264" y="50" />
+      <point x="167" y="50" />
+      <point x="118" y="104" />
+      <point type="curve" x="118" y="166" />
+      <point x="118" y="233" />
+      <point x="160" y="296" />
+      <point type="curve" x="264" y="297" />
+      <point x="373" y="298" />
+      <point x="415" y="237" />
+      <point type="curve" x="415" y="176" />
+      <point x="415" y="110" />
+      <point x="366" y="50" />
+    </contour>
+    <contour>
+      <point type="curve" x="129" y="479" />
+      <point x="129" y="545" />
+      <point x="179" y="602" />
+      <point type="curve" x="263" y="602" />
+      <point x="352" y="602" />
+      <point x="398" y="547" />
+      <point type="curve" x="398" y="481" />
+      <point x="398" y="399" />
+      <point x="341" y="355" />
+      <point type="curve" x="267" y="355" />
+      <point x="191" y="355" />
+      <point x="129" y="392" />
+    </contour>
+    <contour>
+      <point type="curve" x="346" y="327" />
+      <point x="418" y="350" />
+      <point x="461" y="406" />
+      <point type="curve" x="461" y="477" />
+      <point x="461" y="602" />
+      <point x="360" y="660" />
+      <point type="curve" x="263" y="660" />
+      <point x="167" y="660" />
+      <point x="66" y="599" />
+      <point type="curve" x="66" y="479" />
+      <point x="66" y="403" />
+      <point x="110" y="348" />
+      <point type="curve" x="183" y="325" />
+      <point x="106" y="303" />
+      <point x="55" y="246" />
+      <point type="curve" x="55" y="162" />
+      <point x="55" y="56" />
+      <point x="151" y="-8" />
+      <point type="curve" x="263" y="-8" />
+      <point x="380" y="-8" />
+      <point x="478" y="58" />
+      <point type="curve" x="478" y="167" />
+      <point x="478" y="255" />
+      <point x="425" y="307" />
+    </contour>
+  </outline>
+</glyph>

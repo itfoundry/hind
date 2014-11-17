@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvSeven" format="1">
+  <advance width="494"/>
+  <outline>
+    <contour>
+      <point x="204" y="0" type="line"/>
+      <point x="464" y="551" type="line"/>
+      <point x="338" y="551" type="line"/>
+      <point x="77" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="464" y="551" type="line"/>
+      <point x="464" y="655" type="line"/>
+      <point x="30" y="655" type="line"/>
+      <point x="30" y="551" type="line"/>
+    </contour>
+  </outline>
+</glyph>

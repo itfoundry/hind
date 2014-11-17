@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvG_N_YA" format="1">
+  <advance width="1209"/>
+  <outline>
+    <contour>
+      <point x="442" y="426" type="line"/>
+      <point x="378" y="426"/>
+      <point x="349" y="393"/>
+      <point x="349" y="345" type="curve" smooth="yes"/>
+      <point x="349" y="301"/>
+      <point x="365" y="257"/>
+      <point x="379" y="233" type="curve"/>
+      <point x="458" y="233" type="line"/>
+      <point x="451" y="257"/>
+      <point x="446" y="286"/>
+      <point x="446" y="306" type="curve" smooth="yes"/>
+      <point x="446" y="335"/>
+      <point x="455" y="346"/>
+      <point x="479" y="346" type="curve" smooth="yes"/>
+      <point x="539" y="346" type="line" smooth="yes"/>
+      <point x="622" y="346"/>
+      <point x="640" y="312"/>
+      <point x="640" y="312" type="curve"/>
+      <point x="729" y="352" type="line"/>
+      <point x="729" y="352"/>
+      <point x="678" y="426"/>
+      <point x="538" y="426" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="303" y="570" type="line"/>
+      <point x="854" y="570" type="line"/>
+      <point x="854" y="650" type="line"/>
+      <point x="303" y="650" type="line"/>
+    </contour>
+    <component base="dvYA" xOffset="582"/>
+    <component base="dvG"/>
+  </outline>
+</glyph>

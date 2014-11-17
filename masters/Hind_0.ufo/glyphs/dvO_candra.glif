@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvOcandra" format="1">
+  <advance width="908"/>
+  <unicode hex="0911"/>
+  <outline>
+    <contour>
+      <point x="696" y="821" type="move" name="abvm.bindu"/>
+    </contour>
+    <contour>
+      <point x="657" y="741" type="curve" smooth="yes"/>
+      <point x="743" y="741"/>
+      <point x="823" y="788"/>
+      <point x="823" y="889" type="curve"/>
+      <point x="761" y="889" type="line"/>
+      <point x="761" y="836"/>
+      <point x="725" y="793"/>
+      <point x="657" y="793" type="curve" smooth="yes"/>
+      <point x="590" y="793"/>
+      <point x="554" y="836"/>
+      <point x="554" y="889" type="curve"/>
+      <point x="492" y="889" type="line"/>
+      <point x="492" y="786"/>
+      <point x="572" y="741"/>
+    </contour>
+    <component base="dvA"/>
+    <component base="dvmAA" xOffset="646"/>
+  </outline>
+</glyph>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dvmI.a03" format="1">
+  <advance width="270"/>
+  <outline>
+    <contour>
+      <point x="685" y="720" type="move" name="abvm.i"/>
+    </contour>
+    <contour>
+      <point x="283" y="907" type="curve" smooth="yes"/>
+      <point x="162" y="907"/>
+      <point x="87" y="833"/>
+      <point x="87" y="728" type="curve" smooth="yes"/>
+      <point x="87" y="650" type="line"/>
+      <point x="-24" y="650" type="line"/>
+      <point x="-24" y="570" type="line"/>
+      <point x="87" y="570" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="570" type="line"/>
+      <point x="294" y="570" type="line"/>
+      <point x="294" y="650" type="line"/>
+      <point x="183" y="650" type="line"/>
+      <point x="183" y="727" type="line" smooth="yes"/>
+      <point x="183" y="786"/>
+      <point x="220" y="823"/>
+      <point x="286" y="823" type="curve" smooth="yes"/>
+      <point x="422" y="823"/>
+      <point x="548" y="783"/>
+      <point x="685" y="720" type="curve"/>
+      <point x="685" y="811" type="line"/>
+      <point x="557" y="864"/>
+      <point x="436" y="907"/>
+    </contour>
+  </outline>
+</glyph>
