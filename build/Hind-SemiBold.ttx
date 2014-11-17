@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Hind-SemiBold.GlyphOrder.ttx"/>
+  <head src="Hind-SemiBold._h_e_a_d.ttx"/>
+  <hhea src="Hind-SemiBold._h_h_e_a.ttx"/>
+  <maxp src="Hind-SemiBold._m_a_x_p.ttx"/>
+  <OS_2 src="Hind-SemiBold.O_S_2f_2.ttx"/>
+  <name src="Hind-SemiBold._n_a_m_e.ttx"/>
+  <cmap src="Hind-SemiBold._c_m_a_p.ttx"/>
+  <post src="Hind-SemiBold._p_o_s_t.ttx"/>
+  <CFF src="Hind-SemiBold.C_F_F_.ttx"/>
+  <GDEF src="Hind-SemiBold.G_D_E_F_.ttx"/>
+  <GPOS src="Hind-SemiBold.G_P_O_S_.ttx"/>
+  <GSUB src="Hind-SemiBold.G_S_U_B_.ttx"/>
+  <hmtx src="Hind-SemiBold._h_m_t_x.ttx"/>
+</ttFont>

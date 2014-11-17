@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="Hind-Regular.GlyphOrder.ttx"/>
+  <head src="Hind-Regular._h_e_a_d.ttx"/>
+  <hhea src="Hind-Regular._h_h_e_a.ttx"/>
+  <maxp src="Hind-Regular._m_a_x_p.ttx"/>
+  <OS_2 src="Hind-Regular.O_S_2f_2.ttx"/>
+  <name src="Hind-Regular._n_a_m_e.ttx"/>
+  <cmap src="Hind-Regular._c_m_a_p.ttx"/>
+  <post src="Hind-Regular._p_o_s_t.ttx"/>
+  <CFF src="Hind-Regular.C_F_F_.ttx"/>
+  <GDEF src="Hind-Regular.G_D_E_F_.ttx"/>
+  <GPOS src="Hind-Regular.G_P_O_S_.ttx"/>
+  <GSUB src="Hind-Regular.G_S_U_B_.ttx"/>
+  <hmtx src="Hind-Regular._h_m_t_x.ttx"/>
+</ttFont>
