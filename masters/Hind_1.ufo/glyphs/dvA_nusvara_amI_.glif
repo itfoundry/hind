@@ -2,6 +2,9 @@
 <glyph name="dvAnusvara.amI" format="1">
   <advance width="0"/>
   <outline>
-    <component base="dvAnusvara" xOffset="157" yOffset="90"/>
+    <contour>
+      <point x="-1" y="735" type="move" name="_abvm.i"/>
+    </contour>
+    <component base="dvAnusvara" xOffset="140" yOffset="160"/>
   </outline>
 </glyph>
