@@ -4,26 +4,41 @@
 <dict>
 	<key>public.glyphOrder</key>
 	<array>
-		<string>dvA</string>
+		<string>.notdef</string>
+		<string>NULL</string>
+		<string>CR</string>
+		<string>space</string>
 		<string>dvAA</string>
-		<string>dvmAA</string>
 		<string>dvI</string>
+		<string>dvII</string>
 		<string>dvU</string>
 		<string>dvUU</string>
 		<string>dvvR</string>
+		<string>dvvRR</string>
 		<string>dvvL</string>
-		<string>dvEcandra</string>
+		<string>dvvLL</string>
 		<string>dvE</string>
-		<string>dvmEcandra</string>
 		<string>dvAI</string>
-		<string>dvmE</string>
-		<string>dvOcandra</string>
 		<string>dvO</string>
 		<string>dvAU</string>
+		<string>dvEcandra</string>
+		<string>dvAcandra</string>
+		<string>dvOcandra</string>
+		<string>dvmAA</string>
+		<string>dvmI</string>
+		<string>dvmII</string>
+		<string>dvmU</string>
+		<string>dvmUU</string>
+		<string>dvmvR</string>
+		<string>dvmvRR</string>
+		<string>dvmvL</string>
+		<string>dvmvLL</string>
+		<string>dvmE</string>
 		<string>dvmAI</string>
-		<string>dvII</string>
-		<string>dvvRR</string>
-		<string>dvvLL</string>
+		<string>dvmO</string>
+		<string>dvmAU</string>
+		<string>dvmEcandra</string>
+		<string>dvmOcandra</string>
 		<string>dvKA</string>
 		<string>dvKHA</string>
 		<string>dvGA</string>
@@ -52,26 +67,14 @@
 		<string>dvYA</string>
 		<string>dvRA</string>
 		<string>dvLA</string>
-		<string>dvLLA</string>
 		<string>dvVA</string>
+		<string>dvSHA</string>
 		<string>dvSSA</string>
 		<string>dvSA</string>
 		<string>dvHA</string>
-		<string>dvSHA</string>
-		<string>dvNukta</string>
-		<string>dvRxA</string>
-		<string>dvmO</string>
-		<string>dvmAU</string>
-		<string>dvmOcandra</string>
-		<string>dvmI</string>
-		<string>dvmII</string>
-		<string>dvmU</string>
-		<string>dvmUU</string>
-		<string>dvmvR</string>
-		<string>dvCandrabindu</string>
-		<string>space</string>
-		<string>dvVisarga</string>
-		<string>dvAvagraha</string>
+		<string>dvLLA</string>
+		<string>dvK_SSA</string>
+		<string>dvJ_NYA</string>
 		<string>dvKxA</string>
 		<string>dvKHxA</string>
 		<string>dvGxA</string>
@@ -79,9 +82,78 @@
 		<string>dvDDxA</string>
 		<string>dvDDHxA</string>
 		<string>dvPHxA</string>
-		<string>dvK_SSA</string>
-		<string>dvJ_NYA</string>
+		<string>dvRxA</string>
+		<string>dvK</string>
+		<string>dvKH</string>
+		<string>dvG</string>
+		<string>dvGH</string>
+		<string>dvNG</string>
+		<string>dvC</string>
+		<string>dvCH</string>
+		<string>dvJ</string>
+		<string>dvJH</string>
+		<string>dvNY</string>
+		<string>dvTT</string>
+		<string>dvTTH</string>
+		<string>dvDD</string>
+		<string>dvDDH</string>
+		<string>dvNN</string>
+		<string>dvT</string>
+		<string>dvTH</string>
+		<string>dvD</string>
+		<string>dvDH</string>
+		<string>dvN</string>
+		<string>dvP</string>
+		<string>dvPH</string>
+		<string>dvB</string>
+		<string>dvBH</string>
+		<string>dvM</string>
+		<string>dvY</string>
+		<string>dvR</string>
+		<string>dvL</string>
+		<string>dvV</string>
+		<string>dvSH</string>
+		<string>dvSS</string>
+		<string>dvS</string>
+		<string>dvH</string>
+		<string>dvLL</string>
+		<string>dvK_SS</string>
+		<string>dvJ_NY</string>
+		<string>dvKx</string>
+		<string>dvKHx</string>
+		<string>dvGx</string>
+		<string>dvJx</string>
+		<string>dvPHx</string>
+		<string>dvAnusvara</string>
+		<string>dvCandrabindu</string>
+		<string>dvVisarga</string>
+		<string>dvAvagraha</string>
+		<string>dvVirama</string>
+		<string>dvNukta</string>
+		<string>dvZero</string>
+		<string>dvOne</string>
+		<string>dvTwo</string>
+		<string>dvThree</string>
+		<string>dvFour</string>
+		<string>dvFive</string>
+		<string>dvSix</string>
+		<string>dvSeven</string>
+		<string>dvEight</string>
+		<string>dvNine</string>
+		<string>dvOm</string>
+		<string>dvAbbreviationsign</string>
+		<string>danda</string>
+		<string>doubledanda</string>
+		<string>rupee</string>
+		<string>indianrupee</string>
+		<string>apostrophemod</string>
+		<string>zerowidthspace</string>
+		<string>zerowidthnonjoiner</string>
+		<string>zerowidthjoiner</string>
+		<string>dottedcircle</string>
+		<string>itfLogo</string>
 		<string>dvReph</string>
+		<string>dvEyelash</string>
 		<string>dvRashtrasign</string>
 		<string>dvK_RA</string>
 		<string>dvKH_RA</string>
@@ -109,145 +181,25 @@
 		<string>dvBH_RA</string>
 		<string>dvM_RA</string>
 		<string>dvY_RA</string>
+		<string>dvL_RA</string>
 		<string>dvV_RA</string>
-		<string>dvK_NA</string>
-		<string>dvKH_NA</string>
-		<string>dvG_NA</string>
-		<string>dvGH_NA</string>
-		<string>dvC_NA</string>
-		<string>dvJ_NA</string>
-		<string>dvJH_NA</string>
-		<string>dvT_NA</string>
-		<string>dvTH_NA</string>
-		<string>dvD_NA</string>
-		<string>dvDH_NA</string>
-		<string>dvP_NA</string>
-		<string>dvPH_NA</string>
-		<string>dvB_NA</string>
-		<string>dvBH_NA</string>
-		<string>dvM_NA</string>
-		<string>dvY_NA</string>
-		<string>dvV_NA</string>
-		<string>dvSH_NA</string>
-		<string>dvS_NA</string>
-		<string>dvH_NA</string>
-		<string>dvK_TA</string>
-		<string>dvTT_TTA</string>
-		<string>dvTT_TTHA</string>
-		<string>dvTT_VA</string>
-		<string>dvTTH_TTHA</string>
-		<string>dvDD_DDA</string>
-		<string>dvDD_DDHA</string>
-		<string>dvDD_VA</string>
-		<string>dvDDH_DDHA</string>
-		<string>dvT_TA</string>
-		<string>dvD_GA</string>
-		<string>dvD_GHA</string>
-		<string>dvD_YA</string>
-		<string>dvDA_mvR</string>
-		<string>dvP_TA</string>
-		<string>dvP_TTA</string>
-		<string>dvP_TTHA</string>
-		<string>dvAnusvara</string>
-		<string>dvN_NA</string>
-		<string>dvD_G_RA</string>
-		<string>dvD_DA</string>
-		<string>dvD_DHA</string>
-		<string>dvD_BA</string>
-		<string>dvD_B_RA</string>
-		<string>dvD_BHA</string>
-		<string>dvD_MA</string>
-		<string>dvD_VA</string>
-		<string>dvRA_mU</string>
-		<string>dvRA_mUU</string>
-		<string>dvSH_CA</string>
-		<string>dvSH_VA</string>
 		<string>dvSH_RA</string>
-		<string>dvSHA_mvR</string>
-		<string>dvSS_TTA</string>
-		<string>dvSS_TTHA</string>
-		<string>dvSS_TT_RA</string>
-		<string>dvSS_TTH_RA</string>
-		<string>dvSS_TT_VA</string>
+		<string>dvSS_RA</string>
 		<string>dvS_RA</string>
-		<string>dvS_T_RA</string>
-		<string>dvH_NNA</string>
-		<string>dvH_MA</string>
-		<string>dvH_YA</string>
 		<string>dvH_RA</string>
-		<string>dvH_VA</string>
-		<string>dvH_LA</string>
-		<string>dvHA_mvR</string>
-		<string>dvSH_LA</string>
-		<string>dvTT_YA</string>
-		<string>dvTTH_YA</string>
-		<string>dvDD_YA</string>
-		<string>dvDDH_YA</string>
-		<string>dvmE_Anusvara</string>
-		<string>dvmE_Reph</string>
-		<string>dvmE_Reph_Anusvara</string>
-		<string>dvmAI_Anusvara</string>
-		<string>dvmAI_Reph</string>
-		<string>dvmAI_Reph_Anusvara</string>
-		<string>dvReph_Anusvara</string>
-		<string>dvReph.amI</string>
-		<string>dvmII_Anusvara</string>
-		<string>dvmII_Reph</string>
-		<string>dvmII_Reph_Anusvara</string>
-		<string>dvmOcandra_Anusvara</string>
-		<string>dvmO_Anusvara</string>
-		<string>dvmO_Reph</string>
-		<string>dvmO_Reph_Anusvara</string>
-		<string>dvmAU_Anusvara</string>
-		<string>dvmAU_Reph</string>
-		<string>dvmAU_Reph_Anusvara</string>
-		<string>dvII_Anusvara</string>
-		<string>danda</string>
-		<string>doubledanda</string>
-		<string>dvOm</string>
-		<string>dvVirama</string>
-		<string>indianrupee</string>
-		<string>dvAbbreviationsign</string>
-		<string>dvK</string>
-		<string>dvG</string>
-		<string>dvGH</string>
-		<string>dvKH</string>
-		<string>dvNG</string>
-		<string>dvC</string>
-		<string>dvCH</string>
-		<string>dvJ</string>
-		<string>dvJH</string>
-		<string>dvNY</string>
-		<string>dvTT</string>
-		<string>dvTTH</string>
-		<string>dvDD</string>
-		<string>dvDDH</string>
-		<string>dvNN</string>
-		<string>dvT</string>
-		<string>dvTH</string>
-		<string>dvD</string>
-		<string>dvDH</string>
-		<string>dvN</string>
-		<string>dvP</string>
-		<string>dvPH</string>
-		<string>dvB</string>
-		<string>dvBH</string>
-		<string>dvM</string>
-		<string>dvY</string>
-		<string>dvR</string>
-		<string>dvL</string>
-		<string>dvLL</string>
-		<string>dvV</string>
-		<string>dvSH</string>
-		<string>dvSS</string>
-		<string>dvS</string>
-		<string>dvH</string>
-		<string>dvJ_NY</string>
+		<string>dvLL_RA</string>
+		<string>dvKx_RA</string>
+		<string>dvKHx_RA</string>
+		<string>dvGx_RA</string>
+		<string>dvJx_RA</string>
+		<string>dvPHx_RA</string>
 		<string>dvK_R</string>
 		<string>dvKH_R</string>
 		<string>dvG_R</string>
 		<string>dvGH_R</string>
+		<string>dvNG_R</string>
 		<string>dvC_R</string>
+		<string>dvCH_R</string>
 		<string>dvJ_R</string>
 		<string>dvJH_R</string>
 		<string>dvNY_R</string>
@@ -267,170 +219,138 @@
 		<string>dvBH_R</string>
 		<string>dvM_R</string>
 		<string>dvY_R</string>
+		<string>dvL_R</string>
 		<string>dvV_R</string>
-		<string>dvK_KA</string>
-		<string>dvK_VA</string>
-		<string>dvC_CA</string>
-		<string>dvJ_JA</string>
-		<string>dvNY_CA</string>
-		<string>dvNY_JA</string>
+		<string>dvSH_R</string>
+		<string>dvSS_R</string>
 		<string>dvS_R</string>
-		<string>dvL_LA</string>
+		<string>dvH_R</string>
+		<string>dvLL_R</string>
 		<string>dvKx_R</string>
 		<string>dvKHx_R</string>
 		<string>dvGx_R</string>
 		<string>dvJx_R</string>
 		<string>dvPHx_R</string>
-		<string>dvKx_RA</string>
-		<string>dvKHx_RA</string>
-		<string>dvGx_RA</string>
-		<string>dvJx_RA</string>
-		<string>dvPHx_RA</string>
-		<string>dvCH_R_YA</string>
-		<string>dvDH_N_YA</string>
-		<string>dvN_N_YA</string>
-		<string>dvBH_R_YA</string>
-		<string>dvSS_TT_YA</string>
-		<string>dvSS_TTH_YA</string>
-		<string>dvCH_YA</string>
-		<string>dvK_SS_M_YA</string>
-		<string>dvM_YA</string>
-		<string>dvK_S_P_RA</string>
-		<string>dvK_S_P_LA</string>
-		<string>dvN_S_M_YA</string>
-		<string>dvK_T_YA</string>
-		<string>dvK_T_RA</string>
-		<string>dvK_T_VA</string>
-		<string>dvK_P_RA</string>
-		<string>dvK_V_YA</string>
-		<string>dvK_SS_MA</string>
-		<string>dvK_SS_YA</string>
-		<string>dvK_SS_VA</string>
-		<string>dvK_S_TTA</string>
-		<string>dvK_S_DDA</string>
-		<string>dvK_S_TA</string>
-		<string>dvG_DH_YA</string>
-		<string>dvG_DH_VA</string>
-		<string>dvG_N_YA</string>
-		<string>dvG_BH_YA</string>
-		<string>dvG_R_YA</string>
-		<string>dvC_CH_VA</string>
-		<string>dvJ_J_NYA</string>
-		<string>dvJ_J_YA</string>
-		<string>dvJ_YA</string>
-		<string>dvJ_J_VA</string>
-		<string>dvJ_NY_YA</string>
-		<string>dvT_K_YA</string>
-		<string>dvK_YA</string>
-		<string>dvT_K_RA</string>
-		<string>dvT_K_VA</string>
-		<string>dvT_K_SSA</string>
-		<string>dvT_KH_RA</string>
-		<string>dvT_T_YA</string>
-		<string>dvT_T_VA</string>
-		<string>dvT_N_YA</string>
-		<string>dvT_P_RA</string>
-		<string>dvT_P_LA</string>
-		<string>dvT_M_YA</string>
-		<string>dvT_R_YA</string>
-		<string>dvT_S_NA</string>
-		<string>dvT_S_YA</string>
-		<string>dvS_YA</string>
-		<string>dvT_S_VA</string>
-		<string>dvN_K_SA</string>
-		<string>dvK_SA</string>
-		<string>dvN_T_YA</string>
-		<string>dvN_T_RA</string>
-		<string>dvN_T_SA</string>
-		<string>dvN_TH_YA</string>
-		<string>dvN_TH_VA</string>
-		<string>dvN_D_RA</string>
-		<string>dvN_D_VA</string>
-		<string>dvN_DH_YA</string>
-		<string>dvN_DH_RA</string>
-		<string>dvN_DH_VA</string>
-		<string>dvN_P_RA</string>
-		<string>dvN_BH_YA</string>
-		<string>dvN_BH_VA</string>
-		<string>dvN_M_YA</string>
-		<string>dvN_S_TTA</string>
-		<string>dvN_S_YA</string>
-		<string>dvP_T_YA</string>
-		<string>dvB_J_YA</string>
-		<string>dvB_DH_VA</string>
-		<string>dvB_BH_RA</string>
-		<string>dvB_L_YA</string>
-		<string>dvM_P_RA</string>
-		<string>dvM_B_YA</string>
-		<string>dvM_B_RA</string>
-		<string>dvM_BH_YA</string>
-		<string>dvM_BH_RA</string>
-		<string>dvM_BH_VA</string>
-		<string>dvL_K_YA</string>
-		<string>dvL_TH_YA</string>
-		<string>dvL_D_RA</string>
-		<string>dvL_L_YA</string>
-		<string>dvL_V_DDA</string>
-		<string>dvSS_K_RA</string>
-		<string>dvSS_NN_YA</string>
-		<string>dvSS_P_RA</string>
-		<string>dvSS_M_YA</string>
-		<string>dvS_K_RA</string>
-		<string>dvS_K_VA</string>
-		<string>dvS_T_YA</string>
-		<string>dvS_T_VA</string>
-		<string>dvS_TH_YA</string>
-		<string>dvS_P_RA</string>
-		<string>dvS_M_YA</string>
+		<string>dvK_KA</string>
+		<string>dvKx_KxA</string>
 		<string>dvK_KHA</string>
 		<string>dvK_CA</string>
 		<string>dvK_JA</string>
 		<string>dvK_TTA</string>
 		<string>dvK_NNA</string>
+		<string>dvK_TA</string>
+		<string>dvKx_TA</string>
+		<string>dvK_T_YA</string>
+		<string>dvK_T_RA</string>
+		<string>dvK_T_VA</string>
 		<string>dvK_THA</string>
 		<string>dvK_DA</string>
+		<string>dvK_NA</string>
 		<string>dvK_PA</string>
+		<string>dvK_P_RA</string>
 		<string>dvK_PHA</string>
+		<string>dvKx_PHA</string>
+		<string>dvKx_PHxA</string>
+		<string>dvKx_BA</string>
 		<string>dvK_MA</string>
+		<string>dvKx_MA</string>
+		<string>dvK_YA</string>
 		<string>dvK_LA</string>
+		<string>dvK_VA</string>
+		<string>dvK_V_YA</string>
 		<string>dvK_SHA</string>
+		<string>dvK_SS_MA</string>
+		<string>dvK_SS_M_YA</string>
+		<string>dvK_SS_YA</string>
+		<string>dvK_SS_VA</string>
+		<string>dvK_SA</string>
+		<string>dvK_S_TTA</string>
+		<string>dvK_S_DDA</string>
+		<string>dvK_S_TA</string>
+		<string>dvK_S_P_RA</string>
+		<string>dvK_S_P_LA</string>
 		<string>dvKH_KHA</string>
 		<string>dvKH_TA</string>
+		<string>dvKHx_TA</string>
+		<string>dvKH_NA</string>
 		<string>dvKH_MA</string>
+		<string>dvKHx_MA</string>
 		<string>dvKH_YA</string>
+		<string>dvKHx_YA</string>
 		<string>dvKH_VA</string>
+		<string>dvKHx_VA</string>
 		<string>dvKH_SHA</string>
+		<string>dvKHx_SHA</string>
+		<string>dvKHx_SA</string>
 		<string>dvG_GA</string>
 		<string>dvG_GHA</string>
 		<string>dvG_JA</string>
 		<string>dvG_NNA</string>
 		<string>dvG_DA</string>
 		<string>dvG_DHA</string>
+		<string>dvG_DH_YA</string>
+		<string>dvG_DH_VA</string>
+		<string>dvG_NA</string>
+		<string>dvG_N_YA</string>
 		<string>dvG_BA</string>
 		<string>dvG_BHA</string>
+		<string>dvG_BH_YA</string>
 		<string>dvG_MA</string>
 		<string>dvG_YA</string>
+		<string>dvG_R_YA</string>
 		<string>dvG_LA</string>
 		<string>dvG_VA</string>
 		<string>dvG_SA</string>
+		<string>dvGH_NA</string>
 		<string>dvGH_MA</string>
 		<string>dvGH_YA</string>
+		<string>dvC_CA</string>
 		<string>dvC_CHA</string>
+		<string>dvC_CH_VA</string>
+		<string>dvC_NA</string>
 		<string>dvC_MA</string>
 		<string>dvC_YA</string>
+		<string>dvCH_YA</string>
+		<string>dvCH_R_YA</string>
 		<string>dvJ_KA</string>
+		<string>dvJ_JA</string>
+		<string>dvJx_JxA</string>
+		<string>dvJ_J_NYA</string>
+		<string>dvJ_J_YA</string>
+		<string>dvJ_J_VA</string>
 		<string>dvJ_JHA</string>
+		<string>dvJ_NY_YA</string>
 		<string>dvJ_TTA</string>
 		<string>dvJ_DDA</string>
 		<string>dvJ_TA</string>
 		<string>dvJ_DA</string>
+		<string>dvJ_NA</string>
 		<string>dvJ_BA</string>
 		<string>dvJ_MA</string>
+		<string>dvJ_YA</string>
+		<string>dvJx_YA</string>
 		<string>dvJ_VA</string>
+		<string>dvJH_NA</string>
 		<string>dvJH_MA</string>
 		<string>dvJH_YA</string>
+		<string>dvNY_CA</string>
 		<string>dvNY_CHA</string>
+		<string>dvNY_JA</string>
 		<string>dvNY_SHA</string>
+		<string>dvTT_TTA</string>
+		<string>dvTT_TTHA</string>
+		<string>dvTT_YA</string>
+		<string>dvTT_VA</string>
+		<string>dvTTH_TTHA</string>
+		<string>dvTTH_YA</string>
+		<string>dvTTH_VA</string>
+		<string>dvDD_DDA</string>
+		<string>dvDD_DDHA</string>
+		<string>dvDD_YA</string>
+		<string>dvDD_VA</string>
+		<string>dvDDH_DDHA</string>
+		<string>dvDDH_YA</string>
+		<string>dvDDH_VA</string>
 		<string>dvNN_TTA</string>
 		<string>dvNN_TTHA</string>
 		<string>dvNN_DDA</string>
@@ -440,37 +360,95 @@
 		<string>dvNN_YA</string>
 		<string>dvNN_VA</string>
 		<string>dvT_KA</string>
+		<string>dvT_K_YA</string>
+		<string>dvT_K_RA</string>
+		<string>dvT_K_VA</string>
+		<string>dvT_K_SSA</string>
 		<string>dvT_KHA</string>
+		<string>dvT_KH_RA</string>
+		<string>dvT_TA</string>
+		<string>dvT_T_YA</string>
+		<string>dvT_T_VA</string>
 		<string>dvT_THA</string>
+		<string>dvT_NA</string>
+		<string>dvT_N_YA</string>
 		<string>dvT_PA</string>
+		<string>dvT_P_RA</string>
+		<string>dvT_P_LA</string>
 		<string>dvT_PHA</string>
 		<string>dvT_MA</string>
+		<string>dvT_M_YA</string>
 		<string>dvT_YA</string>
+		<string>dvT_R_YA</string>
 		<string>dvT_LA</string>
 		<string>dvT_VA</string>
 		<string>dvT_SA</string>
+		<string>dvT_S_NA</string>
+		<string>dvT_S_YA</string>
+		<string>dvT_S_VA</string>
+		<string>dvTH_NA</string>
 		<string>dvTH_YA</string>
 		<string>dvTH_VA</string>
+		<string>dvD_GA</string>
+		<string>dvD_G_RA</string>
+		<string>dvD_GHA</string>
+		<string>dvD_DA</string>
+		<string>dvD_DHA</string>
+		<string>dvD_NA</string>
+		<string>dvD_BA</string>
+		<string>dvD_B_RA</string>
+		<string>dvD_BHA</string>
+		<string>dvD_MA</string>
+		<string>dvD_YA</string>
+		<string>dvD_VA</string>
+		<string>dvDH_NA</string>
+		<string>dvDH_N_YA</string>
 		<string>dvDH_MA</string>
 		<string>dvDH_YA</string>
 		<string>dvDH_VA</string>
 		<string>dvN_KA</string>
+		<string>dvN_K_SA</string>
 		<string>dvN_CA</string>
 		<string>dvN_CHA</string>
 		<string>dvN_TTA</string>
 		<string>dvN_DDA</string>
 		<string>dvN_TA</string>
+		<string>dvN_T_YA</string>
+		<string>dvN_T_RA</string>
+		<string>dvN_T_SA</string>
 		<string>dvN_THA</string>
+		<string>dvN_TH_YA</string>
+		<string>dvN_TH_VA</string>
 		<string>dvN_DA</string>
+		<string>dvN_D_RA</string>
+		<string>dvN_D_VA</string>
 		<string>dvN_DHA</string>
+		<string>dvN_DH_YA</string>
+		<string>dvN_DH_RA</string>
+		<string>dvN_DH_VA</string>
+		<string>dvN_NA</string>
+		<string>dvN_N_YA</string>
 		<string>dvN_PA</string>
+		<string>dvN_P_RA</string>
 		<string>dvN_PHA</string>
+		<string>dvN_PH_RA</string>
 		<string>dvN_BHA</string>
+		<string>dvN_BH_YA</string>
+		<string>dvN_BH_VA</string>
 		<string>dvN_MA</string>
+		<string>dvN_M_YA</string>
 		<string>dvN_YA</string>
 		<string>dvN_VA</string>
 		<string>dvN_SA</string>
+		<string>dvN_S_TTA</string>
+		<string>dvN_S_M_YA</string>
+		<string>dvN_S_YA</string>
 		<string>dvN_HA</string>
+		<string>dvP_TTA</string>
+		<string>dvP_TTHA</string>
+		<string>dvP_TA</string>
+		<string>dvP_T_YA</string>
+		<string>dvP_NA</string>
 		<string>dvP_PA</string>
 		<string>dvP_PHA</string>
 		<string>dvP_MA</string>
@@ -479,147 +457,192 @@
 		<string>dvP_VA</string>
 		<string>dvP_SA</string>
 		<string>dvPH_JA</string>
+		<string>dvPHx_JxA</string>
 		<string>dvPH_TTA</string>
 		<string>dvPH_TA</string>
+		<string>dvPHx_TA</string>
+		<string>dvPH_NA</string>
 		<string>dvPH_PA</string>
 		<string>dvPH_PHA</string>
+		<string>dvPHx_PHxA</string>
 		<string>dvPH_YA</string>
 		<string>dvPH_LA</string>
 		<string>dvPH_SHA</string>
+		<string>dvPHx_SA</string>
 		<string>dvB_JA</string>
+		<string>dvB_JxA</string>
+		<string>dvB_J_YA</string>
 		<string>dvB_JHA</string>
 		<string>dvB_TA</string>
 		<string>dvB_DA</string>
 		<string>dvB_DHA</string>
+		<string>dvB_DH_VA</string>
+		<string>dvB_NA</string>
 		<string>dvB_BA</string>
 		<string>dvB_BHA</string>
+		<string>dvB_BH_RA</string>
 		<string>dvB_YA</string>
 		<string>dvB_LA</string>
+		<string>dvB_L_YA</string>
 		<string>dvB_VA</string>
 		<string>dvB_SHA</string>
 		<string>dvB_SA</string>
-		<string>dvB_JxA</string>
+		<string>dvBH_NA</string>
 		<string>dvBH_YA</string>
+		<string>dvBH_R_YA</string>
 		<string>dvBH_LA</string>
 		<string>dvBH_VA</string>
 		<string>dvM_TA</string>
 		<string>dvM_DA</string>
+		<string>dvM_NA</string>
 		<string>dvM_PA</string>
+		<string>dvM_P_RA</string>
 		<string>dvM_BA</string>
+		<string>dvM_B_YA</string>
+		<string>dvM_B_RA</string>
 		<string>dvM_BHA</string>
+		<string>dvM_BH_YA</string>
+		<string>dvM_BH_RA</string>
+		<string>dvM_BH_VA</string>
 		<string>dvM_MA</string>
+		<string>dvM_YA</string>
 		<string>dvM_LA</string>
 		<string>dvM_VA</string>
 		<string>dvM_SHA</string>
 		<string>dvM_SA</string>
 		<string>dvM_HA</string>
+		<string>dvY_NA</string>
 		<string>dvY_YA</string>
+		<string>dvEyelash_YA</string>
+		<string>dvEyelash_HA</string>
 		<string>dvL_KA</string>
+		<string>dvL_K_YA</string>
 		<string>dvL_KHA</string>
 		<string>dvL_GA</string>
 		<string>dvL_JA</string>
+		<string>dvL_JxA</string>
 		<string>dvL_TTA</string>
 		<string>dvL_TTHA</string>
 		<string>dvL_DDA</string>
 		<string>dvL_DDHA</string>
 		<string>dvL_TA</string>
 		<string>dvL_THA</string>
+		<string>dvL_TH_YA</string>
 		<string>dvL_DA</string>
+		<string>dvL_D_RA</string>
 		<string>dvL_PA</string>
 		<string>dvL_PHA</string>
 		<string>dvL_BA</string>
 		<string>dvL_BHA</string>
 		<string>dvL_MA</string>
 		<string>dvL_YA</string>
+		<string>dvL_LA</string>
+		<string>dvL_L_YA</string>
 		<string>dvL_VA</string>
+		<string>dvL_V_DDA</string>
 		<string>dvL_SA</string>
 		<string>dvL_HA</string>
-		<string>dvL_JxA</string>
-		<string>dvLL_YA</string>
+		<string>dvV_NA</string>
 		<string>dvV_YA</string>
 		<string>dvV_LA</string>
 		<string>dvV_VA</string>
 		<string>dvV_HA</string>
 		<string>dvSH_KA</string>
+		<string>dvSH_KxA</string>
+		<string>dvSH_CA</string>
 		<string>dvSH_CHA</string>
 		<string>dvSH_TTA</string>
 		<string>dvSH_TA</string>
+		<string>dvSH_NA</string>
 		<string>dvSH_MA</string>
 		<string>dvSH_YA</string>
+		<string>dvSH_LA</string>
+		<string>dvSH_VA</string>
 		<string>dvSH_SHA</string>
-		<string>dvSH_KxA</string>
 		<string>dvSS_KA</string>
+		<string>dvSS_K_RA</string>
+		<string>dvSS_TTA</string>
+		<string>dvSS_TT_YA</string>
+		<string>dvSS_TT_RA</string>
+		<string>dvSS_TT_VA</string>
+		<string>dvSS_TTHA</string>
+		<string>dvSS_TTH_YA</string>
+		<string>dvSS_TTH_RA</string>
 		<string>dvSS_NNA</string>
+		<string>dvSS_NN_YA</string>
 		<string>dvSS_PA</string>
+		<string>dvSS_P_RA</string>
 		<string>dvSS_PHA</string>
 		<string>dvSS_MA</string>
+		<string>dvSS_M_YA</string>
 		<string>dvSS_YA</string>
 		<string>dvSS_VA</string>
 		<string>dvSS_SSA</string>
 		<string>dvS_KA</string>
+		<string>dvS_K_RA</string>
+		<string>dvS_K_VA</string>
 		<string>dvS_KHA</string>
 		<string>dvS_JA</string>
 		<string>dvS_TTA</string>
 		<string>dvS_TA</string>
+		<string>dvS_T_YA</string>
+		<string>dvS_T_RA</string>
+		<string>dvS_T_VA</string>
 		<string>dvS_THA</string>
+		<string>dvS_TH_YA</string>
 		<string>dvS_DA</string>
+		<string>dvS_NA</string>
 		<string>dvS_PA</string>
+		<string>dvS_P_RA</string>
 		<string>dvS_PHA</string>
 		<string>dvS_BA</string>
 		<string>dvS_MA</string>
+		<string>dvS_M_YA</string>
+		<string>dvS_YA</string>
 		<string>dvS_LA</string>
 		<string>dvS_VA</string>
 		<string>dvS_SA</string>
-		<string>dvKx_TA</string>
-		<string>dvKx_PHA</string>
-		<string>dvKx_BA</string>
-		<string>dvKx_MA</string>
-		<string>dvKx_KxA</string>
-		<string>dvKx_PHxA</string>
-		<string>dvKHx_TA</string>
-		<string>dvKHx_MA</string>
-		<string>dvKHx_YA</string>
-		<string>dvKHx_VA</string>
-		<string>dvKHx_SHA</string>
-		<string>dvKHx_SA</string>
-		<string>dvJx_YA</string>
-		<string>dvJx_JxA</string>
-		<string>dvPHx_TA</string>
-		<string>dvPHx_SA</string>
-		<string>dvPHx_JxA</string>
-		<string>dvPHx_PHxA</string>
-		<string>dvPHx</string>
-		<string>dvJx</string>
-		<string>dvKx</string>
-		<string>dvKHx</string>
-		<string>dvGx</string>
-		<string>dvK_SS</string>
+		<string>dvH_NNA</string>
+		<string>dvH_NA</string>
+		<string>dvH_MA</string>
+		<string>dvH_YA</string>
+		<string>dvH_LA</string>
+		<string>dvH_VA</string>
+		<string>dvLL_YA</string>
+		<string>dvmII.aLong</string>
+		<string>dvReph_Anusvara</string>
+		<string>dvAnusvara.amI</string>
+		<string>dvReph.amI</string>
+		<string>dvReph_Anusvara.amI</string>
+		<string>dvII_Anusvara</string>
+		<string>dvmII_Anusvara</string>
+		<string>dvmII_Reph</string>
+		<string>dvmII_Reph_Anusvara</string>
+		<string>dvmII_Anusvara.aLong</string>
+		<string>dvmII_Reph.aLong</string>
+		<string>dvmII_Reph_Anusvara.aLong</string>
+		<string>dvmE_Anusvara</string>
+		<string>dvmE_Reph</string>
+		<string>dvmE_Reph_Anusvara</string>
+		<string>dvmAI_Anusvara</string>
+		<string>dvmAI_Reph</string>
+		<string>dvmAI_Reph_Anusvara</string>
+		<string>dvmO_Anusvara</string>
+		<string>dvmO_Reph</string>
+		<string>dvmO_Reph_Anusvara</string>
+		<string>dvmAU_Anusvara</string>
+		<string>dvmAU_Reph</string>
+		<string>dvmAU_Reph_Anusvara</string>
+		<string>dvmEcandra_Anusvara</string>
+		<string>dvmOcandra_Anusvara</string>
+		<string>dvRA_mU</string>
+		<string>dvRA_mUU</string>
 		<string>dvHA_mU</string>
 		<string>dvHA_mUU</string>
-		<string>.notdef</string>
-		<string>NULL</string>
-		<string>CR</string>
-		<string>dvN_PH_RA</string>
-		<string>itfLogo</string>
-		<string>zerowidthnonjoiner</string>
-		<string>zerowidthjoiner</string>
-		<string>dottedcircle</string>
-		<string>dvZero</string>
-		<string>dvOne</string>
-		<string>dvTwo</string>
-		<string>dvThree</string>
-		<string>dvFour</string>
-		<string>dvFive</string>
-		<string>dvSix</string>
-		<string>dvSeven</string>
-		<string>dvEight</string>
-		<string>dvNine</string>
-		<string>dvEyelash_YA</string>
-		<string>dvEyelash_HA</string>
-		<string>dvEyelash</string>
-		<string>dvReph_Anusvara.amI</string>
+		<string>dvDA_mvR</string>
+		<string>dvSHA_mvR</string>
+		<string>dvHA_mvR</string>
 		<string>dvmI.a01</string>
-		<string>dvmI.a32</string>
 		<string>dvmI.a02</string>
 		<string>dvmI.a03</string>
 		<string>dvmI.a04</string>
@@ -650,11 +673,7 @@
 		<string>dvmI.a29</string>
 		<string>dvmI.a30</string>
 		<string>dvmI.a31</string>
-		<string>dvmII.aLong</string>
-		<string>dvmII_Anusvara.aLong</string>
-		<string>dvmII_Reph.aLong</string>
-		<string>dvmII_Reph_Anusvara.aLong</string>
-		<string>dvAnusvara.amI</string>
+		<string>dvmI.a32</string>
 		<string>exclam</string>
 		<string>quotedbl</string>
 		<string>numbersign</string>
@@ -777,16 +796,16 @@
 		<string>onesuperior</string>
 		<string>ordmasculine</string>
 		<string>guillemotright</string>
+		<string>onequarter</string>
+		<string>onehalf</string>
+		<string>threequarters</string>
 		<string>questiondown</string>
 		<string>Agrave</string>
 		<string>Aacute</string>
 		<string>Acircumflex</string>
-		<string>circumflex</string>
 		<string>Atilde</string>
-		<string>tilde</string>
 		<string>Adieresis</string>
 		<string>Aring</string>
-		<string>ring</string>
 		<string>AE</string>
 		<string>Ccedilla</string>
 		<string>Egrave</string>
@@ -848,14 +867,12 @@
 		<string>Amacron</string>
 		<string>amacron</string>
 		<string>Abreve</string>
-		<string>breve</string>
 		<string>abreve</string>
 		<string>Aogonek</string>
 		<string>aogonek</string>
 		<string>Cacute</string>
 		<string>cacute</string>
 		<string>Ccaron</string>
-		<string>caron</string>
 		<string>ccaron</string>
 		<string>Dcaron</string>
 		<string>dcaron</string>
@@ -864,10 +881,8 @@
 		<string>Emacron</string>
 		<string>emacron</string>
 		<string>Edotaccent</string>
-		<string>dotaccent</string>
 		<string>edotaccent</string>
 		<string>Eogonek</string>
-		<string>ogonek</string>
 		<string>eogonek</string>
 		<string>Ecaron</string>
 		<string>ecaron</string>
@@ -900,7 +915,6 @@
 		<string>Omacron</string>
 		<string>omacron</string>
 		<string>Ohungarumlaut</string>
-		<string>hungarumlaut</string>
 		<string>ohungarumlaut</string>
 		<string>OE</string>
 		<string>oe</string>
@@ -940,7 +954,15 @@
 		<string>scommaaccent</string>
 		<string>Tcommaaccent</string>
 		<string>tcommaaccent</string>
+		<string>circumflex</string>
+		<string>caron</string>
 		<string>macronmod</string>
+		<string>breve</string>
+		<string>dotaccent</string>
+		<string>ring</string>
+		<string>ogonek</string>
+		<string>tilde</string>
+		<string>hungarumlaut</string>
 		<string>pi</string>
 		<string>endash</string>
 		<string>emdash</string>
@@ -959,9 +981,14 @@
 		<string>guilsinglright</string>
 		<string>fraction</string>
 		<string>Euro</string>
+		<string>turkishlira</string>
+		<string>ruble</string>
+		<string>litre</string>
 		<string>trademark</string>
 		<string>Omega.math</string>
+		<string>estimated</string>
 		<string>partialdiff</string>
+		<string>Delta.math</string>
 		<string>product</string>
 		<string>summation</string>
 		<string>minus</string>
@@ -969,6 +996,7 @@
 		<string>bulletoperator</string>
 		<string>radical</string>
 		<string>infinity</string>
+		<string>integral</string>
 		<string>approxequal</string>
 		<string>notequal</string>
 		<string>lessequal</string>
@@ -976,38 +1004,10 @@
 		<string>lozenge</string>
 		<string>fi</string>
 		<string>fl</string>
-		<string>Delta.math</string>
 		<string>f_f</string>
 		<string>f_f_i</string>
 		<string>f_f_l</string>
-		<string>zerowidthspace</string>
-		<string>apostrophemod</string>
-		<string>dvmEcandra_Anusvara</string>
-		<string>dvAcandra</string>
-		<string>dvmvRR</string>
-		<string>rupee</string>
-		<string>dvL_RA</string>
-		<string>dvSS_RA</string>
-		<string>dvLL_RA</string>
-		<string>dvNG_R</string>
-		<string>dvCH_R</string>
-		<string>dvL_R</string>
-		<string>dvSH_R</string>
-		<string>dvSS_R</string>
-		<string>dvH_R</string>
-		<string>dvLL_R</string>
-		<string>dvTTH_VA</string>
-		<string>dvDDH_VA</string>
-		<string>estimated</string>
-		<string>integral</string>
-		<string>onequarter</string>
-		<string>onehalf</string>
-		<string>threequarters</string>
-		<string>turkishlira</string>
-		<string>ruble</string>
-		<string>dvmvL</string>
-		<string>dvmvLL</string>
-		<string>litre</string>
+		<string>dvA</string>
 	</array>
 </dict>
 </plist>
