@@ -1,18 +1,18 @@
-# Created: Fri Nov 21 15:15:21 2014
+# Created: Fri Nov 21 16:40:29 2014
 # PS Name: Hind-Light
 # MM Inst: None
 # exported from noApp
 
 @mGC_abvm.candra_n100_634 = [dvmEcandra dvCandrabindu dvmEcandra_Anusvara];
 @mGC_abvm.e_n100_634 = [dvmE dvmAI dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
-@mGC_abvm.i_262_708 = [dvReph.amI dvReph_Anusvara.amI];
+@mGC_abvm.i_0_708 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
 @mGC_abvm.reph_n100_634 = [dvReph dvReph_Anusvara];
 @mGC_blwm.u_n162_0 = [dvmU dvmUU];
 @mGC_blwm.virama_n162_0 = [dvmvR dvmvL dvmvLL dvVirama dvRashtrasign];
 
 markClass @mGC_abvm.candra_n100_634 <anchor -100 634> @MC_abvm.candra;
 markClass @mGC_abvm.e_n100_634 <anchor -100 634> @MC_abvm.e;
-markClass @mGC_abvm.i_262_708 <anchor 262 708> @MC_abvm.i;
+markClass @mGC_abvm.i_0_708 <anchor 0 708> @MC_abvm.i;
 markClass @mGC_abvm.reph_n100_634 <anchor -100 634> @MC_abvm.reph;
 markClass @mGC_blwm.u_n162_0 <anchor -162 0> @MC_blwm.u;
 markClass @mGC_blwm.virama_n162_0 <anchor -162 0> @MC_blwm.virama;

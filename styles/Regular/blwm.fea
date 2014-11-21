@@ -1,4 +1,4 @@
-# Created: Fri Nov 21 15:15:37 2014
+# Created: Fri Nov 21 16:40:46 2014
 # PS Name: Hind-Regular
 # MM Inst: None
 # exported from noApp
@@ -13,7 +13,7 @@ lookup MARK_BASE_blwm.u {
 	@bGC_dvPH_PHA_blwm.u = [dvPH_PHA dvPHx_PHxA];
 	@bGC_dvRA_blwm.u = [dvRA dvRxA];
 	@bGC_dvSH_KA_blwm.u = [dvSH_KA dvSH_KxA];
-	@bGC_dvSS_K_RA_blwm.u = [dvSS_K_RA dvSS_KA];
+	@bGC_dvSS_KA_blwm.u = [dvSS_KA dvSS_K_RA];
 	pos base @bGC_dvKA_blwm.u <anchor 346 0> mark @MC_blwm.u;
 	pos base @bGC_dvK_KA_blwm.u <anchor 859 0> mark @MC_blwm.u;
 	pos base @bGC_dvK_RA_blwm.u <anchor 354 0> mark @MC_blwm.u;
@@ -21,7 +21,7 @@ lookup MARK_BASE_blwm.u {
 	pos base @bGC_dvPH_PHA_blwm.u <anchor 994 0> mark @MC_blwm.u;
 	pos base @bGC_dvRA_blwm.u <anchor 231 0> mark @MC_blwm.u;
 	pos base @bGC_dvSH_KA_blwm.u <anchor 767 0> mark @MC_blwm.u;
-	pos base @bGC_dvSS_K_RA_blwm.u <anchor 716 0> mark @MC_blwm.u;
+	pos base @bGC_dvSS_KA_blwm.u <anchor 716 0> mark @MC_blwm.u;
 	pos base dvB_DA <anchor 773 -10> mark @MC_blwm.u;
 	pos base dvCHA <anchor 276 22> mark @MC_blwm.u;
 	pos base dvCH_RA <anchor 279 -117> mark @MC_blwm.u;

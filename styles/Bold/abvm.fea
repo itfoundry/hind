@@ -1,4 +1,4 @@
-# Created: Fri Nov 21 15:16:26 2014
+# Created: Fri Nov 21 16:41:35 2014
 # PS Name: Hind-Bold
 # MM Inst: None
 # exported from noApp
@@ -12,18 +12,18 @@ lookup MARK_BASE_abvm.bindu {
 	@bGC_dvDD_DDA_abvm.bindu = [dvDD_DDA dvDD_DDHA];
 	@bGC_dvD_BA_abvm.bindu = [dvD_BA dvD_B_RA];
 	@bGC_dvD_RA_abvm.bindu = [dvD_RA dvD_GA];
-	@bGC_dvH_MA_abvm.bindu = [dvH_MA dvH_YA dvN_D_VA];
-	@bGC_dvH_NNA_abvm.bindu = [dvH_NNA dvH_RA];
+	@bGC_dvH_RA_abvm.bindu = [dvH_RA dvH_NNA];
 	@bGC_dvJ_TTA_abvm.bindu = [dvJ_TTA dvS_TTA];
 	@bGC_dvKA_abvm.bindu = [dvKA dvKxA];
 	@bGC_dvK_KA_abvm.bindu = [dvK_KA dvKx_KxA];
 	@bGC_dvK_PHA_abvm.bindu = [dvK_PHA dvKx_PHA];
-	@bGC_dvK_RA_abvm.bindu = [dvK_RA dvK_NA dvKx_RA];
+	@bGC_dvK_RA_abvm.bindu = [dvK_RA dvKx_RA dvK_NA];
 	@bGC_dvK_S_TTA_abvm.bindu = [dvK_S_TTA dvK_S_DDA dvL_HA];
 	@bGC_dvL_TTA_abvm.bindu = [dvL_TTA dvL_DDA];
 	@bGC_dvNGA_abvm.bindu = [dvNGA dvDDA dvDDxA dvNG_RA];
 	@bGC_dvN_D_RA_abvm.bindu = [dvN_D_RA dvN_PH_RA];
-	@bGC_dvPHA_abvm.bindu = [dvPHA dvPHxA dvD_NA dvD_G_RA];
+	@bGC_dvN_D_VA_abvm.bindu = [dvN_D_VA dvH_MA dvH_YA];
+	@bGC_dvPHA_abvm.bindu = [dvPHA dvPHxA dvD_G_RA dvD_NA];
 	@bGC_dvPH_PHA_abvm.bindu = [dvPH_PHA dvPHx_PHxA];
 	@bGC_dvPH_RA_abvm.bindu = [dvPH_RA dvPH_NA];
 	@bGC_dvRA_abvm.bindu = [dvRA dvRxA dvRA_mU dvRA_mUU];
@@ -39,8 +39,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base @bGC_dvDD_DDA_abvm.bindu <anchor 478 671> mark @MC_abvm.bindu;
 	pos base @bGC_dvD_BA_abvm.bindu <anchor 558 671> mark @MC_abvm.bindu;
 	pos base @bGC_dvD_RA_abvm.bindu <anchor 502 671> mark @MC_abvm.bindu;
-	pos base @bGC_dvH_MA_abvm.bindu <anchor 791 671> mark @MC_abvm.bindu;
-	pos base @bGC_dvH_NNA_abvm.bindu <anchor 604 671> mark @MC_abvm.bindu;
+	pos base @bGC_dvH_RA_abvm.bindu <anchor 604 671> mark @MC_abvm.bindu;
 	pos base @bGC_dvJ_TTA_abvm.bindu <anchor 873 671> mark @MC_abvm.bindu;
 	pos base @bGC_dvKA_abvm.bindu <anchor 475 671> mark @MC_abvm.bindu;
 	pos base @bGC_dvK_KA_abvm.bindu <anchor 1035 671> mark @MC_abvm.bindu;
@@ -50,6 +49,7 @@ lookup MARK_BASE_abvm.bindu {
 	pos base @bGC_dvL_TTA_abvm.bindu <anchor 973 671> mark @MC_abvm.bindu;
 	pos base @bGC_dvNGA_abvm.bindu <anchor 433 671> mark @MC_abvm.bindu;
 	pos base @bGC_dvN_D_RA_abvm.bindu <anchor 792 671> mark @MC_abvm.bindu;
+	pos base @bGC_dvN_D_VA_abvm.bindu <anchor 791 671> mark @MC_abvm.bindu;
 	pos base @bGC_dvPHA_abvm.bindu <anchor 507 671> mark @MC_abvm.bindu;
 	pos base @bGC_dvPH_PHA_abvm.bindu <anchor 1133 671> mark @MC_abvm.bindu;
 	pos base @bGC_dvPH_RA_abvm.bindu <anchor 512 671> mark @MC_abvm.bindu;
@@ -150,18 +150,18 @@ lookup MARK_BASE_abvm.candra {
 	@bGC_dvDD_DDA_abvm.candra = [dvDD_DDA dvDD_DDHA];
 	@bGC_dvD_BA_abvm.candra = [dvD_BA dvD_B_RA];
 	@bGC_dvD_RA_abvm.candra = [dvD_RA dvD_GA];
-	@bGC_dvH_MA_abvm.candra = [dvH_MA dvH_YA dvN_D_VA];
-	@bGC_dvH_NNA_abvm.candra = [dvH_NNA dvH_RA];
+	@bGC_dvH_RA_abvm.candra = [dvH_RA dvH_NNA];
 	@bGC_dvJ_TTA_abvm.candra = [dvJ_TTA dvS_TTA];
 	@bGC_dvKA_abvm.candra = [dvKA dvKxA];
 	@bGC_dvK_KA_abvm.candra = [dvK_KA dvKx_KxA];
 	@bGC_dvK_PHA_abvm.candra = [dvK_PHA dvKx_PHA];
-	@bGC_dvK_RA_abvm.candra = [dvK_RA dvK_NA dvKx_RA];
+	@bGC_dvK_RA_abvm.candra = [dvK_RA dvKx_RA dvK_NA];
 	@bGC_dvK_S_TTA_abvm.candra = [dvK_S_TTA dvK_S_DDA dvL_HA];
 	@bGC_dvL_TTA_abvm.candra = [dvL_TTA dvL_DDA];
 	@bGC_dvNGA_abvm.candra = [dvNGA dvDDA dvDDxA dvNG_RA];
 	@bGC_dvN_D_RA_abvm.candra = [dvN_D_RA dvN_PH_RA];
-	@bGC_dvPHA_abvm.candra = [dvPHA dvPHxA dvD_NA dvD_G_RA];
+	@bGC_dvN_D_VA_abvm.candra = [dvN_D_VA dvH_MA dvH_YA];
+	@bGC_dvPHA_abvm.candra = [dvPHA dvPHxA dvD_G_RA dvD_NA];
 	@bGC_dvPH_PHA_abvm.candra = [dvPH_PHA dvPHx_PHxA];
 	@bGC_dvPH_RA_abvm.candra = [dvPH_RA dvPH_NA];
 	@bGC_dvRA_abvm.candra = [dvRA dvRxA dvRA_mU dvRA_mUU];
@@ -177,8 +177,7 @@ lookup MARK_BASE_abvm.candra {
 	pos base @bGC_dvDD_DDA_abvm.candra <anchor 478 671> mark @MC_abvm.candra;
 	pos base @bGC_dvD_BA_abvm.candra <anchor 558 671> mark @MC_abvm.candra;
 	pos base @bGC_dvD_RA_abvm.candra <anchor 502 671> mark @MC_abvm.candra;
-	pos base @bGC_dvH_MA_abvm.candra <anchor 791 671> mark @MC_abvm.candra;
-	pos base @bGC_dvH_NNA_abvm.candra <anchor 604 671> mark @MC_abvm.candra;
+	pos base @bGC_dvH_RA_abvm.candra <anchor 604 671> mark @MC_abvm.candra;
 	pos base @bGC_dvJ_TTA_abvm.candra <anchor 873 671> mark @MC_abvm.candra;
 	pos base @bGC_dvKA_abvm.candra <anchor 475 671> mark @MC_abvm.candra;
 	pos base @bGC_dvK_KA_abvm.candra <anchor 1035 671> mark @MC_abvm.candra;
@@ -188,6 +187,7 @@ lookup MARK_BASE_abvm.candra {
 	pos base @bGC_dvL_TTA_abvm.candra <anchor 973 671> mark @MC_abvm.candra;
 	pos base @bGC_dvNGA_abvm.candra <anchor 433 671> mark @MC_abvm.candra;
 	pos base @bGC_dvN_D_RA_abvm.candra <anchor 792 671> mark @MC_abvm.candra;
+	pos base @bGC_dvN_D_VA_abvm.candra <anchor 791 671> mark @MC_abvm.candra;
 	pos base @bGC_dvPHA_abvm.candra <anchor 507 671> mark @MC_abvm.candra;
 	pos base @bGC_dvPH_PHA_abvm.candra <anchor 1133 671> mark @MC_abvm.candra;
 	pos base @bGC_dvPH_RA_abvm.candra <anchor 512 671> mark @MC_abvm.candra;
@@ -286,18 +286,18 @@ lookup MARK_BASE_abvm.e {
 	@bGC_dvDD_DDA_abvm.e = [dvDD_DDA dvDD_DDHA];
 	@bGC_dvD_BA_abvm.e = [dvD_BA dvD_B_RA];
 	@bGC_dvD_RA_abvm.e = [dvD_RA dvD_GA];
-	@bGC_dvH_MA_abvm.e = [dvH_MA dvH_YA dvN_D_VA];
-	@bGC_dvH_NNA_abvm.e = [dvH_NNA dvH_RA];
+	@bGC_dvH_RA_abvm.e = [dvH_RA dvH_NNA];
 	@bGC_dvJ_TTA_abvm.e = [dvJ_TTA dvS_TTA];
 	@bGC_dvKA_abvm.e = [dvKA dvKxA];
 	@bGC_dvK_KA_abvm.e = [dvK_KA dvKx_KxA];
 	@bGC_dvK_PHA_abvm.e = [dvK_PHA dvKx_PHA];
-	@bGC_dvK_RA_abvm.e = [dvK_RA dvK_NA dvKx_RA];
+	@bGC_dvK_RA_abvm.e = [dvK_RA dvKx_RA dvK_NA];
 	@bGC_dvK_S_TTA_abvm.e = [dvK_S_TTA dvK_S_DDA dvL_HA];
 	@bGC_dvL_TTA_abvm.e = [dvL_TTA dvL_DDA];
 	@bGC_dvNGA_abvm.e = [dvNGA dvDDA dvDDxA dvNG_RA];
 	@bGC_dvN_D_RA_abvm.e = [dvN_D_RA dvN_PH_RA];
-	@bGC_dvPHA_abvm.e = [dvPHA dvPHxA dvD_NA dvD_G_RA];
+	@bGC_dvN_D_VA_abvm.e = [dvN_D_VA dvH_MA dvH_YA];
+	@bGC_dvPHA_abvm.e = [dvPHA dvPHxA dvD_G_RA dvD_NA];
 	@bGC_dvPH_PHA_abvm.e = [dvPH_PHA dvPHx_PHxA];
 	@bGC_dvPH_RA_abvm.e = [dvPH_RA dvPH_NA];
 	@bGC_dvRA_abvm.e = [dvRA dvRxA dvRA_mU dvRA_mUU];
@@ -313,8 +313,7 @@ lookup MARK_BASE_abvm.e {
 	pos base @bGC_dvDD_DDA_abvm.e <anchor 478 671> mark @MC_abvm.e;
 	pos base @bGC_dvD_BA_abvm.e <anchor 558 671> mark @MC_abvm.e;
 	pos base @bGC_dvD_RA_abvm.e <anchor 502 671> mark @MC_abvm.e;
-	pos base @bGC_dvH_MA_abvm.e <anchor 791 671> mark @MC_abvm.e;
-	pos base @bGC_dvH_NNA_abvm.e <anchor 604 671> mark @MC_abvm.e;
+	pos base @bGC_dvH_RA_abvm.e <anchor 604 671> mark @MC_abvm.e;
 	pos base @bGC_dvJ_TTA_abvm.e <anchor 873 671> mark @MC_abvm.e;
 	pos base @bGC_dvKA_abvm.e <anchor 475 671> mark @MC_abvm.e;
 	pos base @bGC_dvK_KA_abvm.e <anchor 1035 671> mark @MC_abvm.e;
@@ -324,6 +323,7 @@ lookup MARK_BASE_abvm.e {
 	pos base @bGC_dvL_TTA_abvm.e <anchor 973 671> mark @MC_abvm.e;
 	pos base @bGC_dvNGA_abvm.e <anchor 433 671> mark @MC_abvm.e;
 	pos base @bGC_dvN_D_RA_abvm.e <anchor 792 671> mark @MC_abvm.e;
+	pos base @bGC_dvN_D_VA_abvm.e <anchor 791 671> mark @MC_abvm.e;
 	pos base @bGC_dvPHA_abvm.e <anchor 507 671> mark @MC_abvm.e;
 	pos base @bGC_dvPH_PHA_abvm.e <anchor 1133 671> mark @MC_abvm.e;
 	pos base @bGC_dvPH_RA_abvm.e <anchor 512 671> mark @MC_abvm.e;
@@ -484,17 +484,17 @@ lookup MARK_BASE_abvm.reph {
 	@bGC_dvDD_DDA_abvm.reph = [dvDD_DDA dvDD_DDHA];
 	@bGC_dvD_BA_abvm.reph = [dvD_BA dvD_B_RA];
 	@bGC_dvD_RA_abvm.reph = [dvD_RA dvD_GA];
-	@bGC_dvH_MA_abvm.reph = [dvH_MA dvH_YA dvN_D_VA];
 	@bGC_dvJ_TTA_abvm.reph = [dvJ_TTA dvS_TTA];
 	@bGC_dvKA_abvm.reph = [dvKA dvKxA];
 	@bGC_dvK_KA_abvm.reph = [dvK_KA dvKx_KxA];
 	@bGC_dvK_PHA_abvm.reph = [dvK_PHA dvKx_PHA];
-	@bGC_dvK_RA_abvm.reph = [dvK_RA dvK_NA dvKx_RA];
+	@bGC_dvK_RA_abvm.reph = [dvK_RA dvKx_RA dvK_NA];
 	@bGC_dvK_S_TTA_abvm.reph = [dvK_S_TTA dvK_S_DDA dvL_HA];
 	@bGC_dvL_TTA_abvm.reph = [dvL_TTA dvL_DDA];
 	@bGC_dvNGA_abvm.reph = [dvNGA dvDDA dvDDxA dvNG_RA];
 	@bGC_dvN_D_RA_abvm.reph = [dvN_D_RA dvN_PH_RA];
-	@bGC_dvPHA_abvm.reph = [dvPHA dvPHxA dvD_NA dvD_G_RA];
+	@bGC_dvN_D_VA_abvm.reph = [dvN_D_VA dvH_MA dvH_YA];
+	@bGC_dvPHA_abvm.reph = [dvPHA dvPHxA dvD_G_RA dvD_NA];
 	@bGC_dvPH_PHA_abvm.reph = [dvPH_PHA dvPHx_PHxA];
 	@bGC_dvPH_RA_abvm.reph = [dvPH_RA dvPH_NA];
 	@bGC_dvRA_abvm.reph = [dvRA dvRxA dvRA_mU dvRA_mUU];
@@ -510,7 +510,6 @@ lookup MARK_BASE_abvm.reph {
 	pos base @bGC_dvDD_DDA_abvm.reph <anchor 478 671> mark @MC_abvm.reph;
 	pos base @bGC_dvD_BA_abvm.reph <anchor 558 671> mark @MC_abvm.reph;
 	pos base @bGC_dvD_RA_abvm.reph <anchor 502 671> mark @MC_abvm.reph;
-	pos base @bGC_dvH_MA_abvm.reph <anchor 791 671> mark @MC_abvm.reph;
 	pos base @bGC_dvJ_TTA_abvm.reph <anchor 873 671> mark @MC_abvm.reph;
 	pos base @bGC_dvKA_abvm.reph <anchor 475 671> mark @MC_abvm.reph;
 	pos base @bGC_dvK_KA_abvm.reph <anchor 1035 671> mark @MC_abvm.reph;
@@ -520,6 +519,7 @@ lookup MARK_BASE_abvm.reph {
 	pos base @bGC_dvL_TTA_abvm.reph <anchor 973 671> mark @MC_abvm.reph;
 	pos base @bGC_dvNGA_abvm.reph <anchor 433 671> mark @MC_abvm.reph;
 	pos base @bGC_dvN_D_RA_abvm.reph <anchor 792 671> mark @MC_abvm.reph;
+	pos base @bGC_dvN_D_VA_abvm.reph <anchor 791 671> mark @MC_abvm.reph;
 	pos base @bGC_dvPHA_abvm.reph <anchor 507 671> mark @MC_abvm.reph;
 	pos base @bGC_dvPH_PHA_abvm.reph <anchor 1133 671> mark @MC_abvm.reph;
 	pos base @bGC_dvPH_RA_abvm.reph <anchor 512 671> mark @MC_abvm.reph;

@@ -1,4 +1,4 @@
-# Created: Fri Nov 21 15:16:26 2014
+# Created: Fri Nov 21 16:41:35 2014
 # PS Name: Hind-Bold
 # MM Inst: None
 # exported from noApp
@@ -13,7 +13,7 @@ lookup MARK_BASE_blwm.u {
 	@bGC_dvKA_blwm.u = [dvKA dvKxA];
 	@bGC_dvK_KA_blwm.u = [dvK_KA dvKx_KxA];
 	@bGC_dvK_PHA_blwm.u = [dvK_PHA dvKx_PHA];
-	@bGC_dvK_RA_blwm.u = [dvK_RA dvK_NA dvKx_RA];
+	@bGC_dvK_RA_blwm.u = [dvK_RA dvKx_RA dvK_NA];
 	@bGC_dvPHA_blwm.u = [dvPHA dvPHxA];
 	@bGC_dvPH_PHA_blwm.u = [dvPH_PHA dvPHx_PHxA];
 	@bGC_dvPH_RA_blwm.u = [dvPH_RA dvPH_NA];
@@ -146,7 +146,7 @@ lookup MARK_BASE_blwm.virama {
 	@bGC_dvKA_blwm.virama = [dvKA dvKxA];
 	@bGC_dvK_KA_blwm.virama = [dvK_KA dvKx_KxA];
 	@bGC_dvK_PHA_blwm.virama = [dvK_PHA dvKx_PHA];
-	@bGC_dvK_RA_blwm.virama = [dvK_RA dvK_NA dvKx_RA];
+	@bGC_dvK_RA_blwm.virama = [dvK_RA dvKx_RA dvK_NA];
 	@bGC_dvPHA_blwm.virama = [dvPHA dvPHxA];
 	@bGC_dvPH_PHA_blwm.virama = [dvPH_PHA dvPHx_PHxA];
 	@bGC_dvPH_RA_blwm.virama = [dvPH_RA dvPH_NA];

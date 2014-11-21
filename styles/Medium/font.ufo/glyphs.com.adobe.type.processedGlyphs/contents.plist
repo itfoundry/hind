@@ -204,8 +204,6 @@
 	<string>dcaron.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
-	<key>divisionslash</key>
-	<string>divisionslash.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
 	<key>dvA</key>
@@ -1378,8 +1376,6 @@
 	<string>florin.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
-	<key>fraction</key>
-	<string>fraction.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>gbreve</key>

@@ -1,20 +1,20 @@
-# Created: Fri Nov 21 15:15:54 2014
+# Created: Fri Nov 21 16:41:02 2014
 # PS Name: Hind-Medium
 # MM Inst: None
 # exported from noApp
 
 @mGC_abvm.candra_n87_650 = [dvmEcandra dvCandrabindu dvmEcandra_Anusvara];
 @mGC_abvm.e_n87_650 = [dvmE dvmAI dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
+@mGC_abvm.i_0_720 = [dvAnusvara.amI dvReph.amI dvReph_Anusvara.amI];
 @mGC_abvm.reph_n87_650 = [dvReph dvReph_Anusvara];
 @mGC_blwm.u_n184_0 = [dvmU dvmUU];
 @mGC_blwm.virama_n184_0 = [dvmvR dvmvL dvmvLL dvVirama dvRashtrasign];
 
 markClass @mGC_abvm.candra_n87_650 <anchor -87 650> @MC_abvm.candra;
 markClass @mGC_abvm.e_n87_650 <anchor -87 650> @MC_abvm.e;
+markClass @mGC_abvm.i_0_720 <anchor 0 720> @MC_abvm.i;
 markClass @mGC_abvm.reph_n87_650 <anchor -87 650> @MC_abvm.reph;
 markClass @mGC_blwm.u_n184_0 <anchor -184 0> @MC_blwm.u;
 markClass @mGC_blwm.virama_n184_0 <anchor -184 0> @MC_blwm.virama;
 markClass dvAnusvara <anchor -87 650> @MC_abvm.bindu;
-markClass dvReph.amI <anchor 270 720> @MC_abvm.i;
-markClass dvReph_Anusvara.amI <anchor 271 720> @MC_abvm.i;
 

@@ -3,7 +3,7 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="266" y="714" type="move" name="_abvm.i"/>
+      <point x="0" y="714" type="move" name="_abvm.i"/>
     </contour>
     <contour>
       <point x="77" y="876" type="curve" smooth="yes"/>
