@@ -8,11 +8,11 @@
       <point type="line" x="980" y="650" />
       <point type="line" x="-24" y="650" />
       <point type="line" x="-24" y="570" />
-      <point type="line" x="744" y="570" />
-      <point type="line" x="744" y="498" />
-      <point type="line" x="654" y="498" />
+      <point type="line" x="743" y="570" />
+      <point type="line" x="743" y="498" />
+      <point type="line" x="653" y="498" />
       <point x="603" y="498" />
-      <point x="556" y="484" />
+      <point x="555" y="484" />
       <point type="curve" x="524" y="455" />
       <point type="line" x="94" y="455" />
       <point type="line" x="94" y="374" />
@@ -42,13 +42,13 @@
       <point x="485" y="263" />
       <point x="565" y="226" />
       <point type="curve" x="676" y="222" />
-      <point x="764" y="219" />
+      <point x="763" y="219" />
       <point x="799" y="204" />
       <point type="curve" x="799" y="157" />
       <point x="799" y="109" />
-      <point x="756" y="80" />
-      <point type="curve" x="684" y="80" />
-      <point x="613" y="80" />
+      <point x="755" y="80" />
+      <point type="curve" x="683" y="80" />
+      <point x="612" y="80" />
       <point x="540" y="104" />
       <point type="curve" x="486" y="138" />
       <point type="line" x="486" y="45" />
@@ -56,17 +56,17 @@
       <point x="601" y="-1" />
       <point type="curve" x="683" y="-1" />
       <point x="816" y="-1" />
-      <point x="896" y="68" />
+      <point x="895" y="68" />
       <point type="curve" x="896" y="160" />
       <point x="896" y="255" />
       <point x="831" y="300" />
       <point type="curve" x="711" y="303" />
-      <point x="619" y="306" />
+      <point x="618" y="306" />
       <point x="581" y="320" />
       <point type="curve" x="581" y="362" />
       <point x="581" y="404" />
       <point x="618" y="418" />
-      <point type="curve" x="656" y="418" />
+      <point type="curve" x="655" y="418" />
       <point type="line" x="840" y="418" />
       <point type="line" x="840" y="419" />
       <point type="line" x="840" y="419" />

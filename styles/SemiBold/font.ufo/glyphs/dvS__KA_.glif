@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvS_KA" format="1">
-  <advance width="1214"/>
+  <advance width="1207"/>
   <outline>
     <contour>
-      <point x="875" y="660" type="move" name="abvm.bindu"/>
+      <point x="868" y="660" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="875" y="660" type="move" name="abvm.candra"/>
+      <point x="868" y="660" type="move" name="abvm.candra"/>
     </contour>
     <contour>
-      <point x="875" y="660" type="move" name="abvm.e"/>
+      <point x="868" y="660" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="875" y="660" type="move" name="abvm.reph"/>
+      <point x="868" y="660" type="move" name="abvm.reph"/>
     </contour>
     <contour>
-      <point x="757" y="0" type="move" name="blwm.u"/>
+      <point x="750" y="0" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvKA" xOffset="419"/>
+    <component base="dvKA" xOffset="412"/>
     <component base="dvS"/>
   </outline>
 </glyph>

@@ -31,12 +31,6 @@
       <point x="840" y="671" type="line"/>
     </contour>
     <contour>
-      <point x="1153" y="559" type="line"/>
-      <point x="1153" y="671" type="line"/>
-      <point x="490" y="671" type="line"/>
-      <point x="490" y="559" type="line"/>
-    </contour>
-    <contour>
       <point x="912" y="324" type="line"/>
       <point x="899" y="245"/>
       <point x="855" y="198"/>
@@ -99,6 +93,12 @@
       <point x="1074" y="117"/>
       <point x="1011" y="129"/>
       <point x="965" y="150" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1153" y="559" type="line"/>
+      <point x="1153" y="671" type="line"/>
+      <point x="490" y="671" type="line"/>
+      <point x="490" y="559" type="line"/>
     </contour>
     <component base="dvL"/>
   </outline>

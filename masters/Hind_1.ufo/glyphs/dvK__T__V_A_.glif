@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvK_T_VA" format="1">
-  <advance width="1493"/>
+  <advance width="1503"/>
   <outline>
     <contour>
       <point x="839" y="559" type="line"/>
@@ -58,7 +58,7 @@
       <point x="624" y="352"/>
       <point x="633" y="320" type="curve"/>
     </contour>
-    <component base="dvT" xOffset="540"/>
-    <component base="dvVA" xOffset="890"/>
+    <component base="dvT" xOffset="550"/>
+    <component base="dvVA" xOffset="900"/>
   </outline>
 </glyph>

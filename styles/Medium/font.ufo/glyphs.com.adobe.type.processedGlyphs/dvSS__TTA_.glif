@@ -7,7 +7,7 @@
       <point type="line" x="387" y="570" />
       <point type="line" x="387" y="493" />
       <point x="387" y="456" />
-      <point x="391" y="418" />
+      <point x="391" y="419" />
       <point type="curve" x="395" y="385" />
     </contour>
     <contour>
@@ -46,9 +46,7 @@
       <point x="159" y="227" />
       <point x="224" y="259" />
       <point type="curve" x="309" y="259" />
-      <point type="line" x="449" y="259" />
-      <point type="line" x="449" y="273" />
-      <point type="line" x="484" y="276" />
+      <point type="line" x="484" y="259" />
       <point type="line" x="484" y="570" />
       <point type="line" x="582" y="570" />
     </contour>

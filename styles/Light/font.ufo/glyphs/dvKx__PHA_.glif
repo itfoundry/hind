@@ -21,7 +21,7 @@
       <point x="913" y="0" type="move" name="blwm.u"/>
     </contour>
     <component base="dvPHA" xOffset="528"/>
-    <component base="dvK"/>
     <component base="dvNukta" xOffset="420" yOffset="90"/>
+    <component base="dvK"/>
   </outline>
 </glyph>

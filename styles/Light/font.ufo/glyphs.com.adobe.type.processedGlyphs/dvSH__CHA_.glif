@@ -73,8 +73,8 @@
     <contour>
       <point type="line" x="1054" y="579" />
       <point type="line" x="1054" y="634" />
-      <point type="line" x="390" y="634" />
-      <point type="line" x="390" y="579" />
+      <point type="line" x="396" y="634" />
+      <point type="line" x="396" y="579" />
       <point type="line" x="548" y="579" />
       <point x="515" y="552" />
       <point x="500" y="512" />

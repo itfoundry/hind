@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>ascender</key>
-	<integer>750</integer>
+	<integer>707</integer>
 	<key>capHeight</key>
-	<integer>551</integer>
+	<integer>674</integer>
 	<key>descender</key>
-	<integer>-250</integer>
+	<integer>-198</integer>
 	<key>familyName</key>
 	<string>Hind</string>
 	<key>italicAngle</key>
@@ -59,6 +59,6 @@
 	<key>versionMinor</key>
 	<integer>0</integer>
 	<key>xHeight</key>
-	<integer>608</integer>
+	<integer>507</integer>
 </dict>
 </plist>

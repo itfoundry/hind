@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvP_T_YA" format="1">
-  <advance width="1278"/>
+  <advance width="1290"/>
   <outline>
     <contour>
-      <point x="779" y="370" type="line"/>
-      <point x="759" y="416"/>
+      <point x="624" y="377" type="line"/>
+      <point x="671" y="377"/>
+      <point x="700" y="350"/>
+      <point x="716" y="313" type="curve"/>
+      <point x="791" y="364" type="line"/>
+      <point x="768" y="415"/>
       <point x="711" y="458"/>
-      <point x="624" y="458" type="curve" smooth="yes"/>
-      <point x="607" y="458" type="line" smooth="yes"/>
-      <point x="450" y="458"/>
+      <point x="622" y="458" type="curve" smooth="yes"/>
+      <point x="605" y="458" type="line" smooth="yes"/>
+      <point x="448" y="458"/>
       <point x="368" y="363"/>
       <point x="368" y="232" type="curve" smooth="yes"/>
       <point x="368" y="99"/>
-      <point x="448" y="0"/>
+      <point x="445" y="0"/>
       <point x="586" y="0" type="curve" smooth="yes"/>
       <point x="599" y="0"/>
       <point x="610" y="1"/>
@@ -22,15 +26,11 @@
       <point x="604" y="83"/>
       <point x="598" y="83" type="curve" smooth="yes"/>
       <point x="507" y="83"/>
-      <point x="466" y="142"/>
+      <point x="466" y="143"/>
       <point x="466" y="231" type="curve" smooth="yes"/>
       <point x="466" y="327"/>
-      <point x="522" y="377"/>
-      <point x="607" y="377" type="curve" smooth="yes"/>
-      <point x="626" y="377" type="line" smooth="yes"/>
-      <point x="658" y="377"/>
-      <point x="690" y="361"/>
-      <point x="699" y="332" type="curve"/>
+      <point x="520" y="377"/>
+      <point x="605" y="377" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="284" y="570" type="line"/>
@@ -38,7 +38,7 @@
       <point x="927" y="650" type="line"/>
       <point x="284" y="650" type="line"/>
     </contour>
-    <component base="dvYA" xOffset="650"/>
+    <component base="dvYA" xOffset="663"/>
     <component base="dvP"/>
   </outline>
 </glyph>

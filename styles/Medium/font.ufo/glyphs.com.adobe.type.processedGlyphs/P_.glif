@@ -6,13 +6,13 @@
     <contour>
       <point name="hintSet0000" type="line" x="176" y="324" />
       <point type="line" x="176" y="589" />
-      <point type="line" x="269" y="589" />
-      <point x="363" y="587" />
-      <point x="414" y="529" />
+      <point type="line" x="262" y="589" />
+      <point x="363" y="589" />
+      <point x="414" y="536" />
       <point type="curve" x="414" y="455" />
-      <point x="414" y="384" />
-      <point x="365" y="327" />
-      <point type="curve" x="275" y="324" />
+      <point x="414" y="380" />
+      <point x="365" y="324" />
+      <point type="curve" x="264" y="324" />
     </contour>
     <contour>
       <point type="line" x="73" y="674" />

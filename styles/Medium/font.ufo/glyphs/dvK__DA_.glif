@@ -12,15 +12,15 @@
       <point x="955" y="650" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="763" y="-1" type="move" name="blwm.virama"/>
+      <point x="764" y="-1" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="955" y="650" type="move" name="abvm.reph"/>
     </contour>
     <contour>
-      <point x="763" y="-36" type="move" name="blwm.u"/>
+      <point x="764" y="-36" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvDDA" xOffset="546"/>
+    <component base="dvDDA" xOffset="547"/>
     <component base="dvK"/>
   </outline>
 </glyph>

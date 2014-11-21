@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvNN_DDHA" format="1">
-  <advance width="1064"/>
+  <advance width="1059"/>
   <outline>
     <contour>
-      <point x="964" y="671" type="move" name="abvm.bindu"/>
+      <point x="959" y="671" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="964" y="671" type="move" name="abvm.candra"/>
+      <point x="959" y="671" type="move" name="abvm.candra"/>
     </contour>
     <contour>
-      <point x="964" y="671" type="move" name="abvm.reph"/>
+      <point x="959" y="671" type="move" name="abvm.reph"/>
     </contour>
     <contour>
-      <point x="964" y="671" type="move" name="abvm.e"/>
+      <point x="959" y="671" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="740" y="-26" type="move" name="blwm.u"/>
+      <point x="735" y="-26" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="740" y="9" type="move" name="blwm.virama"/>
+      <point x="735" y="9" type="move" name="blwm.virama"/>
     </contour>
     <component base="dvNN"/>
-    <component base="dvDDHA" xOffset="500"/>
+    <component base="dvDDHA" xOffset="495"/>
   </outline>
 </glyph>

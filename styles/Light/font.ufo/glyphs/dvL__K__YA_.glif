@@ -1,64 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvL_K_YA" format="1">
-  <advance width="1553"/>
+  <advance width="1646"/>
   <outline>
-    <contour>
-      <point x="1251" y="579" type="line"/>
-      <point x="1251" y="634" type="line"/>
-      <point x="450" y="634" type="line"/>
-      <point x="450" y="579" type="line"/>
-    </contour>
-    <contour>
-      <point x="736" y="464" type="line"/>
-      <point x="731" y="466"/>
-      <point x="722" y="467"/>
-      <point x="713" y="467" type="curve" smooth="yes"/>
-      <point x="609" y="467"/>
-      <point x="520" y="397"/>
-      <point x="520" y="279" type="curve" smooth="yes"/>
-      <point x="520" y="172"/>
-      <point x="595" y="103"/>
-      <point x="701" y="103" type="curve" smooth="yes"/>
-      <point x="773" y="103"/>
-      <point x="836" y="143"/>
-      <point x="849" y="213" type="curve"/>
-      <point x="820" y="266" type="line"/>
-      <point x="820" y="202"/>
-      <point x="765" y="155"/>
-      <point x="705" y="155" type="curve" smooth="yes"/>
-      <point x="634" y="155"/>
-      <point x="582" y="205"/>
-      <point x="582" y="279" type="curve" smooth="yes"/>
-      <point x="582" y="366"/>
-      <point x="643" y="412"/>
-      <point x="715" y="412" type="curve" smooth="yes"/>
-      <point x="722" y="412"/>
-      <point x="731" y="411"/>
-      <point x="736" y="410" type="curve"/>
-    </contour>
-    <contour>
-      <point x="820" y="603" type="line"/>
-      <point x="820" y="0" type="line"/>
-      <point x="882" y="0" type="line"/>
-      <point x="882" y="603" type="line"/>
-    </contour>
-    <contour>
-      <point x="1143" y="415" type="line"/>
-      <point x="1120" y="444"/>
-      <point x="1071" y="477"/>
-      <point x="1001" y="477" type="curve" smooth="yes"/>
-      <point x="929" y="477"/>
-      <point x="866" y="437"/>
-      <point x="853" y="367" type="curve"/>
-      <point x="882" y="314" type="line"/>
-      <point x="882" y="378"/>
-      <point x="937" y="425"/>
-      <point x="997" y="425" type="curve" smooth="yes"/>
-      <point x="1045" y="425"/>
-      <point x="1074" y="407"/>
-      <point x="1096" y="380" type="curve"/>
-    </contour>
-    <component base="dvYA" xOffset="930"/>
     <component base="dvL"/>
+    <component base="dvK_YA" xOffset="480"/>
   </outline>
 </glyph>

@@ -49,8 +49,7 @@
       <point x="290" y="81" />
       <point x="369" y="157" />
       <point type="curve" x="376" y="260" />
-      <point type="line" x="520" y="260" />
-      <point type="line" x="520" y="258" />
+      <point type="line" x="518" y="260" />
       <point type="line" x="741" y="0" />
       <point type="line" x="824" y="0" />
       <point type="line" x="595" y="260" />

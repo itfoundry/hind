@@ -4,6 +4,6 @@
   <outline>
     <component base="dvSS"/>
     <component base="dvYA" xOffset="890"/>
-    <component base="dvNN" xOffset="403"/>
+    <component base="dvNN" xOffset="388"/>
   </outline>
 </glyph>

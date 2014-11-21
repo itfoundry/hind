@@ -1,4 +1,4 @@
-# Created: Mon Nov 17 14:47:35 2014
+# Created: Fri Nov 21 15:15:54 2014
 # PS Name: Hind-Medium
 # MM Inst: None
 # exported from noApp
@@ -7,7 +7,7 @@
 @mGC_abvm.e_n87_650 = [dvmE dvmAI dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.reph_n87_650 = [dvReph dvReph_Anusvara];
 @mGC_blwm.u_n184_0 = [dvmU dvmUU];
-@mGC_blwm.virama_n184_0 = [dvmvR dvVirama dvRashtrasign];
+@mGC_blwm.virama_n184_0 = [dvmvR dvmvL dvmvLL dvVirama dvRashtrasign];
 
 markClass @mGC_abvm.candra_n87_650 <anchor -87 650> @MC_abvm.candra;
 markClass @mGC_abvm.e_n87_650 <anchor -87 650> @MC_abvm.e;

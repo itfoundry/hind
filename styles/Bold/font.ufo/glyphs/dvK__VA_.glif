@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvK_VA" format="1">
-  <advance width="1148"/>
+  <advance width="1172"/>
   <outline>
-    <component base="dvVA" xOffset="545"/>
-    <component base="dvK" xOffset="6"/>
+    <component base="dvVA" xOffset="569"/>
+    <component base="dvK"/>
   </outline>
 </glyph>

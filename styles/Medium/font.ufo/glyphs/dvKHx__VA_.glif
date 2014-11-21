@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvKHx_VA" format="1">
-  <advance width="1165"/>
+  <advance width="1159"/>
   <outline>
     <component base="dvKH"/>
-    <component base="dvVA" xOffset="583"/>
+    <component base="dvVA" xOffset="577"/>
     <component base="dvNukta" xOffset="368" yOffset="112"/>
   </outline>
 </glyph>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvK_SS_M_YA" format="1">
-  <advance width="1465"/>
+  <advance width="1467"/>
   <outline>
     <contour>
       <point x="459" y="234" type="line"/>
@@ -57,7 +57,6 @@
       <point x="295" y="407"/>
       <point x="240" y="392" type="curve"/>
     </contour>
-    <component base="dvM" xOffset="512"/>
-    <component base="dvYA" xOffset="838"/>
+    <component base="dvM_YA" xOffset="515"/>
   </outline>
 </glyph>

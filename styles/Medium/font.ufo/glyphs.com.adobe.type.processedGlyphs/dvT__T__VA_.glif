@@ -24,10 +24,9 @@
       <point x="695" y="479" />
       <point x="670" y="482" />
       <point type="curve" x="646" y="482" />
-      <point x="591" y="482" />
-      <point x="544" y="465" />
-      <point type="curve" x="509" y="436" />
-      <point type="line" x="509" y="457" />
+      <point x="606" y="482" />
+      <point x="571" y="473" />
+      <point type="curve" x="541" y="457" />
       <point type="line" x="55" y="457" />
       <point type="line" x="55" y="377" />
       <point type="line" x="119" y="377" />

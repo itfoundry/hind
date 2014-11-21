@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dvJ_BA" format="1">
-  <advance width="1082"/>
-  <outline>
-    <component base="dvJ"/>
-    <component base="dvBA" xOffset="450"/>
-  </outline>
-</glyph>

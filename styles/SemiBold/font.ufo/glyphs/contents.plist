@@ -340,6 +340,8 @@
 	<string>dvAU_.glif</string>
 	<key>dvAbbreviationsign</key>
 	<string>dvAbbreviationsign_.glif</string>
+	<key>dvAcandra</key>
+	<string>dvAcandra_.glif</string>
 	<key>dvAnusvara</key>
 	<string>dvAnusvara_.glif</string>
 	<key>dvAnusvara.amI</key>
@@ -416,6 +418,8 @@
 	<string>dvCH_.glif</string>
 	<key>dvCHA</key>
 	<string>dvCHA_.glif</string>
+	<key>dvCH_R</key>
+	<string>dvCH__R_.glif</string>
 	<key>dvCH_RA</key>
 	<string>dvCH__RA_.glif</string>
 	<key>dvCH_R_YA</key>
@@ -460,6 +464,8 @@
 	<string>dvDDH__R_.glif</string>
 	<key>dvDDH_RA</key>
 	<string>dvDDH__RA_.glif</string>
+	<key>dvDDH_VA</key>
+	<string>dvDDH__VA_.glif</string>
 	<key>dvDDH_YA</key>
 	<string>dvDDH__YA_.glif</string>
 	<key>dvDDHxA</key>
@@ -626,6 +632,8 @@
 	<string>dvH__NA_.glif</string>
 	<key>dvH_NNA</key>
 	<string>dvH__NNA_.glif</string>
+	<key>dvH_R</key>
+	<string>dvH__R_.glif</string>
 	<key>dvH_RA</key>
 	<string>dvH__RA_.glif</string>
 	<key>dvH_VA</key>
@@ -854,6 +862,10 @@
 	<string>dvLL_.glif</string>
 	<key>dvLLA</key>
 	<string>dvLLA_.glif</string>
+	<key>dvLL_R</key>
+	<string>dvLL__R_.glif</string>
+	<key>dvLL_RA</key>
+	<string>dvLL__RA_.glif</string>
 	<key>dvLL_YA</key>
 	<string>dvLL__YA_.glif</string>
 	<key>dvL_BA</key>
@@ -892,6 +904,10 @@
 	<string>dvL__PA_.glif</string>
 	<key>dvL_PHA</key>
 	<string>dvL__PHA_.glif</string>
+	<key>dvL_R</key>
+	<string>dvL__R_.glif</string>
+	<key>dvL_RA</key>
+	<string>dvL__RA_.glif</string>
 	<key>dvL_SA</key>
 	<string>dvL__SA_.glif</string>
 	<key>dvL_TA</key>
@@ -964,6 +980,8 @@
 	<string>dvNG_.glif</string>
 	<key>dvNGA</key>
 	<string>dvNGA_.glif</string>
+	<key>dvNG_R</key>
+	<string>dvNG__R_.glif</string>
 	<key>dvNG_RA</key>
 	<string>dvNG__RA_.glif</string>
 	<key>dvNN</key>
@@ -1216,6 +1234,8 @@
 	<string>dvSH__MA_.glif</string>
 	<key>dvSH_NA</key>
 	<string>dvSH__NA_.glif</string>
+	<key>dvSH_R</key>
+	<string>dvSH__R_.glif</string>
 	<key>dvSH_RA</key>
 	<string>dvSH__RA_.glif</string>
 	<key>dvSH_SHA</key>
@@ -1250,6 +1270,10 @@
 	<string>dvSS__PHA_.glif</string>
 	<key>dvSS_P_RA</key>
 	<string>dvSS__P__RA_.glif</string>
+	<key>dvSS_R</key>
+	<string>dvSS__R_.glif</string>
+	<key>dvSS_RA</key>
+	<string>dvSS__RA_.glif</string>
 	<key>dvSS_SSA</key>
 	<string>dvSS__SSA_.glif</string>
 	<key>dvSS_TTA</key>
@@ -1358,6 +1382,8 @@
 	<string>dvTTH__RA_.glif</string>
 	<key>dvTTH_TTHA</key>
 	<string>dvTTH__TTHA_.glif</string>
+	<key>dvTTH_VA</key>
+	<string>dvTTH__VA_.glif</string>
 	<key>dvTTH_YA</key>
 	<string>dvTTH__YA_.glif</string>
 	<key>dvTT_R</key>
@@ -1602,8 +1628,14 @@
 	<string>dvmU_.glif</string>
 	<key>dvmUU</key>
 	<string>dvmUU_.glif</string>
+	<key>dvmvL</key>
+	<string>dvmvL_.glif</string>
+	<key>dvmvLL</key>
+	<string>dvmvLL_.glif</string>
 	<key>dvmvR</key>
 	<string>dvmvR_.glif</string>
+	<key>dvmvRR</key>
+	<string>dvmvRR_.glif</string>
 	<key>dvvL</key>
 	<string>dvvL_.glif</string>
 	<key>dvvLL</key>
@@ -1640,6 +1672,8 @@
 	<string>eogonek.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
+	<key>estimated</key>
+	<string>estimated.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
 	<key>exclam</key>
@@ -1648,12 +1682,12 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
-	<key>ff</key>
-	<string>ff.glif</string>
-	<key>ffi</key>
-	<string>ffi.glif</string>
-	<key>ffl</key>
-	<string>ffl.glif</string>
+	<key>f_f</key>
+	<string>f_f.glif</string>
+	<key>f_f_i</key>
+	<string>f_f_i.glif</string>
+	<key>f_f_l</key>
+	<string>f_f_l.glif</string>
 	<key>fi</key>
 	<string>fi.glif</string>
 	<key>five</key>
@@ -1710,6 +1744,8 @@
 	<string>indianrupee.glif</string>
 	<key>infinity</key>
 	<string>infinity.glif</string>
+	<key>integral</key>
+	<string>integral.glif</string>
 	<key>iogonek</key>
 	<string>iogonek.glif</string>
 	<key>itfLogo</key>
@@ -1732,6 +1768,8 @@
 	<string>less.glif</string>
 	<key>lessequal</key>
 	<string>lessequal.glif</string>
+	<key>litre</key>
+	<string>litre.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
 	<key>lozenge</key>
@@ -1788,6 +1826,10 @@
 	<string>omacron.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>onehalf</key>
+	<string>onehalf.glif</string>
+	<key>onequarter</key>
+	<string>onequarter.glif</string>
 	<key>onesuperior</key>
 	<string>onesuperior.glif</string>
 	<key>ordfeminine</key>
@@ -1860,6 +1902,10 @@
 	<string>registered.glif</string>
 	<key>ring</key>
 	<string>ring.glif</string>
+	<key>ruble</key>
+	<string>ruble.glif</string>
+	<key>rupee</key>
+	<string>rupee.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>sacute</key>
@@ -1900,12 +1946,16 @@
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>threequarters</key>
+	<string>threequarters.glif</string>
 	<key>threesuperior</key>
 	<string>threesuperior.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
+	<key>turkishlira</key>
+	<string>turkishlira.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
 	<key>twosuperior</key>

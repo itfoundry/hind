@@ -2,8 +2,7 @@
 <glyph name="dvKx_MA" format="1">
   <advance width="1180"/>
   <outline>
-    <component base="dvMA" xOffset="595"/>
-    <component base="dvK"/>
+    <component base="dvK_MA"/>
     <component base="dvNukta" xOffset="460" yOffset="80"/>
   </outline>
 </glyph>

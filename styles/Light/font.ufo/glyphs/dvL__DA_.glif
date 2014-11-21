@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvL_DA" format="1">
-  <advance width="1012"/>
+  <advance width="1022"/>
   <outline>
     <contour>
-      <point x="910" y="634" type="move" name="abvm.candra"/>
+      <point x="920" y="634" type="move" name="abvm.candra"/>
     </contour>
     <contour>
-      <point x="910" y="634" type="move" name="abvm.e"/>
+      <point x="920" y="634" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="910" y="634" type="move" name="abvm.bindu"/>
+      <point x="920" y="634" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="861" y="-10" type="move" name="blwm.virama"/>
+      <point x="871" y="-10" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="910" y="634" type="move" name="abvm.reph"/>
+      <point x="920" y="634" type="move" name="abvm.reph"/>
     </contour>
     <contour>
-      <point x="861" y="-10" type="move" name="blwm.u"/>
+      <point x="871" y="-10" type="move" name="blwm.u"/>
     </contour>
     <component base="dvL"/>
-    <component base="dvDA" xOffset="470"/>
+    <component base="dvDA" xOffset="480"/>
   </outline>
 </glyph>

@@ -50,12 +50,11 @@
       <point x="401" y="137" />
       <point type="curve" x="419" y="239" />
       <point type="line" x="560" y="239" />
-      <point type="line" x="560" y="234" />
       <point type="line" x="781" y="0" />
       <point type="line" x="961" y="0" />
-      <point type="line" x="724" y="239" />
-      <point x="845" y="246" />
-      <point x="972" y="318" />
+      <point type="line" x="728" y="240" />
+      <point x="848" y="247" />
+      <point x="972" y="319" />
       <point type="curve" x="972" y="479" />
       <point x="972" y="594" />
       <point x="894" y="677" />

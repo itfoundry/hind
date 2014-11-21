@@ -1,18 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvT_YA" format="1">
-  <advance width="959"/>
+  <advance width="977"/>
   <outline>
     <contour>
-      <point x="458" y="368" type="line"/>
-      <point x="440" y="411"/>
-      <point x="396" y="452"/>
-      <point x="312" y="452" type="curve" smooth="yes"/>
-      <point x="294" y="452" type="line" smooth="yes"/>
-      <point x="145" y="452"/>
+      <point x="313" y="384" type="line"/>
+      <point x="361" y="384"/>
+      <point x="394" y="359"/>
+      <point x="411" y="322" type="curve"/>
+      <point x="475" y="359" type="line"/>
+      <point x="453" y="410"/>
+      <point x="398" y="452"/>
+      <point x="311" y="452" type="curve"/>
+      <point x="293" y="452" type="line" smooth="yes"/>
+      <point x="144" y="452"/>
       <point x="65" y="357"/>
       <point x="65" y="229" type="curve" smooth="yes"/>
       <point x="65" y="98"/>
-      <point x="145" y="0"/>
+      <point x="143" y="0"/>
       <point x="281" y="0" type="curve" smooth="yes"/>
       <point x="293" y="0"/>
       <point x="303" y="1"/>
@@ -25,12 +29,8 @@
       <point x="144" y="133"/>
       <point x="144" y="228" type="curve" smooth="yes"/>
       <point x="144" y="331"/>
-      <point x="204" y="384"/>
-      <point x="294" y="384" type="curve" smooth="yes"/>
-      <point x="314" y="384" type="line" smooth="yes"/>
-      <point x="348" y="384"/>
-      <point x="382" y="366"/>
-      <point x="390" y="337" type="curve"/>
+      <point x="203" y="384"/>
+      <point x="293" y="384" type="curve" smooth="yes"/>
     </contour>
     <contour>
       <point x="-22" y="575" type="line"/>
@@ -38,6 +38,6 @@
       <point x="610" y="642" type="line"/>
       <point x="-22" y="642" type="line"/>
     </contour>
-    <component base="dvYA" xOffset="334"/>
+    <component base="dvYA" xOffset="351"/>
   </outline>
 </glyph>

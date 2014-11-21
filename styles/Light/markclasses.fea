@@ -1,4 +1,4 @@
-# Created: Mon Nov 17 14:47:04 2014
+# Created: Fri Nov 21 15:15:21 2014
 # PS Name: Hind-Light
 # MM Inst: None
 # exported from noApp
@@ -8,7 +8,7 @@
 @mGC_abvm.i_262_708 = [dvReph.amI dvReph_Anusvara.amI];
 @mGC_abvm.reph_n100_634 = [dvReph dvReph_Anusvara];
 @mGC_blwm.u_n162_0 = [dvmU dvmUU];
-@mGC_blwm.virama_n162_0 = [dvmvR dvVirama dvRashtrasign];
+@mGC_blwm.virama_n162_0 = [dvmvR dvmvL dvmvLL dvVirama dvRashtrasign];
 
 markClass @mGC_abvm.candra_n100_634 <anchor -100 634> @MC_abvm.candra;
 markClass @mGC_abvm.e_n100_634 <anchor -100 634> @MC_abvm.e;

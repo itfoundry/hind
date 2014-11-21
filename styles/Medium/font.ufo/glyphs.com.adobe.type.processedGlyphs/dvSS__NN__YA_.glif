@@ -22,7 +22,7 @@
       <point type="line" x="682" y="346" />
       <point x="682" y="278" />
       <point x="653" y="250" />
-      <point type="curve" x="599" y="250" />
+      <point type="curve" x="598" y="250" />
       <point x="542" y="250" />
       <point x="518" y="285" />
       <point type="curve" x="518" y="346" />
@@ -59,7 +59,7 @@
       <point x="346" y="169" />
       <point x="403" y="202" />
       <point type="curve" x="444" y="244" />
-      <point x="471" y="193" />
+      <point x="470" y="193" />
       <point x="522" y="168" />
       <point type="curve" x="597" y="168" />
       <point x="713" y="168" />

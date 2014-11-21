@@ -4,12 +4,12 @@
   <outline>
     <contour>
       <point name="hintSet0000" type="line" x="702" y="424" />
-      <point x="666" y="458" />
-      <point x="617" y="481" />
-      <point type="curve" x="556" y="481" />
-      <point x="458" y="481" />
-      <point x="391" y="428" />
-      <point type="curve" x="366" y="346" />
+      <point x="667" y="459" />
+      <point x="619" y="481" />
+      <point type="curve" x="560" y="481" />
+      <point x="459" y="481" />
+      <point x="394" y="428" />
+      <point type="curve" x="368" y="346" />
       <point type="line" x="289" y="346" />
       <point x="304" y="371" />
       <point x="312" y="403" />
@@ -34,11 +34,9 @@
       <point x="214" y="255" />
       <point x="260" y="251" />
       <point type="curve" x="320" y="251" />
-      <point type="line" x="456" y="251" />
-      <point type="line" x="456" y="265" />
-      <point type="line" x="464" y="265" />
-      <point x="467" y="336" />
-      <point x="505" y="380" />
+      <point type="line" x="464" y="251" />
+      <point x="464" y="329" />
+      <point x="503" y="380" />
       <point type="curve" x="568" y="380" />
       <point x="614" y="380" />
       <point x="650" y="352" />

@@ -26,12 +26,6 @@
       <point x="20" y="367" type="line"/>
     </contour>
     <contour>
-      <point x="552" y="559" type="line"/>
-      <point x="852" y="559" type="line"/>
-      <point x="852" y="671" type="line"/>
-      <point x="552" y="671" type="line"/>
-    </contour>
-    <contour>
       <point x="668" y="354" type="line"/>
       <point x="622" y="416"/>
       <point x="567" y="468"/>

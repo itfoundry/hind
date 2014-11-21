@@ -37,30 +37,30 @@
       <point type="line" x="451" y="381" />
       <point type="line" x="451" y="0" />
       <point type="line" x="529" y="0" />
-      <point type="line" x="529" y="271" />
-      <point x="529" y="335" />
-      <point x="588" y="381" />
-      <point type="curve" x="650" y="381" />
-      <point x="727" y="381" />
-      <point x="786" y="326" />
-      <point type="curve" x="786" y="237" />
-      <point x="786" y="136" />
-      <point x="733" y="87" />
-      <point type="curve" x="657" y="87" />
-      <point x="650" y="87" />
-      <point x="639" y="88" />
-      <point type="curve" x="633" y="89" />
-      <point type="line" x="633" y="22" />
-      <point x="639" y="20" />
-      <point x="652" y="19" />
-      <point type="curve" x="660" y="19" />
-      <point x="778" y="19" />
-      <point x="865" y="105" />
-      <point type="curve" x="865" y="238" />
-      <point x="865" y="355" />
-      <point x="783" y="445" />
-      <point type="curve" x="659" y="445" />
-      <point x="605" y="445" />
+      <point type="line" x="529" y="267" />
+      <point x="529" y="333" />
+      <point x="583" y="381" />
+      <point type="curve" x="651" y="381" />
+      <point x="739" y="381" />
+      <point x="783" y="306" />
+      <point type="curve" x="783" y="225" />
+      <point x="783" y="129" />
+      <point x="735" y="69" />
+      <point type="curve" x="658" y="69" />
+      <point x="646" y="69" />
+      <point x="630" y="70" />
+      <point type="curve" x="618" y="74" />
+      <point type="line" x="618" y="7" />
+      <point x="630" y="4" />
+      <point x="648" y="2" />
+      <point type="curve" x="663" y="2" />
+      <point x="783" y="2" />
+      <point x="864" y="91" />
+      <point type="curve" x="864" y="225" />
+      <point x="864" y="351" />
+      <point x="789" y="445" />
+      <point type="curve" x="656" y="445" />
+      <point x="604" y="445" />
       <point x="559" y="427" />
       <point type="curve" x="529" y="396" />
       <point type="line" x="529" y="575" />

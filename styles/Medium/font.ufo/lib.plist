@@ -294,6 +294,7 @@
 		<string>dvSS_TTH_YA</string>
 		<string>dvCH_YA</string>
 		<string>dvK_SS_M_YA</string>
+		<string>dvM_YA</string>
 		<string>dvK_S_P_RA</string>
 		<string>dvK_S_P_LA</string>
 		<string>dvN_S_M_YA</string>
@@ -316,9 +317,11 @@
 		<string>dvC_CH_VA</string>
 		<string>dvJ_J_NYA</string>
 		<string>dvJ_J_YA</string>
+		<string>dvJ_YA</string>
 		<string>dvJ_J_VA</string>
 		<string>dvJ_NY_YA</string>
 		<string>dvT_K_YA</string>
+		<string>dvK_YA</string>
 		<string>dvT_K_RA</string>
 		<string>dvT_K_VA</string>
 		<string>dvT_K_SSA</string>
@@ -332,8 +335,10 @@
 		<string>dvT_R_YA</string>
 		<string>dvT_S_NA</string>
 		<string>dvT_S_YA</string>
+		<string>dvS_YA</string>
 		<string>dvT_S_VA</string>
 		<string>dvN_K_SA</string>
+		<string>dvK_SA</string>
 		<string>dvN_T_YA</string>
 		<string>dvN_T_RA</string>
 		<string>dvN_T_SA</string>
@@ -387,10 +392,8 @@
 		<string>dvK_PA</string>
 		<string>dvK_PHA</string>
 		<string>dvK_MA</string>
-		<string>dvK_YA</string>
 		<string>dvK_LA</string>
 		<string>dvK_SHA</string>
-		<string>dvK_SA</string>
 		<string>dvKH_KHA</string>
 		<string>dvKH_TA</string>
 		<string>dvKH_MA</string>
@@ -423,7 +426,6 @@
 		<string>dvJ_DA</string>
 		<string>dvJ_BA</string>
 		<string>dvJ_MA</string>
-		<string>dvJ_YA</string>
 		<string>dvJ_VA</string>
 		<string>dvJH_MA</string>
 		<string>dvJH_YA</string>
@@ -506,7 +508,6 @@
 		<string>dvM_BA</string>
 		<string>dvM_BHA</string>
 		<string>dvM_MA</string>
-		<string>dvM_YA</string>
 		<string>dvM_LA</string>
 		<string>dvM_VA</string>
 		<string>dvM_SHA</string>
@@ -566,7 +567,6 @@
 		<string>dvS_PHA</string>
 		<string>dvS_BA</string>
 		<string>dvS_MA</string>
-		<string>dvS_YA</string>
 		<string>dvS_LA</string>
 		<string>dvS_VA</string>
 		<string>dvS_SA</string>
@@ -977,12 +977,37 @@
 		<string>fi</string>
 		<string>fl</string>
 		<string>Delta.math</string>
-		<string>ff</string>
-		<string>ffi</string>
-		<string>ffl</string>
+		<string>f_f</string>
+		<string>f_f_i</string>
+		<string>f_f_l</string>
 		<string>zerowidthspace</string>
 		<string>apostrophemod</string>
 		<string>dvmEcandra_Anusvara</string>
+		<string>dvAcandra</string>
+		<string>dvL_RA</string>
+		<string>dvmvRR</string>
+		<string>dvNG_R</string>
+		<string>dvCH_R</string>
+		<string>dvL_R</string>
+		<string>dvSH_R</string>
+		<string>dvLL_RA</string>
+		<string>rupee</string>
+		<string>dvSS_RA</string>
+		<string>dvSS_R</string>
+		<string>dvH_R</string>
+		<string>dvLL_R</string>
+		<string>dvTTH_VA</string>
+		<string>dvDDH_VA</string>
+		<string>onequarter</string>
+		<string>onehalf</string>
+		<string>threequarters</string>
+		<string>turkishlira</string>
+		<string>ruble</string>
+		<string>estimated</string>
+		<string>integral</string>
+		<string>dvmvL</string>
+		<string>dvmvLL</string>
+		<string>litre</string>
 	</array>
 </dict>
 </plist>

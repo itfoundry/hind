@@ -37,31 +37,31 @@
       <point type="line" x="454" y="386" />
       <point type="line" x="454" y="0" />
       <point type="line" x="515" y="0" />
-      <point type="line" x="515" y="275" />
-      <point x="515" y="339" />
-      <point x="580" y="386" />
-      <point type="curve" x="645" y="386" />
-      <point x="726" y="386" />
-      <point x="790" y="326" />
-      <point type="curve" x="790" y="231" />
-      <point x="790" y="122" />
-      <point x="732" y="70" />
-      <point type="curve" x="650" y="70" />
-      <point x="643" y="70" />
-      <point x="634" y="71" />
-      <point type="curve" x="629" y="72" />
-      <point type="line" x="629" y="18" />
-      <point x="634" y="16" />
-      <point x="643" y="15" />
-      <point type="curve" x="652" y="15" />
-      <point x="766" y="15" />
-      <point x="852" y="102" />
-      <point type="curve" x="852" y="231" />
-      <point x="852" y="346" />
+      <point type="line" x="515" y="270" />
+      <point x="515" y="337" />
+      <point x="574" y="386" />
+      <point type="curve" x="643" y="386" />
+      <point x="736" y="386" />
+      <point x="783" y="307" />
+      <point type="curve" x="783" y="222" />
+      <point x="783" y="120" />
+      <point x="729" y="57" />
+      <point type="curve" x="650" y="57" />
+      <point x="636" y="57" />
+      <point x="619" y="58" />
+      <point type="curve" x="605" y="62" />
+      <point type="line" x="605" y="8" />
+      <point x="617" y="4" />
+      <point x="636" y="2" />
+      <point type="curve" x="652" y="2" />
+      <point x="767" y="2" />
+      <point x="848" y="89" />
+      <point type="curve" x="848" y="221" />
+      <point x="848" y="349" />
       <point x="771" y="438" />
-      <point type="curve" x="649" y="438" />
-      <point x="595" y="438" />
-      <point x="546" y="420" />
+      <point type="curve" x="643" y="438" />
+      <point x="594" y="438" />
+      <point x="545" y="420" />
       <point type="curve" x="515" y="386" />
       <point type="line" x="515" y="579" />
     </contour>

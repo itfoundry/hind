@@ -2,7 +2,46 @@
 <glyph name="dvB_SA" format="1">
   <advance width="1068"/>
   <outline>
-    <component base="dvSA" xOffset="404"/>
-    <component base="dvB"/>
+    <contour>
+      <point x="279" y="77" type="curve" smooth="yes"/>
+      <point x="414" y="77"/>
+      <point x="511" y="150"/>
+      <point x="522" y="274" type="curve"/>
+      <point x="435" y="313" type="line"/>
+      <point x="435" y="226"/>
+      <point x="384" y="169"/>
+      <point x="289" y="169" type="curve"/>
+      <point x="214" y="169"/>
+      <point x="160" y="216"/>
+      <point x="160" y="287" type="curve" smooth="yes"/>
+      <point x="160" y="360"/>
+      <point x="207" y="405"/>
+      <point x="279" y="405" type="curve" smooth="yes"/>
+      <point x="301" y="405"/>
+      <point x="328" y="402"/>
+      <point x="351" y="394" type="curve"/>
+      <point x="351" y="496" type="line"/>
+      <point x="328" y="502"/>
+      <point x="297" y="505"/>
+      <point x="270" y="505" type="curve" smooth="yes"/>
+      <point x="132" y="505"/>
+      <point x="43" y="412"/>
+      <point x="43" y="290" type="curve" smooth="yes"/>
+      <point x="43" y="161"/>
+      <point x="147" y="77"/>
+    </contour>
+    <contour>
+      <point x="422" y="565" type="line"/>
+      <point x="422" y="660" type="line"/>
+      <point x="-27" y="660" type="line"/>
+      <point x="-27" y="565" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="195" type="line"/>
+      <point x="156" y="456" type="line"/>
+      <point x="121" y="410" type="line"/>
+      <point x="407" y="156" type="line"/>
+    </contour>
+    <component base="dvSA" xOffset="412"/>
   </outline>
 </glyph>

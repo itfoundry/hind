@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvN_S_TTA" format="1">
-  <advance width="1102"/>
+  <advance width="1160"/>
   <outline>
     <contour>
-      <point x="1014" y="642" type="move" name="abvm.candra"/>
+      <point x="1016" y="642" type="move" name="abvm.candra"/>
     </contour>
     <contour>
-      <point x="1014" y="642" type="move" name="abvm.e"/>
+      <point x="1016" y="642" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="1014" y="642" type="move" name="abvm.bindu"/>
+      <point x="1016" y="642" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="880" y="20" type="move" name="blwm.virama"/>
+      <point x="882" y="20" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="1014" y="642" type="move" name="abvm.reph"/>
+      <point x="1016" y="642" type="move" name="abvm.reph"/>
     </contour>
     <contour>
-      <point x="880" y="-13" type="move" name="blwm.u"/>
+      <point x="882" y="-13" type="move" name="blwm.u"/>
     </contour>
     <contour>
       <point x="-22" y="575" type="line"/>
-      <point x="520" y="575" type="line"/>
-      <point x="520" y="642" type="line"/>
+      <point x="599" y="575" type="line"/>
+      <point x="599" y="642" type="line"/>
       <point x="-22" y="642" type="line"/>
     </contour>
     <contour>
@@ -41,16 +41,16 @@
       <point x="109" y="317"/>
       <point x="117" y="329"/>
       <point x="141" y="329" type="curve" smooth="yes"/>
-      <point x="196" y="329" type="line" smooth="yes"/>
-      <point x="244" y="329"/>
-      <point x="265" y="315"/>
-      <point x="273" y="290" type="curve"/>
-      <point x="346" y="323" type="line"/>
-      <point x="330" y="348"/>
-      <point x="297" y="395"/>
-      <point x="202" y="395" type="curve" smooth="yes"/>
+      <point x="236" y="329" type="line" smooth="yes"/>
+      <point x="280" y="329"/>
+      <point x="303" y="310"/>
+      <point x="322" y="282" type="curve"/>
+      <point x="389" y="320" type="line"/>
+      <point x="363" y="357"/>
+      <point x="330" y="395"/>
+      <point x="243" y="395" type="curve" smooth="yes"/>
     </contour>
-    <component base="dvTTA" xOffset="607"/>
-    <component base="dvS" xOffset="245"/>
+    <component base="dvTTA" xOffset="665"/>
+    <component base="dvS" xOffset="294"/>
   </outline>
 </glyph>

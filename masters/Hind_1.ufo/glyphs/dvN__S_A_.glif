@@ -23,15 +23,15 @@
       <point x="158" y="308"/>
       <point x="169" y="316"/>
       <point x="192" y="316" type="curve" smooth="yes"/>
-      <point x="220" y="316" type="line" smooth="yes"/>
-      <point x="280" y="316"/>
-      <point x="304" y="295"/>
-      <point x="317" y="274" type="curve"/>
-      <point x="434" y="336" type="line"/>
-      <point x="434" y="336"/>
-      <point x="381" y="428"/>
-      <point x="234" y="428" type="curve" smooth="yes"/>
+      <point x="227" y="316" type="line" smooth="yes"/>
+      <point x="279" y="316"/>
+      <point x="305" y="297"/>
+      <point x="327" y="269" type="curve"/>
+      <point x="441" y="336" type="line"/>
+      <point x="391" y="394"/>
+      <point x="344" y="428"/>
+      <point x="241" y="428" type="curve" smooth="yes"/>
     </contour>
-    <component base="dvSA" xOffset="297"/>
+    <component base="dvSA" xOffset="307"/>
   </outline>
 </glyph>

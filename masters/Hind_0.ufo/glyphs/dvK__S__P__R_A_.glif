@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvK_S_P_RA" format="1">
-  <advance width="1472"/>
+  <advance width="1512"/>
   <outline>
     <contour>
       <point x="781" y="579" type="line"/>
@@ -43,22 +43,22 @@
       <point x="412" y="603" type="line"/>
     </contour>
     <contour>
-      <point x="711" y="338" type="line"/>
-      <point x="684" y="459"/>
-      <point x="580" y="477"/>
-      <point x="531" y="477" type="curve" smooth="yes"/>
-      <point x="459" y="477"/>
+      <point x="684" y="332" type="line"/>
+      <point x="671" y="414"/>
+      <point x="618" y="477"/>
+      <point x="521" y="477" type="curve" smooth="yes"/>
+      <point x="449" y="477"/>
       <point x="396" y="437"/>
       <point x="383" y="367" type="curve"/>
       <point x="412" y="314" type="line"/>
       <point x="412" y="378"/>
-      <point x="467" y="425"/>
-      <point x="527" y="425" type="curve" smooth="yes"/>
-      <point x="561" y="425"/>
-      <point x="627" y="417"/>
-      <point x="646" y="329" type="curve"/>
+      <point x="457" y="425"/>
+      <point x="517" y="425" type="curve" smooth="yes"/>
+      <point x="583" y="425"/>
+      <point x="620" y="372"/>
+      <point x="620" y="312" type="curve"/>
     </contour>
-    <component base="dvS" xOffset="550"/>
-    <component base="dvP_RA" xOffset="920"/>
+    <component base="dvS" xOffset="590"/>
+    <component base="dvP_RA" xOffset="960"/>
   </outline>
 </glyph>

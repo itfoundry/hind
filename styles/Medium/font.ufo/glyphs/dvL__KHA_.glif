@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvL_KHA" format="1">
-  <advance width="1322"/>
+  <advance width="1330"/>
   <outline>
     <contour>
       <point x="344" y="83" type="line"/>
@@ -19,21 +19,21 @@
       <point x="314" y="210" type="line"/>
       <point x="411" y="210" type="line"/>
       <point x="411" y="280" type="line" smooth="yes"/>
-      <point x="411" y="364"/>
-      <point x="443" y="399"/>
-      <point x="494" y="399" type="curve" smooth="yes"/>
-      <point x="539" y="399"/>
-      <point x="557" y="374"/>
-      <point x="557" y="334" type="curve"/>
-      <point x="649" y="341" type="line"/>
-      <point x="650" y="436"/>
-      <point x="571" y="477"/>
+      <point x="411" y="359"/>
+      <point x="439" y="399"/>
+      <point x="493" y="399" type="curve" smooth="yes"/>
+      <point x="546" y="399"/>
+      <point x="567" y="358"/>
+      <point x="567" y="306" type="curve"/>
+      <point x="656" y="317" type="line"/>
+      <point x="656" y="410"/>
+      <point x="595" y="477"/>
       <point x="501" y="477" type="curve" smooth="yes"/>
-      <point x="427" y="477"/>
-      <point x="380" y="445"/>
+      <point x="428" y="477"/>
+      <point x="377" y="439"/>
       <point x="363" y="380" type="curve"/>
-      <point x="351" y="435"/>
-      <point x="303" y="472"/>
+      <point x="349" y="439"/>
+      <point x="299" y="472"/>
       <point x="226" y="472" type="curve" smooth="yes"/>
       <point x="116" y="472"/>
       <point x="49" y="386"/>
@@ -51,6 +51,6 @@
       <point x="530" y="650" type="line"/>
       <point x="-24" y="650" type="line"/>
     </contour>
-    <component base="dvKHA" xOffset="524"/>
+    <component base="dvKHA" xOffset="535"/>
   </outline>
 </glyph>

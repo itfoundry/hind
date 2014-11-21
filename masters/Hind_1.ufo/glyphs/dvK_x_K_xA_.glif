@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvKx_KxA" format="1">
-  <advance width="1407"/>
+  <advance width="1369"/>
   <outline>
     <contour>
-      <point x="1073" y="671" type="move" name="abvm.bindu"/>
+      <point x="1035" y="671" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="931" y="0" type="move" name="blwm.u"/>
+      <point x="893" y="0" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="1073" y="671" type="move" name="abvm.candra"/>
+      <point x="1035" y="671" type="move" name="abvm.candra"/>
     </contour>
     <contour>
-      <point x="1073" y="671" type="move" name="abvm.reph"/>
+      <point x="1035" y="671" type="move" name="abvm.reph"/>
     </contour>
     <contour>
-      <point x="1073" y="671" type="move" name="abvm.e"/>
+      <point x="1035" y="671" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="931" y="0" type="move" name="blwm.virama"/>
+      <point x="893" y="0" type="move" name="blwm.virama"/>
     </contour>
     <component base="dvK"/>
-    <component base="dvNukta" xOffset="1058" yOffset="80"/>
-    <component base="dvKA" xOffset="598"/>
+    <component base="dvKA" xOffset="560"/>
     <component base="dvNukta" xOffset="460" yOffset="80"/>
+    <component base="dvNukta" xOffset="1020" yOffset="80"/>
   </outline>
 </glyph>

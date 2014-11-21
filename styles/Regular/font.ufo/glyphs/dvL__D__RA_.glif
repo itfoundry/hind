@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvL_D_RA" format="1">
-  <advance width="1025"/>
+  <advance width="1037"/>
   <outline>
     <contour>
-      <point x="927" y="642" type="move" name="abvm.candra"/>
+      <point x="939" y="642" type="move" name="abvm.candra"/>
     </contour>
     <contour>
-      <point x="927" y="642" type="move" name="abvm.e"/>
+      <point x="939" y="642" type="move" name="abvm.e"/>
     </contour>
     <contour>
-      <point x="927" y="642" type="move" name="abvm.bindu"/>
+      <point x="939" y="642" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="864" y="-10" type="move" name="blwm.virama"/>
+      <point x="876" y="-10" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="927" y="642" type="move" name="abvm.reph"/>
+      <point x="939" y="642" type="move" name="abvm.reph"/>
     </contour>
     <contour>
-      <point x="864" y="-10" type="move" name="blwm.u"/>
+      <point x="876" y="-10" type="move" name="blwm.u"/>
     </contour>
     <component base="dvL"/>
-    <component base="dvD_RA" xOffset="471"/>
+    <component base="dvD_RA" xOffset="482"/>
   </outline>
 </glyph>

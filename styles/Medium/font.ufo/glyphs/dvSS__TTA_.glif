@@ -21,8 +21,8 @@
       <point x="258" y="-58" type="move" name="blwm.u"/>
     </contour>
     <contour>
-      <point x="449" y="259" type="line"/>
-      <point x="449" y="339" type="line"/>
+      <point x="438" y="259" type="line"/>
+      <point x="436" y="339" type="line"/>
       <point x="277" y="339" type="line" smooth="yes"/>
       <point x="208" y="339"/>
       <point x="164" y="369"/>
@@ -60,8 +60,8 @@
       <point x="-24" y="570" type="line"/>
     </contour>
     <contour>
-      <point x="418" y="271" type="curve"/>
-      <point x="484" y="276" type="line"/>
+      <point x="420" y="259" type="curve"/>
+      <point x="484" y="259" type="line"/>
       <point x="484" y="602" type="line"/>
       <point x="387" y="602" type="line"/>
       <point x="387" y="493" type="line"/>

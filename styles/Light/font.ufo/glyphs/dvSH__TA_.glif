@@ -2,7 +2,42 @@
 <glyph name="dvSH_TA" format="1">
   <advance width="972"/>
   <outline>
-    <component base="dvTA" xOffset="390"/>
+    <contour>
+      <point x="821" y="391" type="line"/>
+      <point x="821" y="446" type="line"/>
+      <point x="699" y="446" type="line" smooth="yes"/>
+      <point x="538" y="446"/>
+      <point x="460" y="351"/>
+      <point x="460" y="225" type="curve" smooth="yes"/>
+      <point x="460" y="97"/>
+      <point x="540" y="0"/>
+      <point x="674" y="0" type="curve" smooth="yes"/>
+      <point x="685" y="0"/>
+      <point x="695" y="1"/>
+      <point x="701" y="2" type="curve"/>
+      <point x="701" y="56" type="line"/>
+      <point x="696" y="55"/>
+      <point x="684" y="54"/>
+      <point x="677" y="54" type="curve" smooth="yes"/>
+      <point x="572" y="54"/>
+      <point x="523" y="124"/>
+      <point x="523" y="224" type="curve" smooth="yes"/>
+      <point x="523" y="334"/>
+      <point x="586" y="391"/>
+      <point x="710" y="391" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="811" y="0" type="line"/>
+      <point x="872" y="0" type="line"/>
+      <point x="872" y="579" type="line"/>
+      <point x="811" y="579" type="line"/>
+    </contour>
+    <contour>
+      <point x="395" y="579" type="line"/>
+      <point x="992" y="579" type="line"/>
+      <point x="992" y="634" type="line"/>
+      <point x="395" y="634" type="line"/>
+    </contour>
     <component base="dvSH"/>
   </outline>
 </glyph>

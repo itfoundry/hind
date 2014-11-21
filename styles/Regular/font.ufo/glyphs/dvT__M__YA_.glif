@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvT_M_YA" format="1">
-  <advance width="1302"/>
+  <advance width="1298"/>
   <outline>
     <contour>
       <point x="510" y="384" type="line"/>
@@ -28,11 +28,10 @@
     </contour>
     <contour>
       <point x="-22" y="575" type="line"/>
-      <point x="610" y="575" type="line"/>
-      <point x="610" y="642" type="line"/>
+      <point x="565" y="575" type="line"/>
+      <point x="565" y="642" type="line"/>
       <point x="-22" y="642" type="line"/>
     </contour>
-    <component base="dvM" xOffset="348"/>
-    <component base="dvYA" xOffset="676"/>
+    <component base="dvM_YA" xOffset="351"/>
   </outline>
 </glyph>

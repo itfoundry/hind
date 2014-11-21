@@ -1,4 +1,4 @@
-# Created: Mon Nov 17 14:47:50 2014
+# Created: Fri Nov 21 15:16:10 2014
 # PS Name: Hind-SemiBold
 # MM Inst: None
 # exported from noApp
@@ -7,7 +7,7 @@
 @mGC_abvm.e_n79_660 = [dvmE dvmAI dvmE_Anusvara dvmE_Reph dvmE_Reph_Anusvara dvmAI_Anusvara dvmAI_Reph dvmAI_Reph_Anusvara];
 @mGC_abvm.reph_n79_660 = [dvReph dvReph_Anusvara];
 @mGC_blwm.u_n196_0 = [dvmU dvmUU];
-@mGC_blwm.virama_n196_0 = [dvmvR dvVirama dvRashtrasign];
+@mGC_blwm.virama_n196_0 = [dvmvR dvmvL dvmvLL dvVirama dvRashtrasign];
 
 markClass @mGC_abvm.candra_n79_660 <anchor -79 660> @MC_abvm.candra;
 markClass @mGC_abvm.e_n79_660 <anchor -79 660> @MC_abvm.e;

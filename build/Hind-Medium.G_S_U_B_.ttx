@@ -341,7 +341,7 @@
       </FeatureRecord>
     </FeatureList>
     <LookupList>
-      <!-- LookupCount=49 -->
+      <!-- LookupCount=50 -->
       <Lookup index="0">
         <!-- LookupType=6 -->
         <LookupFlag value="0"/>
@@ -1490,7 +1490,7 @@
       <Lookup index="13">
         <!-- LookupType=6 -->
         <LookupFlag value="0"/>
-        <!-- SubTableCount=26 -->
+        <!-- SubTableCount=27 -->
         <ChainContextSubst index="0" Format="3">
           <!-- BacktrackGlyphCount=0 -->
           <!-- InputGlyphCount=1 -->
@@ -1627,9 +1627,12 @@
             <Glyph value="dvB_RA"/>
             <Glyph value="dvM_RA"/>
             <Glyph value="dvV_RA"/>
+            <Glyph value="dvSS_RA"/>
             <Glyph value="dvH_RA"/>
             <Glyph value="dvGx_RA"/>
             <Glyph value="dvG_NA"/>
+            <Glyph value="dvTTH_VA"/>
+            <Glyph value="dvDDH_VA"/>
             <Glyph value="dvT_TA"/>
             <Glyph value="dvD_BA"/>
             <Glyph value="dvD_B_RA"/>
@@ -1730,6 +1733,7 @@
             <Glyph value="dvLA"/>
             <Glyph value="dvK_SSA"/>
             <Glyph value="dvNN_RA"/>
+            <Glyph value="dvL_RA"/>
             <Glyph value="dvS_RA"/>
             <Glyph value="dvD_MA"/>
             <Glyph value="dvN_TTA"/>
@@ -1755,6 +1759,7 @@
             <Glyph value="dvKHA"/>
             <Glyph value="dvKHxA"/>
             <Glyph value="dvKH_RA"/>
+            <Glyph value="dvLL_RA"/>
             <Glyph value="dvKHx_RA"/>
             <Glyph value="dvPHx_RA"/>
             <Glyph value="dvKH_NA"/>
@@ -1803,6 +1808,7 @@
             <Glyph value="dvP_PHA"/>
             <Glyph value="dvP_MA"/>
             <Glyph value="dvM_P_RA"/>
+            <Glyph value="dvM_BHA"/>
             <Glyph value="dvM_BH_RA"/>
             <Glyph value="dvM_MA"/>
             <Glyph value="dvM_HA"/>
@@ -1839,15 +1845,14 @@
             <Glyph value="dvN_SA"/>
             <Glyph value="dvP_VA"/>
             <Glyph value="dvB_DA"/>
-            <Glyph value="dvB_BH_RA"/>
             <Glyph value="dvBH_VA"/>
             <Glyph value="dvM_TA"/>
             <Glyph value="dvM_DA"/>
             <Glyph value="dvM_PA"/>
-            <Glyph value="dvM_BHA"/>
             <Glyph value="dvM_VA"/>
             <Glyph value="dvL_TTHA"/>
             <Glyph value="dvV_VA"/>
+            <Glyph value="dvSH_TTA"/>
             <Glyph value="dvSS_KA"/>
             <Glyph value="dvSS_K_RA"/>
             <Glyph value="dvSS_PA"/>
@@ -1883,7 +1888,7 @@
             <Glyph value="dvC_MA"/>
             <Glyph value="dvJ_KA"/>
             <Glyph value="dvJ_DA"/>
-            <Glyph value="dvNN_DDA"/>
+            <Glyph value="dvNN_TTA"/>
             <Glyph value="dvT_T_VA"/>
             <Glyph value="dvT_MA"/>
             <Glyph value="dvT_YA"/>
@@ -1893,6 +1898,7 @@
             <Glyph value="dvP_SA"/>
             <Glyph value="dvB_TA"/>
             <Glyph value="dvB_BHA"/>
+            <Glyph value="dvB_BH_RA"/>
             <Glyph value="dvB_VA"/>
             <Glyph value="dvBH_YA"/>
             <Glyph value="dvBH_R_YA"/>
@@ -1904,7 +1910,6 @@
             <Glyph value="dvV_YA"/>
             <Glyph value="dvSH_KA"/>
             <Glyph value="dvSH_KxA"/>
-            <Glyph value="dvSH_TTA"/>
             <Glyph value="dvSS_VA"/>
             <Glyph value="dvS_TA"/>
             <Glyph value="dvS_DA"/>
@@ -1912,6 +1917,7 @@
             <Glyph value="dvS_P_RA"/>
             <Glyph value="dvS_MA"/>
             <Glyph value="dvS_VA"/>
+            <Glyph value="dvS_SA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
@@ -1936,13 +1942,14 @@
             <Glyph value="dvC_CH_VA"/>
             <Glyph value="dvC_YA"/>
             <Glyph value="dvJ_TA"/>
+            <Glyph value="dvJ_BA"/>
             <Glyph value="dvJ_MA"/>
             <Glyph value="dvJ_YA"/>
             <Glyph value="dvJx_YA"/>
             <Glyph value="dvJ_VA"/>
             <Glyph value="dvNY_CHA"/>
             <Glyph value="dvTT_YA"/>
-            <Glyph value="dvNN_TTA"/>
+            <Glyph value="dvNN_DDA"/>
             <Glyph value="dvNN_DDHA"/>
             <Glyph value="dvT_T_YA"/>
             <Glyph value="dvT_THA"/>
@@ -1952,6 +1959,7 @@
             <Glyph value="dvDH_YA"/>
             <Glyph value="dvDH_VA"/>
             <Glyph value="dvB_JA"/>
+            <Glyph value="dvB_JxA"/>
             <Glyph value="dvB_DHA"/>
             <Glyph value="dvB_BA"/>
             <Glyph value="dvB_YA"/>
@@ -1961,15 +1969,13 @@
             <Glyph value="dvL_GA"/>
             <Glyph value="dvL_DDA"/>
             <Glyph value="dvL_DDHA"/>
-            <Glyph value="dvL_D_RA"/>
             <Glyph value="dvL_HA"/>
+            <Glyph value="dvSH_CHA"/>
             <Glyph value="dvSH_TA"/>
             <Glyph value="dvSH_MA"/>
             <Glyph value="dvSS_YA"/>
-            <Glyph value="dvS_JA"/>
             <Glyph value="dvS_BA"/>
             <Glyph value="dvS_YA"/>
-            <Glyph value="dvS_SA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
@@ -1993,7 +1999,6 @@
             <Glyph value="dvG_LA"/>
             <Glyph value="dvJ_JA"/>
             <Glyph value="dvJx_JxA"/>
-            <Glyph value="dvJ_BA"/>
             <Glyph value="dvDD_YA"/>
             <Glyph value="dvNN_MA"/>
             <Glyph value="dvNN_VA"/>
@@ -2001,20 +2006,20 @@
             <Glyph value="dvT_SA"/>
             <Glyph value="dvN_KA"/>
             <Glyph value="dvP_LA"/>
-            <Glyph value="dvB_JxA"/>
-            <Glyph value="dvB_SHA"/>
             <Glyph value="dvB_SA"/>
             <Glyph value="dvBH_LA"/>
             <Glyph value="dvM_LA"/>
             <Glyph value="dvL_TA"/>
             <Glyph value="dvL_DA"/>
+            <Glyph value="dvL_D_RA"/>
             <Glyph value="dvL_PA"/>
             <Glyph value="dvL_PHA"/>
             <Glyph value="dvL_BHA"/>
             <Glyph value="dvL_MA"/>
             <Glyph value="dvL_VA"/>
-            <Glyph value="dvSH_CHA"/>
             <Glyph value="dvSH_YA"/>
+            <Glyph value="dvSH_SHA"/>
+            <Glyph value="dvS_JA"/>
             <Glyph value="dvS_THA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
@@ -2037,7 +2042,6 @@
             <Glyph value="dvK_P_RA"/>
             <Glyph value="dvK_PHA"/>
             <Glyph value="dvKx_PHA"/>
-            <Glyph value="dvKx_PHxA"/>
             <Glyph value="dvK_MA"/>
             <Glyph value="dvKx_MA"/>
             <Glyph value="dvK_VA"/>
@@ -2056,13 +2060,13 @@
             <Glyph value="dvPH_TTA"/>
             <Glyph value="dvB_JHA"/>
             <Glyph value="dvB_LA"/>
+            <Glyph value="dvB_SHA"/>
             <Glyph value="dvL_JA"/>
             <Glyph value="dvL_JxA"/>
             <Glyph value="dvL_THA"/>
             <Glyph value="dvL_BA"/>
             <Glyph value="dvL_YA"/>
             <Glyph value="dvV_LA"/>
-            <Glyph value="dvSH_SHA"/>
             <Glyph value="dvSS_TT_YA"/>
             <Glyph value="dvSS_NNA"/>
             <Glyph value="dvS_LA"/>
@@ -2090,6 +2094,7 @@
             <Glyph value="dvKH_MA"/>
             <Glyph value="dvKHx_MA"/>
             <Glyph value="dvKH_YA"/>
+            <Glyph value="dvKHx_YA"/>
             <Glyph value="dvKH_VA"/>
             <Glyph value="dvKHx_VA"/>
             <Glyph value="dvJ_J_NYA"/>
@@ -2102,7 +2107,6 @@
             <Glyph value="dvT_KH_RA"/>
             <Glyph value="dvT_S_NA"/>
             <Glyph value="dvN_BH_YA"/>
-            <Glyph value="dvN_M_YA"/>
             <Glyph value="dvPH_TA"/>
             <Glyph value="dvPHx_TA"/>
             <Glyph value="dvPH_PA"/>
@@ -2110,6 +2114,7 @@
             <Glyph value="dvPHx_PHxA"/>
             <Glyph value="dvL_SA"/>
             <Glyph value="dvSS_TTH_YA"/>
+            <Glyph value="dvS_KHA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
@@ -2128,7 +2133,6 @@
             <Glyph value="dvK_THA"/>
             <Glyph value="dvK_SHA"/>
             <Glyph value="dvK_SA"/>
-            <Glyph value="dvKHx_YA"/>
             <Glyph value="dvG_N_YA"/>
             <Glyph value="dvG_BH_YA"/>
             <Glyph value="dvCH_YA"/>
@@ -2137,11 +2141,11 @@
             <Glyph value="dvN_T_YA"/>
             <Glyph value="dvN_DH_YA"/>
             <Glyph value="dvN_DH_VA"/>
+            <Glyph value="dvN_M_YA"/>
             <Glyph value="dvPH_JA"/>
             <Glyph value="dvPHx_JxA"/>
             <Glyph value="dvM_BH_VA"/>
             <Glyph value="dvL_LA"/>
-            <Glyph value="dvS_KHA"/>
             <Glyph value="dvLL_YA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
@@ -2159,15 +2163,14 @@
           <!-- LookAheadGlyphCount=1 -->
           <LookAheadCoverage index="0">
             <Glyph value="dvK_LA"/>
-            <Glyph value="dvKHx_SHA"/>
             <Glyph value="dvKHx_SA"/>
             <Glyph value="dvN_T_SA"/>
             <Glyph value="dvN_TH_VA"/>
-            <Glyph value="dvN_S_YA"/>
             <Glyph value="dvP_T_YA"/>
             <Glyph value="dvPH_YA"/>
             <Glyph value="dvPHx_SA"/>
             <Glyph value="dvM_BH_YA"/>
+            <Glyph value="dvSS_M_YA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
@@ -2184,18 +2187,20 @@
           <!-- LookAheadGlyphCount=1 -->
           <LookAheadCoverage index="0">
             <Glyph value="dvK_NNA"/>
+            <Glyph value="dvKx_PHxA"/>
             <Glyph value="dvKH_SHA"/>
+            <Glyph value="dvKHx_SHA"/>
             <Glyph value="dvG_DH_YA"/>
             <Glyph value="dvG_DH_VA"/>
+            <Glyph value="dvT_K_YA"/>
             <Glyph value="dvT_M_YA"/>
             <Glyph value="dvN_TH_YA"/>
+            <Glyph value="dvN_S_YA"/>
             <Glyph value="dvPH_LA"/>
             <Glyph value="dvPH_SHA"/>
             <Glyph value="dvM_B_YA"/>
             <Glyph value="dvL_KHA"/>
             <Glyph value="dvL_V_DDA"/>
-            <Glyph value="dvSS_M_YA"/>
-            <Glyph value="dvS_T_YA"/>
             <Glyph value="dvS_T_VA"/>
             <Glyph value="dvS_M_YA"/>
           </LookAheadCoverage>
@@ -2216,9 +2221,9 @@
             <Glyph value="dvK_KHA"/>
             <Glyph value="dvKH_KHA"/>
             <Glyph value="dvJ_J_VA"/>
-            <Glyph value="dvT_S_YA"/>
             <Glyph value="dvT_S_VA"/>
             <Glyph value="dvB_DH_VA"/>
+            <Glyph value="dvS_T_YA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
@@ -2234,11 +2239,10 @@
           </InputCoverage>
           <!-- LookAheadGlyphCount=1 -->
           <LookAheadCoverage index="0">
-            <Glyph value="dvK_T_YA"/>
-            <Glyph value="dvK_T_VA"/>
             <Glyph value="dvK_V_YA"/>
             <Glyph value="dvJ_J_YA"/>
             <Glyph value="dvT_P_LA"/>
+            <Glyph value="dvT_S_YA"/>
             <Glyph value="dvB_J_YA"/>
             <Glyph value="dvSS_NN_YA"/>
             <Glyph value="dvS_TH_YA"/>
@@ -2257,10 +2261,10 @@
           </InputCoverage>
           <!-- LookAheadGlyphCount=1 -->
           <LookAheadCoverage index="0">
+            <Glyph value="dvK_T_VA"/>
             <Glyph value="dvK_SS_M_YA"/>
             <Glyph value="dvT_K_VA"/>
             <Glyph value="dvN_K_SA"/>
-            <Glyph value="dvB_L_YA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
@@ -2276,10 +2280,8 @@
           </InputCoverage>
           <!-- LookAheadGlyphCount=1 -->
           <LookAheadCoverage index="0">
-            <Glyph value="dvK_S_P_RA"/>
-            <Glyph value="dvT_K_YA"/>
-            <Glyph value="dvN_S_M_YA"/>
-            <Glyph value="dvL_TH_YA"/>
+            <Glyph value="dvK_T_YA"/>
+            <Glyph value="dvB_L_YA"/>
             <Glyph value="dvS_K_VA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
@@ -2296,7 +2298,8 @@
           </InputCoverage>
           <!-- LookAheadGlyphCount=1 -->
           <LookAheadCoverage index="0">
-            <Glyph value="dvL_L_YA"/>
+            <Glyph value="dvK_S_P_RA"/>
+            <Glyph value="dvL_TH_YA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
@@ -2312,7 +2315,8 @@
           </InputCoverage>
           <!-- LookAheadGlyphCount=1 -->
           <LookAheadCoverage index="0">
-            <Glyph value="dvL_K_YA"/>
+            <Glyph value="dvN_S_M_YA"/>
+            <Glyph value="dvL_L_YA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
@@ -2328,12 +2332,28 @@
           </InputCoverage>
           <!-- LookAheadGlyphCount=1 -->
           <LookAheadCoverage index="0">
-            <Glyph value="dvK_S_P_LA"/>
+            <Glyph value="dvL_K_YA"/>
           </LookAheadCoverage>
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
             <LookupListIndex value="48"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+        <ChainContextSubst index="26" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0">
+            <Glyph value="dvmI"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0">
+            <Glyph value="dvK_S_P_LA"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="49"/>
           </SubstLookupRecord>
         </ChainContextSubst>
       </Lookup>
@@ -2483,10 +2503,13 @@
             <Glyph value="dvBH_RA"/>
             <Glyph value="dvM_RA"/>
             <Glyph value="dvY_RA"/>
+            <Glyph value="dvL_RA"/>
             <Glyph value="dvV_RA"/>
             <Glyph value="dvSH_RA"/>
+            <Glyph value="dvSS_RA"/>
             <Glyph value="dvS_RA"/>
             <Glyph value="dvH_RA"/>
+            <Glyph value="dvLL_RA"/>
             <Glyph value="dvKx_RA"/>
             <Glyph value="dvKHx_RA"/>
             <Glyph value="dvGx_RA"/>
@@ -2604,12 +2627,14 @@
             <Glyph value="dvTT_VA"/>
             <Glyph value="dvTTH_TTHA"/>
             <Glyph value="dvTTH_YA"/>
+            <Glyph value="dvTTH_VA"/>
             <Glyph value="dvDD_DDA"/>
             <Glyph value="dvDD_DDHA"/>
             <Glyph value="dvDD_YA"/>
             <Glyph value="dvDD_VA"/>
             <Glyph value="dvDDH_DDHA"/>
             <Glyph value="dvDDH_YA"/>
+            <Glyph value="dvDDH_VA"/>
             <Glyph value="dvNN_TTA"/>
             <Glyph value="dvNN_TTHA"/>
             <Glyph value="dvNN_DDA"/>
@@ -2913,7 +2938,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="48"/>
+            <LookupListIndex value="49"/>
           </SubstLookupRecord>
         </ChainContextSubst>
       </Lookup>
@@ -2992,7 +3017,7 @@
           <!-- SubstCount=1 -->
           <SubstLookupRecord index="0">
             <SequenceIndex value="0"/>
-            <LookupListIndex value="48"/>
+            <LookupListIndex value="49"/>
           </SubstLookupRecord>
         </ChainContextSubst>
       </Lookup>
@@ -3048,6 +3073,9 @@
         <!-- SubTableCount=1 -->
         <LigatureSubst index="0">
           <LigatureSet glyph="f">
+            <Ligature components="f,i" glyph="f_f_i"/>
+            <Ligature components="f,l" glyph="f_f_l"/>
+            <Ligature components="f" glyph="f_f"/>
             <Ligature components="i" glyph="fi"/>
             <Ligature components="l" glyph="fl"/>
           </LigatureSet>
@@ -3272,6 +3300,14 @@
         </SingleSubst>
       </Lookup>
       <Lookup index="48">
+        <!-- LookupType=1 -->
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0">
+          <Substitution in="dvmI" out="dvmI.a26"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="49">
         <!-- LookupType=1 -->
         <LookupFlag value="0"/>
         <!-- SubTableCount=1 -->

@@ -2,7 +2,37 @@
 <glyph name="dvN_BHA" format="1">
   <advance width="826"/>
   <outline>
-    <component base="dvBHA" xOffset="261"/>
+    <contour>
+      <point x="644" y="356" type="line"/>
+      <point x="460" y="356" type="line"/>
+      <point x="460" y="524" type="line" smooth="yes"/>
+      <point x="460" y="607"/>
+      <point x="425" y="650"/>
+      <point x="330" y="650" type="curve" smooth="yes"/>
+      <point x="262" y="650" type="line"/>
+      <point x="262" y="570" type="line"/>
+      <point x="312" y="570" type="line" smooth="yes"/>
+      <point x="353" y="570"/>
+      <point x="364" y="549"/>
+      <point x="364" y="509" type="curve"/>
+      <point x="364" y="352" type="line"/>
+      <point x="338" y="346"/>
+      <point x="320" y="323"/>
+      <point x="320" y="294" type="curve" smooth="yes"/>
+      <point x="320" y="269"/>
+      <point x="332" y="239"/>
+      <point x="347" y="205" type="curve" smooth="yes"/>
+      <point x="376" y="143" type="line"/>
+      <point x="460" y="143" type="line"/>
+      <point x="460" y="277" type="line"/>
+      <point x="644" y="277" type="line"/>
+      <point x="644" y="0" type="line"/>
+      <point x="739" y="0" type="line"/>
+      <point x="739" y="570" type="line"/>
+      <point x="850" y="570" type="line"/>
+      <point x="850" y="650" type="line"/>
+      <point x="644" y="650" type="line"/>
+    </contour>
     <component base="dvN"/>
   </outline>
 </glyph>

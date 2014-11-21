@@ -2,12 +2,6 @@
 <glyph name="dvKH_SHA" format="1">
   <advance width="1400"/>
   <outline>
-    <contour>
-      <point x="658" y="559" type="line"/>
-      <point x="658" y="671" type="line"/>
-      <point x="360" y="671" type="line"/>
-      <point x="360" y="559" type="line"/>
-    </contour>
     <component base="dvSHA" xOffset="680"/>
     <component base="dvKH"/>
   </outline>

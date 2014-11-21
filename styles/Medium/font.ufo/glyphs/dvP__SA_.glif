@@ -9,8 +9,8 @@
       <point x="-24" y="570" type="line"/>
     </contour>
     <contour>
-      <point x="393" y="328" type="line"/>
-      <point x="363" y="283"/>
+      <point x="380" y="322" type="line"/>
+      <point x="362" y="282"/>
       <point x="315" y="253"/>
       <point x="260" y="253" type="curve" smooth="yes"/>
       <point x="196" y="253"/>
@@ -22,10 +22,10 @@
       <point x="66" y="234"/>
       <point x="132" y="174"/>
       <point x="249" y="174" type="curve" smooth="yes"/>
-      <point x="340" y="174"/>
-      <point x="409" y="224"/>
-      <point x="448" y="284" type="curve"/>
+      <point x="333" y="174"/>
+      <point x="402" y="220"/>
+      <point x="434" y="278" type="curve"/>
     </contour>
-    <component base="dvSA" xOffset="319"/>
+    <component base="dvSA" xOffset="330"/>
   </outline>
 </glyph>

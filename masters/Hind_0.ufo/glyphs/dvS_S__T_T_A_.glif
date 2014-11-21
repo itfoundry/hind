@@ -21,8 +21,8 @@
       <point x="266" y="-5" type="move" name="blwm.virama"/>
     </contour>
     <contour>
-      <point x="456" y="277" type="line"/>
-      <point x="456" y="332" type="line"/>
+      <point x="435" y="277" type="line"/>
+      <point x="432" y="332" type="line"/>
       <point x="256" y="332" type="line" smooth="yes"/>
       <point x="179" y="332"/>
       <point x="141" y="369"/>
@@ -60,8 +60,8 @@
       <point x="-20" y="579" type="line"/>
     </contour>
     <contour>
-      <point x="404" y="297" type="curve"/>
-      <point x="456" y="307" type="line"/>
+      <point x="407" y="277" type="curve"/>
+      <point x="456" y="277" type="line"/>
       <point x="456" y="588" type="line"/>
       <point x="394" y="588" type="line"/>
       <point x="394" y="463" type="line"/>

@@ -6,14 +6,10 @@
       <point name="hintSet0000" type="line" x="685" y="650" />
       <point type="line" x="685" y="356" />
       <point type="line" x="501" y="356" />
-      <point type="line" x="501" y="528" />
-      <point x="501" y="610" />
-      <point x="464" y="655" />
-      <point type="curve" x="378" y="655" />
-      <point x="363" y="655" />
-      <point x="348" y="653" />
-      <point type="curve" x="334" y="649" />
-      <point type="line" x="334" y="650" />
+      <point type="line" x="501" y="524" />
+      <point x="501" y="607" />
+      <point x="466" y="650" />
+      <point type="curve" x="372" y="650" />
       <point type="line" x="-24" y="650" />
       <point type="line" x="-24" y="570" />
       <point type="line" x="143" y="570" />
@@ -32,19 +28,10 @@
       <point x="239" y="253" />
       <point type="curve" x="239" y="342" />
       <point type="line" x="239" y="570" />
-      <point type="line" x="304" y="570" />
-      <point type="line" x="304" y="560" />
-      <point x="311" y="564" />
-      <point x="320" y="568" />
-      <point type="curve" x="329" y="570" />
-      <point type="line" x="334" y="570" />
-      <point type="line" x="334" y="571" />
-      <point x="342" y="573" />
-      <point x="351" y="574" />
-      <point type="curve" x="359" y="574" />
-      <point x="393" y="574" />
-      <point x="405" y="554" />
-      <point type="curve" x="405" y="514" />
+      <point type="line" x="353" y="570" />
+      <point x="395" y="570" />
+      <point x="405" y="549" />
+      <point type="curve" x="405" y="509" />
       <point type="line" x="405" y="352" />
       <point x="379" y="346" />
       <point x="362" y="323" />

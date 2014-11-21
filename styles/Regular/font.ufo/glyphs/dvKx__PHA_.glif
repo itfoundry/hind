@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvKx_PHA" format="1">
-  <advance width="1327"/>
+  <advance width="1328"/>
   <outline>
     <contour>
       <point x="996" y="642" type="move" name="abvm.candra"/>
@@ -20,8 +20,8 @@
     <contour>
       <point x="917" y="0" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvPHA" xOffset="536"/>
-    <component base="dvK"/>
+    <component base="dvPHA" xOffset="537"/>
     <component base="dvNukta" xOffset="428" yOffset="88"/>
+    <component base="dvK"/>
   </outline>
 </glyph>

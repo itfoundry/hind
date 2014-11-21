@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvS_MA" format="1">
-  <advance width="921"/>
+  <advance width="929"/>
   <outline>
-    <component base="dvMA" xOffset="349"/>
+    <component base="dvMA" xOffset="357"/>
     <component base="dvS"/>
   </outline>
 </glyph>

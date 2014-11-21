@@ -14,14 +14,12 @@
       <point type="line" x="167" y="575" />
       <point type="line" x="393" y="575" />
       <point type="line" x="393" y="477" />
-      <point x="393" y="444" />
+      <point x="393" y="445" />
       <point x="395" y="413" />
       <point type="curve" x="398" y="385" />
     </contour>
     <contour>
-      <point type="line" x="455" y="269" />
-      <point type="line" x="455" y="290" />
-      <point type="line" x="471" y="292" />
+      <point type="line" x="471" y="269" />
       <point type="line" x="471" y="575" />
       <point type="line" x="570" y="575" />
       <point type="line" x="570" y="642" />

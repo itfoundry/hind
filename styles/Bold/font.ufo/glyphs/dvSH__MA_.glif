@@ -1,8 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvSH_MA" format="1">
-  <advance width="1085"/>
+  <advance width="1055"/>
   <outline>
+    <contour>
+      <point x="460" y="559" type="line"/>
+      <point x="550" y="559" type="line"/>
+      <point x="550" y="366" type="line"/>
+      <point x="521" y="358"/>
+      <point x="505" y="341"/>
+      <point x="505" y="311" type="curve" smooth="yes"/>
+      <point x="505" y="289"/>
+      <point x="515" y="262"/>
+      <point x="534" y="219" type="curve" smooth="yes"/>
+      <point x="570" y="139" type="line"/>
+      <point x="689" y="139" type="line"/>
+      <point x="689" y="261" type="line"/>
+      <point x="847" y="261" type="line"/>
+      <point x="847" y="0" type="line"/>
+      <point x="985" y="0" type="line"/>
+      <point x="985" y="559" type="line"/>
+      <point x="1085" y="559" type="line"/>
+      <point x="1085" y="671" type="line"/>
+      <point x="460" y="671" type="line"/>
+    </contour>
+    <contour>
+      <point x="847" y="559" type="line"/>
+      <point x="847" y="373" type="line"/>
+      <point x="689" y="373" type="line"/>
+      <point x="689" y="559" type="line"/>
+    </contour>
     <component base="dvSH"/>
-    <component base="dvMA" xOffset="500"/>
   </outline>
 </glyph>

@@ -1,8 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvSH_YA" format="1">
-  <advance width="1104"/>
+  <advance width="1090"/>
   <outline>
-    <component base="dvYA" xOffset="473"/>
+    <contour>
+      <point x="741" y="113" type="curve" smooth="yes"/>
+      <point x="810" y="113"/>
+      <point x="867" y="139"/>
+      <point x="894" y="179" type="curve"/>
+      <point x="894" y="0" type="line"/>
+      <point x="1011" y="0" type="line"/>
+      <point x="1011" y="565" type="line"/>
+      <point x="1117" y="565" type="line"/>
+      <point x="1117" y="660" type="line"/>
+      <point x="441" y="660" type="line"/>
+      <point x="441" y="565" type="line"/>
+      <point x="619" y="565" type="line"/>
+      <point x="637" y="546"/>
+      <point x="649" y="518"/>
+      <point x="649" y="482" type="curve" smooth="yes"/>
+      <point x="649" y="431"/>
+      <point x="600" y="389"/>
+      <point x="490" y="372" type="curve"/>
+      <point x="511" y="205"/>
+      <point x="616" y="113"/>
+    </contour>
+    <contour>
+      <point x="759" y="216" type="curve" smooth="yes"/>
+      <point x="689" y="216"/>
+      <point x="642" y="255"/>
+      <point x="627" y="311" type="curve"/>
+      <point x="699" y="334"/>
+      <point x="765" y="383"/>
+      <point x="765" y="477" type="curve" smooth="yes"/>
+      <point x="765" y="514"/>
+      <point x="755" y="546"/>
+      <point x="742" y="565" type="curve"/>
+      <point x="894" y="565" type="line"/>
+      <point x="894" y="352" type="line" smooth="yes"/>
+      <point x="894" y="262"/>
+      <point x="839" y="216"/>
+    </contour>
     <component base="dvSH"/>
   </outline>
 </glyph>

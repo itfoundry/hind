@@ -1,54 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvH" format="1">
-  <advance width="501"/>
+  <advance width="551"/>
   <outline>
-    <contour>
-      <point x="465" y="88" type="line"/>
-      <point x="383" y="70"/>
-      <point x="361" y="69"/>
-      <point x="327" y="69" type="curve" smooth="yes"/>
-      <point x="226" y="69"/>
-      <point x="191" y="104"/>
-      <point x="191" y="150" type="curve" smooth="yes"/>
-      <point x="191" y="190"/>
-      <point x="226" y="219"/>
-      <point x="296" y="219" type="curve" smooth="yes"/>
-      <point x="588" y="219" type="line"/>
-      <point x="588" y="331" type="line"/>
-      <point x="301" y="331" type="line" smooth="yes"/>
-      <point x="129" y="331"/>
-      <point x="49" y="244"/>
-      <point x="49" y="151" type="curve" smooth="yes"/>
-      <point x="49" y="57"/>
-      <point x="133" y="-44"/>
-      <point x="321" y="-44" type="curve" smooth="yes"/>
-      <point x="365" y="-44"/>
-      <point x="394" y="-42"/>
-      <point x="465" y="-27" type="curve"/>
-    </contour>
-    <contour>
-      <point x="234" y="316" type="line"/>
-      <point x="206" y="332"/>
-      <point x="191" y="353"/>
-      <point x="191" y="374" type="curve" smooth="yes"/>
-      <point x="191" y="392"/>
-      <point x="205" y="401"/>
-      <point x="228" y="401" type="curve" smooth="yes"/>
-      <point x="483" y="401" type="line"/>
-      <point x="483" y="559" type="line"/>
-      <point x="531" y="559" type="line"/>
-      <point x="531" y="671" type="line"/>
-      <point x="-30" y="671" type="line"/>
-      <point x="-30" y="559" type="line"/>
-      <point x="343" y="559" type="line"/>
-      <point x="343" y="511" type="line"/>
-      <point x="199" y="511" type="line" smooth="yes"/>
-      <point x="112" y="511"/>
-      <point x="45" y="471"/>
-      <point x="45" y="391" type="curve" smooth="yes"/>
-      <point x="45" y="305"/>
-      <point x="131" y="274"/>
-      <point x="131" y="274" type="curve"/>
-    </contour>
+    <component base="dvVirama" xOffset="450" yOffset="-44"/>
+    <component base="dvHA"/>
   </outline>
 </glyph>

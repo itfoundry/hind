@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dvK_DA" format="1">
-  <advance width="1096"/>
+  <advance width="1097"/>
   <outline>
     <contour>
       <point x="988" y="660" type="move" name="abvm.candra"/>
@@ -12,15 +12,15 @@
       <point x="988" y="660" type="move" name="abvm.bindu"/>
     </contour>
     <contour>
-      <point x="773" y="0" type="move" name="blwm.virama"/>
+      <point x="774" y="0" type="move" name="blwm.virama"/>
     </contour>
     <contour>
       <point x="988" y="660" type="move" name="abvm.reph"/>
     </contour>
     <contour>
-      <point x="773" y="-35" type="move" name="blwm.u"/>
+      <point x="774" y="-35" type="move" name="blwm.u"/>
     </contour>
-    <component base="dvDDA" xOffset="567"/>
+    <component base="dvDDA" xOffset="568"/>
     <component base="dvK"/>
   </outline>
 </glyph>
